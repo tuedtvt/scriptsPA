@@ -1,0 +1,47 @@
+1. CLM
+BL768/27.VN-A568.SGN
+DEAN WILLIAM STEVENSON (DWS)
+
+TAN HO MINH (HMT)
+
+HUONG2 NGUYEN THI LAN (NLH2)
+
+LY2 HOANG KHANH (HKL2)
+
+NGHIA4 LE TUAN (LTNG4)
+
+BINH1 PHAN THI (PTB1)
+
+TRAN3 VUONG THIEU (VTT3)
+
+----------------------------------------------------
+
+2. LDM
+BL768/27.VN-A568.SGN
+HAN 163/12/01 T/1290   1/0   2/0   3/600   4/690    5/0
+HAN  B/1290  C/00  M/00
+SI: 
+CPT01/N
+CPT03/B
+CPT04/B
+CPT05/N
+
+
+----------------------------------------------------
+
+3. MVT
+BL768/27.VN-A568.SGN
+AD 1405/1425 EA 1625 HAN
+C/L 1405
+PUSH 1412
+PAX 186
+TOF 9300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

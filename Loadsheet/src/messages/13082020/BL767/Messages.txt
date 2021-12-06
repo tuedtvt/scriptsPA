@@ -1,0 +1,46 @@
+1. CLM
+BL767/13.VN-A569.HAN
+HUNG NGUYEN PHI (NPH1)
+
+ANH HOANG NGOC (VNHNA)
+
+TRANG12 DO MANH (DMT12)
+
+HUONG7 LY MAI (LMH7)
+
+CONG1 LE THANH (LTC1)
+
+HAI1 NGUYEN TRUNG (NTH1)
+
+
+----------------------------------------------------
+
+2. LDM
+BL767/13.VN-A569.HAN
+SGN 171/15/01 T/2553   1/850   2/0   3/778   4/925    5/0
+SGN  B/825  C/1728  M/00
+SI: 
+*-* LDD INF *-*
+-H1/C
+-H3/C
+-H4/C/B
+-H5/NIL
+BRGDS-TUAN
+----------------------------------------------------
+
+3. MVT
+BL767/13.VN-A569.HAN
+AD 1410/1425 EA 1625 SGN
+C/L 1405
+PUSH 1410
+PAX 187
+TOF 10400
+DL: 940-0005
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

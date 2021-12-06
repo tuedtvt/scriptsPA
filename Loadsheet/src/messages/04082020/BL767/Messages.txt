@@ -1,0 +1,46 @@
+1. CLM
+BL767/04.VN-A568.HAN
+FRÉDÉRIC JEAN-CLAUDE JANKOWSKI (FJC)
+
+NHAN DAM KIEN (VNDKN)
+
+HIEN8 NGUYEN THANH (NTH8)
+
+QUYNH4 DO NHU (DNQ4)
+
+PHUNG3 LE QUANG (LQP3)
+
+LAI1 TRAN NGOC (TNL1)
+
+ANTONIO ERNESTO ALONSO ESCANDELL (AAE)
+
+----------------------------------------------------
+
+2. LDM
+BL767/04.VN-A568.HAN
+SGN 138/14/5 T/3081   1/1000   2/0   3/676   4/1005    5/400
+SGN  B/1005  C/2076  M/0
+SI: 
+H1/C
+H3/C
+H4/B
+H5/C
+BRGDS/DUNG
+----------------------------------------------------
+
+3. MVT
+BL767/04.VN-A568.HAN
+AD 1400/1410 EA 1600 SGN
+C/L 1353
+PUSH 1400
+PAX 157
+TOF 11400
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,46 @@
+1. CLM
+BL773/05.VN-A564.HAN
+HUNG NGUYEN PHI (NPH1)
+
+BRYAN KOH ZHENG YUAN (KZB)
+
+THUONG1 PHAM MINH (PMT1)
+
+HIEU4 NGUYEN TRONG (NGTH4)
+
+NAM5 NGUYEN PHUONG (NPN5)
+
+HUYEN6 VU THI MINH (VMH6)
+
+----------------------------------------------------
+
+2. LDM
+BL773/05.VN-A564.HAN
+SGN 127/15/3 T/1857   1/852   2/0   3/450   4/555    5/0
+SGN  B/1005  C/852  M/0
+SI: 
+***LDM INF***
+-CP1/C
+-CP3/B
+-CP4/B
+-CP5/NIL
+SI:
+BRGDS/DUONG
+----------------------------------------------------
+
+3. MVT
+BL773/05.VN-A564.HAN
+AD 1544/1600 EA 1758 SGN
+C/L 1540
+PUSH 1544
+PAX 145
+TOF 10700
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

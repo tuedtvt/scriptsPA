@@ -1,0 +1,42 @@
+1. CLM
+BL780/10.VN-A571.SGN
+BL780	VN6010
+VIEN TRAN THIEN (TVT)
+
+TUAN NGUYEN QUOC (NGQT)
+
+HUONG3 NGUYEN THU (NTH3)
+
+TRANG24 DUONG THI (DTT24)
+
+DAT4 NGUYEN HUU (NHD4)
+
+TRANG18 NGUYEN THUY (NTT18)
+
+
+----------------------------------------------------
+
+2. LDM
+BL780/10.VN-A571.SGN
+HAN 112/07/01 T/525   1/0   2/0   3/525   4/0    5/0
+HAN  B/525  C/0  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL780/10.VN-A571.SGN
+AD 1734/1755 EA 1955 HAN
+C/L 1734
+PUSH 1738
+PAX 120
+TOF 10100
+DL: 460/0024 THAY DOI TAU BAY(VNA567 KY THUAT)
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

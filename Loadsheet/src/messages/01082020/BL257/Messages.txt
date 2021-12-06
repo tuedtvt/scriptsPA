@@ -1,0 +1,44 @@
+1. CLM
+BL257/01.VN-A568.HAN
+HECTOR AUGUSTO MEUREHG AMENDOLLA (HEA)
+
+SON TRAN ANH (TAS)
+
+LINH11 PHAM THUY (PTL11)
+
+HUONG7 LY MAI (LMH7)
+
+VAN1 LE THANH (LTV1)
+
+TRUNG3 NGUYEN TIEN (NTT3)
+
+
+----------------------------------------------------
+
+2. LDM
+BL257/01.VN-A568.HAN
+PQC 91/11/0 T/945   1/0   2/0   3/300   4/645    5/0
+PQC  B/945  C/0  M/0
+SI: 
+CPT1/N
+CPT3/B
+CPT4/B
+CPT5/N
+----------------------------------------------------
+
+3. MVT
+BL257/01.VN-A568.HAN
+AD 0740/0750 EA 0950 PQC
+C/L 0735
+PUSH 0740
+PAX 102
+TOF 9000
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

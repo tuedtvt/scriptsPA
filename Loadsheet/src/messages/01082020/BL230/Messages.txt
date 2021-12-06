@@ -1,0 +1,44 @@
+1. CLM
+BL230/01.VN-A566.CXR
+BL230/01.VNA566.CXR
+CAPT  GIACOMO CORONESE (CGC)
+
+FO    NIRAJ ADHIKARI (NIA)
+
+CM    NGOC7 NGUYEN THE (NGTN7)
+
+CA    HANG10 DAM THI LE (DLH10)
+
+CA    NGHI1 LE NGUYEN THUC (LNTN1)
+
+CA    CUONG3 NGO CHI (NCC3)
+
+----------------------------------------------------
+
+2. LDM
+BL230/01.VN-A566.CXR
+HAN 141/24/3 T/1035   1/0   2/0   3/1035   4/0    5/0
+HAN  B/1035  C/0  M/0
+SI: 
+H1/N
+H3/B/69PCS
+H4/N
+H5/N
+----------------------------------------------------
+
+3. MVT
+BL230/01.VN-A566.CXR
+AD 1217/1230 EA 1410 HAN
+C/L 1215
+PUSH 1217
+PAX 168
+TOF 10460
+DL: 150/0010
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,47 @@
+1. CLM
+BL765/13.VN-A571.HAN
+DEAN WILLIAM STEVENSON (DWS)
+
+HUY NGUYEN QUANG (NQH)
+
+OBS: ANH CHU QUOC (CQA)
+
+HUE1 TRAN THI (TH1)
+
+TRINH2 HUYNH NGUYEN DOAN (HNDT2)
+
+MY7 LAM THI NGOC (LNM7)
+
+NGHIA2 LE TRONG (LTN2)
+
+
+----------------------------------------------------
+
+2. LDM
+BL765/13.VN-A571.HAN
+SGN 164/6/0 T/2413   1/776   2/0   3/985   4/652    5/0
+SGN  B/585  C/1828  M/0
+SI: 
+H1/C
+H3/C
+H4/C+B
+H5/NIL
+BRGDS/DUNG
+----------------------------------------------------
+
+3. MVT
+BL765/13.VN-A571.HAN
+AD 1130/1140 EA 1330 SGN
+C/L 1127
+PUSH 1130
+PAX 170
+TOF 10700
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

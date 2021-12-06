@@ -1,0 +1,46 @@
+1. CLM
+BL231/07.VN-A570.HAN
+KOKORO YONGOLE JANDA (JKY)
+
+BAO PHAM QUOC (PQB)
+
+NHUNG7 NGUYEN THI TUYET (NTN7)
+
+CHI2 DANG THI KIM (DKC2)
+
+VAN1 LE THANH (LTV1)
+
+CHINH8 NGUYEN VIET (NVC8)
+
+----------------------------------------------------
+
+2. LDM
+BL231/07.VN-A570.HAN
+CXR 39/1/0 T/240   1/0   2/0   3/240   4/0    5/0
+CXR  B/240  C/0  M/0
+SI: 
+***LDM INF***
+-CP1/N
+-CP3/B
+-CP4/N
+-CP5/NIL
+SI:
+BRGDS/DUONG
+----------------------------------------------------
+
+3. MVT
+BL231/07.VN-A570.HAN
+AD 0928/0935 EA 1106 CXR
+C/L 0925
+PUSH 0928
+PAX 41
+TOF 7500
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

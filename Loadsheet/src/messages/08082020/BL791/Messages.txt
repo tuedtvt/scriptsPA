@@ -1,0 +1,47 @@
+1. CLM
+BL791/08.VN-A566.HAN
+JORGE LUIS CELY SALAZAR (JLS)
+
+QUAN DO HONG (VNDQU)
+
+OBS: NGUYEN NGOC LONG
+ANH31 VU HOANG PHUONG (VPA31)
+
+HOANG5 LE KHANH (LKH5)
+
+TRINH4 LE THI TUONG (LTTT4)
+
+MY4 TRINH HAI (THM4)
+
+
+----------------------------------------------------
+
+2. LDM
+BL791/08.VN-A566.HAN
+SGN 140/12/02 T/2231   1/943   2/0   3/868   4/420    5/0
+SGN  B/420  C/1811  M/00
+SI: 
+*-* LDD INF *-*
+-H1/C
+-H3/C
+-H4/B
+-H5/NIL
+BRGDS-TUAN
+----------------------------------------------------
+
+3. MVT
+BL791/08.VN-A566.HAN
+AD 2028/2040 EA 2240 SGN
+C/L 2024
+PUSH 2028
+PAX 154
+TOF 9200
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

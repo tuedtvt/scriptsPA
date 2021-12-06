@@ -1,0 +1,40 @@
+1. CLM
+BL312/04.VN-A567.PQC
+ANH CHU QUOC (CQA)
+ HUY NGUYEN DANG (VNNDH)
+ THU VAN NGOC ANH (VNVNT)
+ DUC1 NGUYEN ANH (NAD1)
+ PHAT1 BUI QUANG (BQP1)
+ TRINH4 LE THI TUONG (LTTT4)
+ THAO6 LE THI XUAN (LXT6)
+
+----------------------------------------------------
+
+2. LDM
+BL312/04.VN-A567.PQC
+SGN 165/21/0 T/1113   1/0   2/0   3/800   4/313    5/0
+SGN  B/1113  C/00  M/00
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL312/04.VN-A567.PQC
+AD 1214/1230 EA 1310 SGN
+C/L 1213
+PUSH 1215
+PAX 186
+TOF 7900
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM
+BL312/04AUG SGN 
+NGO/THIMYNHANMS WCHR 2C 
+ENDPSM
+
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,47 @@
+1. CLM
+BL753/11.VN-A573.HAN
+THANG NGUYEN QUOC (NQT1)
+
+CUONG BUI MANH (BCU)
+
+NHUNG7 NGUYEN THI TUYET (NTN7)
+
+HUONG7 LY MAI (LMH7)
+
+GIANG3 PHAM THU (PTG3)
+
+KHANH3 TO NAM (TNK3)
+
+----------------------------------------------------
+
+2. LDM
+BL753/11.VN-A573.HAN
+SGN 104/9/1 T/2913   1/1300   2/0   3/923   4/690    5/0
+SGN  B/390  C/2523  M/0
+SI: 
+***LDM INF***
+-CP1/C
+-CP3/C
+-CP4/C+B
+-CP5/NIL
+SI:
+BRGDS/DUONG
+----------------------------------------------------
+
+3. MVT
+BL753/11.VN-A573.HAN
+AD 0540/0550 EA 0748 SGN
+C/L 0534
+PUSH 0540
+PAX 114
+TOF 9400
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL753/11.VN-A573.HAN
+AA 0725/0735

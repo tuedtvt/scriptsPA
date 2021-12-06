@@ -1,0 +1,46 @@
+1. CLM
+BL231/21.VN-A567.HAN
+NAM BUI HOANG TON (BHTN)
+
+KIEN DANG VU BAO (DVBK)
+
+TAM4 LE THANH (LTT4)
+
+LAM5 DO TUNG (DTL5)
+
+NAM5 NGUYEN PHUONG (NPN5)
+
+LAI1 TRAN NGOC (TNL1)
+
+
+----------------------------------------------------
+
+2. LDM
+BL231/21.VN-A567.HAN
+CXR 101/6/1 T/420   1/0   2/0   3/420   4/0    5/0
+CXR  B/420  C/0  M/0
+SI: 
+H1/NIL
+H3/B
+H4/NIL
+H5/NIL
+SI:
+D.HIEU
+----------------------------------------------------
+
+3. MVT
+BL231/21.VN-A567.HAN
+AD 0935/0945 EA 1115 CXR
+C/L 0930
+PUSH 0935
+PAX 108
+TOF 8800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

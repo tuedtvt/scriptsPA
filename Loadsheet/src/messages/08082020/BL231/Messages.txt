@@ -1,0 +1,45 @@
+1. CLM
+BL231/08.VN-A573.HAN
+CAMILO ANDRES TORRES ACOSTA (TAC)
+
+KEANI MÉLISSA AMARU (KAM)
+
+PHUONG6 NGUYEN QUYNH (NQP6)
+
+HUONG11 BUI THANH (BTH11)
+
+HAI1 NGUYEN TRUNG (NTH1)
+
+HAO2 PHAM THI MY (PMH2)
+
+
+----------------------------------------------------
+
+2. LDM
+BL231/08.VN-A573.HAN
+CXR 33/3/0 T/180   1/0   2/0   3/0   4/180    5/0
+CXR  B/180  C/0  M/0
+SI: 
+H1/NIL
+H3/NIL
+H4/B
+H5/NIL
+--
+----------------------------------------------------
+
+3. MVT
+BL231/08.VN-A573.HAN
+AD 0935/0945 EA 1115 CXR
+C/L 0930
+PUSH 0935
+PAX 36
+TOF 7300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

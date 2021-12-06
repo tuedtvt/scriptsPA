@@ -1,0 +1,46 @@
+1. CLM
+BL787/05.VN-A570.HAN
+ADAM LESLIE TRIGGS (ALT)
+
+TAN HO MINH (HMT)
+
+MINH1 VU DUC (VDM1)
+
+PHUONG9 DO THI KIM (DKP9)
+
+TRUNG3 NGUYEN TIEN (NTT3)
+
+HAO2 PHAM THI MY (PMH2)
+
+----------------------------------------------------
+
+2. LDM
+BL787/05.VN-A570.HAN
+SGN 115/14/5 T/1981   1/903   2/0   3/313   4/765    5/0
+SGN  B/765  C/1216  M/0
+SI: 
+***LDM INF***
+-CP1/C
+-CP3/C
+-CP4/B
+-CP5/NIL
+SI:
+BRGDS/DUONG
+----------------------------------------------------
+
+3. MVT
+BL787/05.VN-A570.HAN
+AD 1745/1755 EA 1953 SGN
+C/L 1735
+PUSH 1745
+PAX 134
+TOF 10800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

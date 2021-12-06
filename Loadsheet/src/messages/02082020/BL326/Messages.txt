@@ -1,0 +1,46 @@
+1. CLM
+BL326/02.VN-A566.PQC
+HIEN8 NGUYEN THANH (NTH8)
+
+DIEN1 HOANG VAN (HVD1)
+
+CONG1 LE THANH (LTC1)
+
+TRANG17 PHAM THUY (PTT17)
+
+FRÉDÉRIC JEAN-CLAUDE
+JANKOWSKI (FJC)
+
+NHAN DAM KIEN (VNDKN)
+
+----------------------------------------------------
+
+2. LDM
+BL326/02.VN-A566.PQC
+SGN 151/31/1 T/871   1/0   2/0   3/871   4/0    5/0
+SGN  B/871  C/0  M/0
+SI: 
+01 BBSTRLL LDD H3
+----------------------------------------------------
+
+3. MVT
+BL326/02.VN-A566.PQC
+AD 2108/2128 EA 2208 SGN
+C/L 2107
+PUSH 2109
+PAX 183
+TOF 7700
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM
+BL326/02AUG PQC PART1
+-SGN
+NIL
+ENDPSM
+----------------------------------------------------
+
+5. MVA
+BL326/02.VN-A566.SGN
+AA 2214/2224

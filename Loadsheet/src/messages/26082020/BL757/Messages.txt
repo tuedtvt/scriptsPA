@@ -1,0 +1,49 @@
+1. CLM
+BL757/26.VN-A571.HAN
+TRIEU PHAM LAM HAI (VNPHT)
+
+HIEP NGUYEN MINH (VNNMH)
+
+TAM1 DANG QUANG (DQT1)
+
+BAO3 TRAN TON QUOC (TTQB3)
+
+NGOC9 NGUYEN THI KIM (NKN9)
+
+THANH13 PHAN DUY (PDT13)
+
+MY8 TRAN THI KIEU (TKM8)
+
+
+----------------------------------------------------
+
+2. LDM
+BL757/26.VN-A571.HAN
+SGN 169/6/1 T/2471   1/1030   2/0   3/841   4/600    5/0
+SGN  B/600  C/1871  M/0
+SI: 
+H1/SGN/C
+H3/SGN/C
+H4/SGN/B
+H5/NIL
+--
+BRGDS,
+BUIDUY
+----------------------------------------------------
+
+3. MVT
+BL757/26.VN-A571.HAN
+AD 1025/1036 EA 1156 SGN
+C/L 1017
+PUSH 1025
+PAX 176
+TOF 10300
+DL: 631/0005
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

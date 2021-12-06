@@ -1,0 +1,46 @@
+1. CLM
+BL765/02.VN-A571.HAN
+ADAM LESLIE TRIGGS (ALT)
+
+SIMONE TIBURZI (TIS)
+
+NHUNG7 NGUYEN THI TUYET (NTN7)
+
+CHI2 DANG THI KIM (DKC2)
+
+TOAN2 LE VAN (LVTO2)
+
+HUONG9 NGUYEN THANH THANH
+(NTH9)
+
+
+----------------------------------------------------
+
+2. LDM
+BL765/02.VN-A571.HAN
+SGN 125/10/03 T/1080   1/0   2/0   3/450   4/630    5/0
+SGN  B/1080  C/0  M/0
+SI: 
+H1/NIL
+H3/B
+H4/B
+H5/NIL
+
+----------------------------------------------------
+
+3. MVT
+BL765/02.VN-A571.HAN
+AD 1135/1155 EA 1345 SGN
+C/L 1125
+PUSH 1135
+PAX 138
+TOF 10900
+DL: 850/0005
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

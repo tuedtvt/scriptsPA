@@ -1,0 +1,47 @@
+1. CLM
+BL767/01.VN-A577.HAN
+TU HO ANH (VNHTU)
+
+QUANG NGUYEN THANH (VNNTQ)
+
+TOAN1 HUYNH QUOC (HQT1)
+
+GIANG4 LE THI CAM (LCG4)
+
+TUNG3 LE MINH (LMTU3)
+
+TUAN2 PHAM ANH (PAT2)
+
+
+----------------------------------------------------
+
+2. LDM
+BL767/01.VN-A577.HAN
+SGN 121/23/2 T/2217   1/1092   2/0   3/390   4/735    5/0
+SGN  B/1125  C/1092  M/0
+SI: 
+***LDM INF***
+-CP1/C
+-CP3/B
+-CP4/B
+-CP5/NIL
+SI:
+BRGDS/DUONG
+----------------------------------------------------
+
+3. MVT
+BL767/01.VN-A577.HAN
+AD 1408/1430 EA 1628 SGN
+C/L 1403
+PUSH 1408
+PAX 146
+TOF 10300
+DL: 823/03
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

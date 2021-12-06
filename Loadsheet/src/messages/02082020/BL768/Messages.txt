@@ -1,0 +1,47 @@
+1. CLM
+BL768/02.VN-A571.SGN
+QUYET DINH HUU (VNDHQ)
+
+HUAN LE CONG (LCH)
+
+NHUNG7 NGUYEN THI TUYET (NTN7)
+
+CHI2 DANG THI KIM (DKC2)
+
+TOAN2 LE VAN (LVTO2)
+
+HUONG9 NGUYEN THANH THANH
+(NTH9)
+
+
+----------------------------------------------------
+
+2. LDM
+BL768/02.VN-A571.SGN
+HAN 106/17/02 T/825   1/0   2/0   3/825   4/0    5/0
+HAN  B/825  C/00  M/00
+SI: 
+CPT1/NIL
+CPT3/B
+CPT4/NIL
+CPT5/NIL
+HUNG2
+----------------------------------------------------
+
+3. MVT
+BL768/02.VN-A571.SGN
+AD 1420/1432 EA 1632 HAN
+C/L 1420
+PUSH 1421
+PAX 125
+TOF 1190
+DL: DL930/0010-TAU VE MUON
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL768/02.VN-A571.SGN
+AA 1620/1628

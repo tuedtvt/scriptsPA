@@ -1,0 +1,40 @@
+1. CLM
+BL326/05.VN-A564.PQC
+HUNG NGUYEN PHI (NPH1)
+ BRYAN KOH ZHENG YUAN (KZB)
+ THUONG1 PHAM MINH (PMT1)
+ HIEU4 NGUYEN TRONG (NGTH4)
+ NAM5 NGUYEN PHUONG (NPN5)
+ HUYEN6 VU THI MINH (VMH6)
+
+----------------------------------------------------
+
+2. LDM
+BL326/05.VN-A564.PQC
+SGN 132/27/5 T/736   1/0   2/0   3/736   4/0    5/0
+SGN  B/736  C/0  M/0
+SI: 
+01BP N 01BBYSTRL LDD H3
+----------------------------------------------------
+
+3. MVT
+BL326/05.VN-A564.PQC
+AD 2102/2113 EA 2153 SGN
+C/L 2101
+PUSH 2103
+PAX 164
+TOF 8300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM
+BL326/05AUG PQC PART1
+-SGN
+NIL
+ENDPSM
+----------------------------------------------------
+
+5. MVA
+BL326/05.VN-A564.PQC
+AA 2203/2213

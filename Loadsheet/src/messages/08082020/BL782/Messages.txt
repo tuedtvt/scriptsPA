@@ -1,0 +1,43 @@
+1. CLM
+BL782/08.VN-A567.SGN
+SAVVAS PATSOURIS (SPA)
+
+SON TRAN NHU (VNTNS)
+
+HIEN1 NGUYEN THI THU (NTHU1)
+
+HA7 DAO THI THU (DTH7)
+
+DAT4 NGUYEN HUU (NHD4)
+
+TRANG18 NGUYEN THUY (NTT18)
+
+----------------------------------------------------
+
+2. LDM
+BL782/08.VN-A567.SGN
+HAN 114/9/2 T/1990   1/885   2/0   3/715   4/390    5/0
+HAN  B/390  C/1600  M/0
+SI: 
+C1/C
+C3/C
+C4/B
+C5/N
+----------------------------------------------------
+
+3. MVT
+BL782/08.VN-A567.SGN
+AD 1950/2008 EA 2208 HAN
+C/L 1950
+PUSH 1957
+PAX 125
+TOF 9600
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

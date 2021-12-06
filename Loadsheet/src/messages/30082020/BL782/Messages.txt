@@ -1,0 +1,50 @@
+1. CLM
+BL782/30.VN-A572.SGN
+BL782/VN6022-VNA572-HAN
+ALBERTO JOSE ZARONE MORA (ZAA)
+
+THU VAN NGOC ANH (VNVNT)
+
+YEN HA THI HAI (HTHY)
+
+LY2 HOANG KHANH (HKL2)
+
+LAM2 HO TUNG (HTL2)
+
+LY8 NGUYEN PHUOC TON NU KHANH
+(NKL8)
+
+THAO3 NGUYEN PHUONG (NPT3)
+
+----------------------------------------------------
+
+2. LDM
+BL782/30.VN-A572.SGN
+HAN 168/08/02 T/2490   1/985   2/0   3/725   4/780    5/0
+HAN  B/780  C/1710  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B
+CPT05/N
+SI: N
+--BEST REGARDS/TÂM--
+----------------------------------------------------
+
+3. MVT
+BL782/30.VN-A572.SGN
+AD 1755/1815 EA 2015 HAN
+C/L 1755
+PUSH 1800
+PAX 178
+TOF 9700
+DL: NIL
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL782/30.VN-A572.SGN
+AA 2010/2017

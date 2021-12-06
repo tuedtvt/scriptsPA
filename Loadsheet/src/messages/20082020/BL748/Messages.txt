@@ -1,0 +1,45 @@
+1. CLM
+BL748/20.VN-A568.SGN
+BL748
+SAMUEL JOHN CHANDRA (SJC)
+
+KHOA LE TAN (VNLTK)
+
+VINH2 TRAN TIEN (TTV2)
+
+LINH12 DANG MAI (DML12)
+
+TRANG13 LIEN THANH (LTT13)
+
+TRANG27 MAI THI KIEU (MKT27)
+
+----------------------------------------------------
+
+2. LDM
+BL748/20.VN-A568.SGN
+HAN 79/08/02 T/2605   1/1125   2/0   3/800   4/320    5/360
+HAN  B/320  C/2485  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/C/B
+CPT05/C
+----------------------------------------------------
+
+3. MVT
+BL748/20.VN-A568.SGN
+AD 0553/0610 EA 0750 HAN
+C/L 0553
+PUSH 0555
+PAX 89
+TOF 8900
+DL: 00
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL748/20.VN-A568.SGN
+AA 0748/0754

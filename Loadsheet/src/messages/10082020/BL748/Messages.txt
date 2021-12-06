@@ -1,0 +1,46 @@
+1. CLM
+BL748/10.VN-A572.SGN
+THANG NGUYEN QUOC (NQT1)
+
+CUONG BUI MANH (BCU)
+
+THUY3 VU THI THANH (VTTT3)
+
+HANG10 DAM THI LE (DLH10)
+
+NHI3 DUONG NGOC (DNN3)
+
+CUONG3 NGO CHI (NCC3)
+
+----------------------------------------------------
+
+2. LDM
+BL748/10.VN-A572.SGN
+HAN 54/07/00 T/635   1/395   2/0   3/0   4/240    5/0
+HAN  B/240  C/395  M/00
+SI: 
+--CPT01/C	  
+--CPT03/N 
+--CPT04/B  
+--CPT05/N 
+
+REGARDS/QUANG
+----------------------------------------------------
+
+3. MVT
+BL748/10.VN-A572.SGN
+AD 0550/0610 EA 0810 HAN
+C/L 0550
+PUSH 0555
+PAX 61
+TOF 8880
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL748/10.VN-A572.SGN
+AA 0746/0753

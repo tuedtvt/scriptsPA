@@ -1,0 +1,45 @@
+1. CLM
+BL791/13.VN-A570.HAN
+TAN NGUYEN QUOC (VNNQT)
+
+HIEP NGUYEN MINH (VNNMH)
+
+OBS: NGUYEN PHU QUY
+HOA3 NGO THANH (NGTH3)
+
+LINH20 CAO THI KHANH (CKL20)
+
+BAO4 DUONG THAI (DTB4)
+
+HANG5 VU THI THUY (VTH5)
+
+
+----------------------------------------------------
+
+2. LDM
+BL791/13.VN-A570.HAN
+SGN 146/03/02 T/2328   1/1171   2/0   3/702   4/455    5/0
+SGN  B/255  C/2073  M/0
+SI: 
+CPT1/C
+CPT3/C
+CPT4/B+C
+CPT5/N
+----------------------------------------------------
+
+3. MVT
+BL791/13.VN-A570.HAN
+AD 2025/2040 EA 2220 SGN
+C/L 2020
+PUSH 2025
+PAX 151
+TOF 9600
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

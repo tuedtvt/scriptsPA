@@ -1,0 +1,48 @@
+1. CLM
+BL790/13.VN-A571.SGN
+BL790/VN6016-VNA571-HAN
+KOKORO YONGOLE JANDA (JKY)
+
+PATRICK VICTOR ALBERT VAN
+DAMME (PVV)
+
+TRANG12 DO MANH (DMT12)
+
+HUONG7 LY MAI (LMH7)
+
+CONG1 LE THANH (LTC1)
+
+HAI1 NGUYEN TRUNG (NTH1)
+
+----------------------------------------------------
+
+2. LDM
+BL790/13.VN-A571.SGN
+HAN 128/02/00 T/1415   1/815   2/0   3/435   4/165    5/0
+HAN  B/165  C/1250  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B
+CPT05/N
+SI: N
+--BEST REGARDS/TÂM--
+
+----------------------------------------------------
+
+3. MVT
+BL790/13.VN-A571.SGN
+AD 2115/2127 EA 2327 HAN
+C/L 2115
+PUSH 2116
+PAX 130
+TOF 9160
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

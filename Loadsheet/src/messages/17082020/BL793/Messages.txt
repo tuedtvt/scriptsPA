@@ -1,0 +1,45 @@
+1. CLM
+BL793/17.VN-A566.HAN
+SAVVAS PATSOURIS (SPA)
+
+CONG HOANG VIET (VNHVC)
+
+DUC1 NGUYEN ANH (NAD1)
+
+MINH2 LE NHUT (LNM2)
+
+DAT4 NGUYEN HUU (NHD4)
+
+ANH11 PHAM THUY (PTA11)
+
+----------------------------------------------------
+
+2. LDM
+BL793/17.VN-A566.HAN
+SGN 145/20/03 T/2667   1/890   2/0   3/759   4/618    5/400
+SGN  B/570  C/2097  M/0
+SI: 
+H1/C
+H3/C
+H4/C+B
+H5/C
+BRGS NGOC ANH
+----------------------------------------------------
+
+3. MVT
+BL793/17.VN-A566.HAN
+AD 2120/2130 EA 2320 SGN
+C/L 2019
+PUSH 2120
+PAX 168
+TOF 10400
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL793/17.VN-A566.HAN
+AA 2322/2332

@@ -1,0 +1,47 @@
+1. CLM
+BL755/22.VN-A577.HAN
+NAM BUI HOANG TON (BHTN)
+
+KIEN DANG VU BAO (DVBK)
+
+TAM4 LE THANH (LTT4)
+
+QUYNH4 DO NHU (DNQ4)
+
+LAM5 DO TUNG (DTL5)
+
+NAM5 NGUYEN PHUONG (NPN5)
+
+
+----------------------------------------------------
+
+2. LDM
+BL755/22.VN-A577.HAN
+SGN 139/13/1 T/3444   1/1255   2/0   3/986   4/780    5/423
+SGN  B/720  C/2724  M/0
+SI: 
+H1/SGN/C
+H3/SGN/C
+H4/SGN/C.SGN/B
+H5/SGN/C
+-- 
+BRGDS,
+BUIDUY
+----------------------------------------------------
+
+3. MVT
+BL755/22.VN-A577.HAN
+AD 0759/0810 EA 1000 SGN
+C/L 0757
+PUSH 0759
+PAX 153
+TOF 9800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

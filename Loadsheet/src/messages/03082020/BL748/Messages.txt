@@ -1,0 +1,46 @@
+1. CLM
+BL748/03.VN-A564.SGN
+BL748/VN6002-VNA564-HAN
+ADAM LESLIE TRIGGS (ALT)
+
+CUONG BUI MANH (BCU)
+
+BAO1 DANG QUOC (DQB1)
+
+THY2 DANG NGOC MAI (DNMT2)
+
+BANG1 NGUYEN HUU (NHB1)
+
+NHU3 NGUYEN THI HUYNH (NHN3)
+
+
+----------------------------------------------------
+
+2. LDM
+BL748/03.VN-A564.SGN
+HAN 94/16/3 T/720   1/300   2/0   3/0   4/420    5/0
+HAN  B/420  C/300  M/0
+SI: 
+CPT01/C
+CPT03/N
+CPT04/B
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL748/03.VN-A564.SGN
+AD 0550/0620 EA 0817 HAN
+C/L 0550
+PUSH 0600
+PAX 113
+TOF 10400
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL748/03.VN-A564.SGN
+AA 0750/0758

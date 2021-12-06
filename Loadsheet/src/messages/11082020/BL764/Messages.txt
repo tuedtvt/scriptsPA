@@ -1,0 +1,44 @@
+1. CLM
+BL764/11.VN-A569.SGN
+ROBERT ALAN LINDSAY (RAL)
+
+PHILIPPE TEHEINUI JULES CHAN YOU KE (PTC)
+
+AN4 DOAN TRUONG (DTA4)
+
+HAO4 HUA GIA (HGH4)
+
+TRINH4 LE THI TUONG (LTTT4)
+
+TAI2 TRUONG VAN (TVT2)
+
+----------------------------------------------------
+
+2. LDM
+BL764/11.VN-A569.SGN
+HAN 103/15/4 T/2545   1/1200   2/0   3/770   4/575    5/0
+HAN  B/375  C/2170  M/0
+SI: 
+CPT01/C
+CPT03/C
+CPT04/C+B
+CPT05/N
+
+----------------------------------------------------
+
+3. MVT
+BL764/11.VN-A569.SGN
+AD 1110/1125 EA 1321 HAN
+C/L 1110
+PUSH 1112
+PAX 122
+TOF 8500
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

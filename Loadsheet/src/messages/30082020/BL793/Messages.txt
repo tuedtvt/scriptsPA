@@ -1,0 +1,46 @@
+1. CLM
+BL793/30.VN-A572.HAN
+ALBERTO JOSE ZARONE MORA (ZAA)
+
+THU VAN NGOC ANH (VNVNT)
+
+YEN HA THI HAI (HTHY)
+
+LY2 HOANG KHANH (HKL2)
+
+LAM2 HO TUNG (HTL2)
+
+LY8 NGUYEN PHUOC TON NU KHANH (NKL8)
+
+THAO3 NGUYEN PHUONG (NPT3)
+
+
+----------------------------------------------------
+
+2. LDM
+BL793/30.VN-A572.HAN
+SGN 132/09/02 T/555   1/0   2/0   3/0   4/555    5/0
+SGN  B/555  C/00  M/00
+SI: 
+H1/NIL
+H3/NIL
+H4/B
+H5/NIL
+----------------------------------------------------
+
+3. MVT
+BL793/30.VN-A572.HAN
+AD 2120/2030 EA 2220 SGN
+C/L 2105
+PUSH 2120
+PAX 143
+TOF 9300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

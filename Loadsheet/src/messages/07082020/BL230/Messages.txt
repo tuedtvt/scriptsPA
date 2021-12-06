@@ -1,0 +1,47 @@
+1. CLM
+BL230/07.VN-A570.CXR
+CLM
+BL230/07.VNA570.CXR
+  1  CAPT  KOKORO YONGOLE JANDA (JKY)
+          
+  2  FO  BAO PHAM QUOC (PQB)
+          
+  3  CM  NHUNG7 NGUYEN THI TUYET (NTN7)
+          
+  4  CA  CHI2 DANG THI KIM (DKC2)
+          
+  5  CA  VAN1 LE THANH (LTV1)
+          
+  6  CA  CHINH8 NGUYEN VIET (NVC8)
+          
+End of Crew List
+----------------------------------------------------
+
+2. LDM
+BL230/07.VN-A570.CXR
+HAN 91/33/0 T/795   1/765   2/0   3/0   4/30    5/0
+HAN  B/795  C/0  M/0
+SI: 
+CPT1: BY/51PCS
+CPT3: NIL
+CPT4: BJ/02PCS
+CPT5: NIL
+----------------------------------------------------
+
+3. MVT
+BL230/07.VN-A570.CXR
+AD 1150/1201 EA 1340 HAN
+C/L 1149
+PUSH 1150
+PAX 124
+TOF 8100
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL230/07.VN-A570.CXR
+AA 1338/1344

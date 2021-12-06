@@ -1,0 +1,36 @@
+1. CLM
+BL320/23.VN-A572.PQC
+NAM BUI HOANG TON (BHTN)
+ KIEN DANG VU BAO (DVBK)
+ HAN1 HA GIA (HGH1)
+ CUONG3 NGO CHI (NCC3)
+ DINH1 NGO TRUONG NGOC (NTND1)
+ THANH13 PHAN DUY (PDT13)
+
+----------------------------------------------------
+
+2. LDM
+BL320/23.VN-A572.PQC
+SGN 150/21/1 T/652   1/0   2/0   3/652   4/0    5/0
+SGN  B/652  C/0  M/0
+SI: 
+05PRIO BAGS LDD H3
+----------------------------------------------------
+
+3. MVT
+BL320/23.VN-A572.PQC
+AD 1443/1448 EA 1533 SGN
+C/L 1443
+PUSH 1444
+PAX 172
+TOF 7800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL320/23.VN-A572.PQC
+AA 1531/1541

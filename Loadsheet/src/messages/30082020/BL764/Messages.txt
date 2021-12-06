@@ -1,0 +1,46 @@
+1. CLM
+BL764/30.VN-A564.SGN
+BL764  VNA564  VN6020
+TU HO ANH (VNHTU)
+
+SIMONE TIBURZI (TIS)
+
+CUONG1 NGUYEN HUNG (NCU1)
+
+BAO4 DUONG THAI (DTB4)
+
+TRANG27 MAI THI KIEU (MKT27)
+
+THAO13 NGUYEN THI PHUONG
+(NPT13)
+
+----------------------------------------------------
+
+2. LDM
+BL764/30.VN-A564.SGN
+HAN 177/09/03 T/1305   1/0   2/0   3/705   4/600    5/0
+HAN  B/1305  C/00  M/00
+SI: 
+CPT01/N
+CPT03/B
+CPT04/B
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL764/30.VN-A564.SGN
+AD 1110/1120 EA 1320 HAN
+C/L 1110
+PUSH 1112
+PAX 189
+TOF 10300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL764/30.VN-A564.SGN
+AA 1303/1309

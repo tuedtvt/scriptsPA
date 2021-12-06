@@ -1,0 +1,49 @@
+1. CLM
+BL571/20.VN-A567.THD
+BL571/VNA567-THD
+ARIEL ADRIAN CRUZ MENDOZA (ARC)
+
+TUAN NGUYEN QUOC (NGQT)
+
+TUAN1 LE QUOC (LQT1)
+
+HUONG3 NGUYEN THU (NTH3)
+
+HAO4 HUA GIA (HGH4)
+
+MINH2 LE NHUT (LNM2)
+
+THAO13 NGUYEN THI PHUONG
+(NPT13)
+
+----------------------------------------------------
+
+2. LDM
+BL571/20.VN-A567.THD
+SGN 145/31/06 T/2318   1/953   2/0   3/930   4/435    5/0
+SGN  B/1365  C/953  M/0
+SI: 
+H1/C
+H3/B
+H4/B
+H5/N
+
+----------------------------------------------------
+
+3. MVT
+BL571/20.VN-A567.THD
+AD 1531/1536 EA 1716 SGN
+C/L 1524
+PUSH 0000
+PAX 182
+TOF 7900
+DL: 360/930/0005/0006
+----------------------------------------------------
+
+4. PSM
+DO THI KINH 3A WCHR
+----------------------------------------------------
+
+5. MVA
+BL571/20.VN-A567.THD
+AA 1710/1720

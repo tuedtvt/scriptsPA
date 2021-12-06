@@ -1,0 +1,45 @@
+1. CLM
+BL765/17.VN-A572.HAN
+ANTONIO ERNESTO ALONSO
+ESCANDELL (AAE)
+
+TAI HUYNH HUU (HHT)
+
+HIEN8 NGUYEN THANH (NTH8)
+
+ANH41 DONG NAM (DNA41)
+
+TRAM4 KIEU ANH (KAT4)
+
+HUONG9 NGUYEN THANH THANH
+(NTH9)
+
+----------------------------------------------------
+
+2. LDM
+BL765/17.VN-A572.HAN
+SGN 169/17/05 T/2605   1/1040   2/0   3/570   4/995    5/0
+SGN  B/915  C/1690  M/0
+SI: 
+H1/C
+H3/C
+H4/C/B
+H5/NIL
+----------------------------------------------------
+
+3. MVT
+BL765/17.VN-A572.HAN
+AD 1130/1145 EA 1335 SGN
+C/L 1126
+PUSH 1130
+PAX 191
+TOF 10380
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

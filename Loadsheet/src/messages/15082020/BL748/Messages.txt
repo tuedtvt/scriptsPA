@@ -1,0 +1,46 @@
+1. CLM
+BL748/15.VN-A564.SGN
+BL748	VN6002
+HUY NGUYEN DANG (VNNDH)
+
+VINH LY THIEU (LTV)
+
+QUYEN1 PHAN THI HOANG (PHQ1)
+
+TRINH2 HUYNH NGUYEN DOAN
+(HNDT2)
+
+GIANG5 NGUYEN THI HUONG (NHG5)
+
+VI6 VU THI THAO (VTV6)
+
+----------------------------------------------------
+
+2. LDM
+BL748/15.VN-A564.SGN
+HAN 95/05/01 T/2715   1/1205   2/0   3/925   4/585    5/0
+HAN  B/210  C/2502  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B/C
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL748/15.VN-A564.SGN
+AD 0550/0605 EA 0805 HAN
+C/L 0550
+PUSH 0551
+PAX 101
+TOF 10400
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL748/15.VN-A564.SGN
+AA 0746/0753

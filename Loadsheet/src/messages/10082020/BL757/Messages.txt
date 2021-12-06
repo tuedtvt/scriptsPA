@@ -1,0 +1,45 @@
+1. CLM
+BL757/10.VN-A560.HAN
+WILLIAM RAUL GARCIA MUNOZ(WRM)
+
+NAM DANG HOAI (VNDHN)
+
+THUY3 VU THI THANH (VTTT3)
+
+HANG10 DAM THI LE (DLH10)
+
+NHI3 DUONG NGOC (DNN3)
+
+CUONG3 NGO CHI (NCC3)
+
+
+----------------------------------------------------
+
+2. LDM
+BL757/10.VN-A560.HAN
+SGN 141/13/2 T/1454   1/839   2/0   3/0   4/615    5/0
+SGN  B/615  C/839  M/0
+SI: 
+H1/C
+H3/NIL
+H4/B
+H5/NIL
+BRGDS/DUNG
+----------------------------------------------------
+
+3. MVT
+BL757/10.VN-A560.HAN
+AD 1022/1033 EA 1223 SGN
+C/L 1018
+PUSH 1022
+PAX 156
+TOF 11100
+DL: 460/0032
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

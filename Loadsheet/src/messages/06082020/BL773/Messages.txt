@@ -1,0 +1,44 @@
+1. CLM
+BL773/06.VN-A567.HAN
+ADAM LESLIE TRIGGS (ALT)
+
+TAN HO MINH (HMT)
+
+HIEU1 VU TRUNG (VTH1)
+
+CONG1 LE THANH (LTC1)
+
+NAM5 NGUYEN PHUONG (NPN5)
+
+TRANG17 PHAM THUY (PTT17)
+
+----------------------------------------------------
+
+2. LDM
+BL773/06.VN-A567.HAN
+SGN 147/14/04 T/2554   1/1029   2/0   3/675   4/720    5/130
+SGN  B/720  C/1834  M/0
+SI: 
+-CPT1/C
+-CPT3/C
+-CPT4/B
+-CPT5/C
+
+----------------------------------------------------
+
+3. MVT
+BL773/06.VN-A567.HAN
+AD 1545/1556 EA 1716 SGN
+C/L 1542
+PUSH 1545
+PAX 165
+TOF 10700
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

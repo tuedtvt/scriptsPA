@@ -1,0 +1,46 @@
+1. CLM
+BL757/11.VN-A560.HAN
+TRIEU PHAM LAM HAI (VNPHT)
+
+BRYAN KOH ZHENG YUAN (KZB)
+
+THUY3 VU THI THANH (VTTT3)
+
+TAN1 NGUYEN NHUT (NNT1)
+
+HANG5 VU THI THUY (VTH5)
+
+HOAN1 VO THANH (VTHO1)
+
+----------------------------------------------------
+
+2. LDM
+BL757/11.VN-A560.HAN
+SGN 104/12/1 T/2642   1/1154   2/0   3/715   4/773    5/0
+SGN  B/390  C/2252  M/0
+SI: 
+***LDM INF***
+-CP1/C
+-CP3/C
+-CP4/C+B
+-CP5/NIL
+SI:
+BRGDS/DUONG
+----------------------------------------------------
+
+3. MVT
+BL757/11.VN-A560.HAN
+AD 1000/1015 EA 1212 SGN
+C/L 0957
+PUSH 1000
+PAX 117
+TOF 11100
+DL: 410/10
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

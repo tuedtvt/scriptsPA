@@ -1,0 +1,36 @@
+1. CLM
+BL302/02.VN-A573.PQC
+TEHEINUI JULES CHAN YOU KE (PTC)
+ ANH35 NGUYEN QUOC (NQA35)
+ ANH27 LE THI PHUONG (LPA27)
+ TRANG13 LIEN THANH (LTT13)
+ ANH38 NGUYEN THI LAN (NLA38)
+ KEANI MÉLISSA AMARU (KAM)
+
+----------------------------------------------------
+
+2. LDM
+BL302/02.VN-A573.PQC
+SGN 135/21/2 T/757   1/0   2/0   3/757   4/0    5/0
+SGN  B/757  C/0  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL302/02.VN-A573.PQC
+AD 0715/0729 EA 0814 SGN
+C/L 0714
+PUSH 0716
+PAX 158
+TOF 7440
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL302/02.VN-A573.PQC
+AA 0812/0822

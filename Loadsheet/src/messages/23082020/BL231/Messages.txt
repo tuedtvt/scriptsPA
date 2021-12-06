@@ -1,0 +1,43 @@
+1. CLM
+BL231/23.VN-A565.HAN
+ PHUC NGUYEN DONG (VNNDP)
+
+ANH HOANG NGOC (VNHNA)
+
+TOAN1 HUYNH QUOC (HQT1)
+
+NHI3 DUONG NGOC (DNN3)
+
+TRAM3 HUYNH LE NGOC (HNT3)
+
+PHUNG2 NGUYEN VAN (NVP2)
+
+----------------------------------------------------
+
+2. LDM
+BL231/23.VN-A565.HAN
+CXR 132/24/01 T/1035   1/0   2/0   3/300   4/735    5/0
+CXR  B/1035  C/0  M/0
+SI: 
+H1/NIL
+H3/B
+H4/B
+H5/NIL
+----------------------------------------------------
+
+3. MVT
+BL231/23.VN-A565.HAN
+AD 0938/0950 EA 1020 CXR
+C/L 0932
+PUSH 0938
+PAX 157
+TOF 8000
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

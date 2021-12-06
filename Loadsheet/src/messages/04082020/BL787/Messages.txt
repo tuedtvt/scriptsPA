@@ -1,0 +1,45 @@
+1. CLM
+BL787/04.VN-A564.HAN
+BINH NGUYEN NGOC (NNB)
+
+BRYAN KOH ZHENG YUAN (KZB)
+
+BAO3 TRAN TON QUOC (TTQB3)
+
+NHI3 DUONG NGOC (DNN3)
+
+GIANG4 LE THI CAM (LCG4)
+
+NGHI1 LE NGUYEN THUC (LNTN1)
+
+
+----------------------------------------------------
+
+2. LDM
+BL787/04.VN-A564.HAN
+SGN 144/37/7 T/3240   1/1098   2/0   3/802   4/1230    5/110
+SGN  B/1230  C/2010  M/0
+SI: 
+H1/C
+H3/C
+H4/B
+H5/C
+BRGDS/DUNG
+----------------------------------------------------
+
+3. MVT
+BL787/04.VN-A564.HAN
+AD 1755/1802 EA 1952 SGN
+C/L 1748
+PUSH 1755
+PAX 188
+TOF 9800
+DL: 850/0005
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

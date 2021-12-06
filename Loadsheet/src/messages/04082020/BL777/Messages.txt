@@ -1,0 +1,47 @@
+1. CLM
+BL777/04.VN-A568.HAN
+ARIO TEJO CHRISTOFORUS (ART)
+
+QUAN DO HONG (VNDQU)
+
+NHAN HUYNH NGUYEN PHUC (HNPN)
+
+CUONG1 NGUYEN HUNG (NCU1)
+
+MINH2 LE NHUT (LNM2)
+
+NGHIA4 LE TUAN (LTNG4)
+
+XUAN1 NGUYEN PHUOC THANH
+(NTX1)
+
+----------------------------------------------------
+
+2. LDM
+BL777/04.VN-A568.HAN
+SGN 159/18/1 T/3486   1/1199   2/0   3/1042   4/900    5/345
+SGN  B/1545  C/1941  M/0
+SI: 
+H1/C
+H3/C+B
+H4/B
+H5/B
+BRGDS/DUNG
+----------------------------------------------------
+
+3. MVT
+BL777/04.VN-A568.HAN
+AD 2120/2132 EA 2322 SGN
+C/L 2115
+PUSH 2120
+PAX 178
+TOF 9400
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

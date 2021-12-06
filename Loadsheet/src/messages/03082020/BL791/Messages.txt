@@ -1,0 +1,43 @@
+1. CLM
+BL791/03.VN-A573.HAN
+ JORGE LUIS CELY SALAZAR (JLS)
+
+NY BUI HOANG TON (BHTNY)
+
+CUONG1 NGUYEN HUNG (NCU1)
+
+NAM6 HUYNH SON (HSN6)
+
+NGOC6 LE THI BICH (LBN6)
+
+DAT4 NGUYEN HUU (NHD4)
+
+----------------------------------------------------
+
+2. LDM
+BL791/03.VN-A573.HAN
+SGN 135/13/02 T/2589   1/972   2/0   3/677   4/840    5/100
+SGN  B/840  C/1749  M/0
+SI: 
+H1/C
+H3/C
+H4/B
+H5/C
+----------------------------------------------------
+
+3. MVT
+BL791/03.VN-A573.HAN
+AD 2030/2045 EA 2245 SGN
+C/L 2025
+PUSH 2030
+PAX 150
+TOF 9800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

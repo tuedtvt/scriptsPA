@@ -1,0 +1,45 @@
+1. CLM
+BL748/12.VN-A571.SGN
+BL748/VN6002-VNA571
+SAMUEL JOHN CHANDRA (SJC)
+
+HUY TA DUC (TDH)
+
+ANH3 NGUYEN VIET (NVA3)
+
+DUNG6 NGUYEN THUY (NTD6)
+
+THANH13 PHAN DUY (PDT13)
+
+PHONG1 TRAN THANH (TTP1)
+
+----------------------------------------------------
+
+2. LDM
+BL748/12.VN-A571.SGN
+HAN 96/03/00 T/1863   1/988   2/0   3/665   4/210    5/0
+HAN  B/210  C/1645  M/00
+SI: 
+--CPT01/C
+--CPT03/C
+--CPT04/B
+--CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL748/12.VN-A571.SGN
+AD 0549/0601 EA 0750 HAN
+C/L 0549
+PUSH 0551
+PAX 98
+TOF 9060
+DL: 00
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL748/12.VN-A571.SGN
+AA 0743/0748

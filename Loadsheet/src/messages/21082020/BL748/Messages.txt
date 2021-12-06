@@ -1,0 +1,48 @@
+1. CLM
+BL748/21.VN-A567.SGN
+BL748/VN6002-VNA567-HAN
+NAM BUI HOANG TON (BHTN)
+
+KIEN DANG VU BAO (DVBK)
+
+LIEM1 VU TIEN (VTL1)
+
+HOANG4 NGUYEN MINH (NMH4)
+
+YEN2 CAO HONG (CHY2)
+
+TRAM3 HUYNH LE NGOC (HNT3)
+
+QUI1 PHAN VAN (PVQ1)
+
+----------------------------------------------------
+
+2. LDM
+BL748/21.VN-A567.SGN
+HAN 126/03/00 T/2490   1/1210   2/0   3/710   4/570    5/0
+HAN  B/570  C/1920  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B
+CPT05/N
+
+----------------------------------------------------
+
+3. MVT
+BL748/21.VN-A567.SGN
+AD 0558/0610 EA 0755 HAN
+C/L 0558
+PUSH 0600
+PAX 129
+TOF 10200
+DL: 00
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL748/21.VN-A567.SGN
+AA 0745/0750

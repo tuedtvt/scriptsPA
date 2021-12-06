@@ -1,0 +1,46 @@
+1. CLM
+BL757/14.VN-A570.HAN
+TUAN VU ANH (VNVAT)
+
+TRAN LUNG VAY (LUVT)
+
+ANH22 BUI THI PHUONG (BPA22)
+
+HOA7 BUI THI XUAN (BXH7)
+
+THANG7 NGUYEN VAN (NVT7)
+
+BINH1 PHAN THI (PTB1)
+
+
+----------------------------------------------------
+
+2. LDM
+BL757/14.VN-A570.HAN
+SGN 164/07/00 T/3105   1/1200   2/0   3/960   4/645    5/300
+SGN  B/645  C/2460  M/00
+SI: 
+*-* LDD INF *-*
+-H1/C
+-H3/C
+-H4/B
+-H5/C
+BRGDS-TUAN
+----------------------------------------------------
+
+3. MVT
+BL757/14.VN-A570.HAN
+AD 0950/1000 EA 1200 SGN
+C/L 0947
+PUSH 0950
+PAX 171
+TOF 10500
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

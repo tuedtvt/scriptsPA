@@ -1,0 +1,44 @@
+1. CLM
+BL382/07.VN-A560.SGN
+MOEARII RALPH MATAPO (MRM)
+
+MANUEL HORST EWALD FINGER (FME)
+
+AN4 DOAN TRUONG (DTA4)
+
+ANH27 LE THI PHUONG (LPA27)
+
+LINH7 PHAN KIEU (PKL7)
+
+ANH11 PHAM THUY (PTA11)
+
+----------------------------------------------------
+
+2. LDM
+BL382/07.VN-A560.SGN
+CXR 137/8/2 T/495   1/0   2/0   3/495   4/0    5/0
+CXR  B/495  C/0  M/0
+SI: 
+CPT01/N
+CPT03/B
+CPT04/N
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL382/07.VN-A560.SGN
+AD 1005/1020 EA 1103 CXR
+C/L 1005
+PUSH 1008
+PAX 147
+TOF 5800
+DL: 840/0005-823/0010 XE BUS KET DUONG LAN TAU BAY,CAT KHACH THEO YEU CAU BL (4 PAX)
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL382/07.VN-A560.SGN
+AA 1105/1112

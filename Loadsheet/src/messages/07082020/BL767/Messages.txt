@@ -1,0 +1,44 @@
+1. CLM
+BL767/07.VN-A572.HAN
+JIN HANN GOH (HAG)
+
+HIEP NGUYEN MINH (VNNMH)
+
+HOA3 NGO THANH (NGTH3)
+
+VU1 DANG ANH (DAV1)
+
+TRAN6 NGUYEN LE BAO (NBT6)
+
+CUONG3 NGO CHI (NCC3)
+
+----------------------------------------------------
+
+2. LDM
+BL767/07.VN-A572.HAN
+SGN 116/07/03 T/2605   1/880   2/0   3/790   4/725    5/210
+SGN  B/390  C/2215  M/0
+SI: 
+H1/C
+H3/C
+H4/C+B
+H5/C
+BRGS NGOC ANH
+----------------------------------------------------
+
+3. MVT
+BL767/07.VN-A572.HAN
+AD 1420/1428 EA 1618 SGN
+C/L 1413
+PUSH 1420
+PAX 126
+TOF 10300
+DL: 930/410/0011/0004
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

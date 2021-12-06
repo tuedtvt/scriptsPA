@@ -1,0 +1,47 @@
+1. CLM
+BL773/24.VN-A568.HAN
+TRIEU PHAM LAM HAI (VNPHT)
+
+VINH LY THIEU (LTV)
+
+TAM4 LE THANH (LTT4)
+
+QUYNH4 DO NHU (DNQ4)
+
+CONG1 LE THANH (LTC1)
+
+NAM5 NGUYEN PHUONG (NPN5)
+
+
+----------------------------------------------------
+
+2. LDM
+BL773/24.VN-A568.HAN
+SGN 167/12/3 T/900   1/0   2/0   3/300   4/600    5/0
+SGN  B/900  C/0  M/0
+SI: 
+***LDM INF***
+-CP1/N
+-CP3/B
+-CP4/B
+-CP5/NIL
+SI:
+BRGDS/DUONG
+----------------------------------------------------
+
+3. MVT
+BL773/24.VN-A568.HAN
+AD 1550/1602 EA 1800 SGN
+C/L 1546
+PUSH 1550
+PAX 182
+TOF 10800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

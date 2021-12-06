@@ -1,0 +1,42 @@
+1. CLM
+BL556/27.VN-A564.SGN
+THAO1 PHAM PHUONG (PPT1)
+
+ MY7 LAM THI NGOC (LNM7)
+
+ ANH27 LE THI PHUONG (LPA27)
+
+ THAO6 LE THI XUAN (LXT6)
+
+JORGE ALEJANDRO PEÑA IRUN (PJA)
+
+ SON TRAN NHU (VNTNS)
+
+
+----------------------------------------------------
+
+2. LDM
+BL556/27.VN-A564.SGN
+VII 164/05/03 T/660   1/0   2/0   3/660   4/0    5/0
+VII  B/660  C/0  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL556/27.VN-A564.SGN
+AD 1600/1617 EA 1757 VII
+C/L 1600
+PUSH 1604
+PAX 172
+TOF 7700
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL556/27.VN-A564.SGN
+AA 1749/1754

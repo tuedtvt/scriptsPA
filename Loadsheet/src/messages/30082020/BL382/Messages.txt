@@ -1,0 +1,41 @@
+1. CLM
+BL382/30.VN-A570.SGN
+BL382    VNA570	VN6200
+ADRIAN STEFFAN CRESWELL LOWE
+(LOA1)
+
+BRYAN KOH ZHENG YUAN (KZB)
+
+TIEN NGUYEN DUNG (NDT)
+
+THAO1 PHAM PHUONG (PPT1)
+
+NGHIA4 LE TUAN (LTNG4)
+
+DAT4 NGUYEN HUU (NHD4)
+
+TRUC3 NGUYEN THI TAN (NTTT3)
+
+----------------------------------------------------
+
+2. LDM
+BL382/30.VN-A570.SGN
+CXR 155/17/08 T/930   1/0   2/0   3/930   4/0    5/0
+CXR  B/930  C/00  M/00
+SI: 
+CPT01/N
+CPT03/B
+CPT04/N
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+MVT not input.
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,44 @@
+1. CLM
+BL755/23.VN-A569.HAN
+ TAN NGUYEN QUOC (VNNQT)
+
+TAI HUYNH HUU (HHT)
+
+NHUNG7 NGUYEN THI TUYET (NTN7)
+
+ANH41 DONG NAM (DNA41)
+
+HAI1 NGUYEN TRUNG (NTH1)
+
+LAI1 TRAN NGOC (TNL1)
+
+OBS: LE CONG HUAN
+----------------------------------------------------
+
+2. LDM
+BL755/23.VN-A569.HAN
+SGN 124/04/02 T/3412   1/1308   2/0   3/700   4/1049    5/355
+SGN  B/765  C/2647  M/0
+SI: 
+H1/C
+H3/C
+H4/C/B
+H5/C
+----------------------------------------------------
+
+3. MVT
+BL755/23.VN-A569.HAN
+AD 0810/0825 EA 1020 SGN
+C/L 0807
+PUSH 0810
+PAX 130
+TOF 9400
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

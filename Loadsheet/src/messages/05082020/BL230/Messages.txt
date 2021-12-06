@@ -1,0 +1,47 @@
+1. CLM
+BL230/05.VN-A573.CXR
+CLM
+BL230/05.VN-A573.CXR
+  1  CAPT  JESUS MANUEL RIVERA (JMR)
+          
+  2  FO  NIRAJ ADHIKARI (NIA)
+          
+  3  CM  LIEN2 LE NGUYEN MY (LML2)
+          
+  4  CA  HA6 CHAU NGOC (CNH6)
+          
+  5  CA  HANG10 DAM THI LE (DLH10)
+          
+  6  CA  TUNG3 LE MINH (LMTU3)
+          
+End of Crew List
+----------------------------------------------------
+
+2. LDM
+BL230/05.VN-A573.CXR
+HAN 72/11/1 T/555   1/0   2/0   3/510   4/45    5/0
+HAN  B/555  C/0  M/0
+SI: 
+==LDD INF==
+CPT1/N
+CPT3/B/34PCS
+CPT4/BJ/03PCS
+CPT5/NIL
+----------------------------------------------------
+
+3. MVT
+BL230/05.VN-A573.CXR
+AD 1150/1202 EA 1340 HAN
+C/L 1147
+PUSH 1150
+PAX 84
+TOF 9800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

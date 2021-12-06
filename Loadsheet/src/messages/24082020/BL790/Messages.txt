@@ -1,0 +1,44 @@
+1. CLM
+BL790/24.VN-A571.SGN
+BL790	VN6016
+MAURIZIO RUSSO (MRR)
+
+TUAN DANG MINH (VNDMT)
+
+TAM4 LE THANH (LTT4)
+
+QUYNH4 DO NHU (DNQ4)
+
+CONG1 LE THANH (LTC1)
+
+NAM5 NGUYEN PHUONG (NPN5)
+
+----------------------------------------------------
+
+2. LDM
+BL790/24.VN-A571.SGN
+HAN 175/09/01 T/2915   1/1130   2/0   3/885   4/600    5/300
+HAN  B/600  C/2315  M/0
+SI: 
+C1/C
+C3/C
+C4/B
+C5/N
+----------------------------------------------------
+
+3. MVT
+BL790/24.VN-A571.SGN
+AD 2130/2148 EA 2348 HAN
+C/L 2130
+PUSH 2132
+PAX 185
+TOF 9900
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

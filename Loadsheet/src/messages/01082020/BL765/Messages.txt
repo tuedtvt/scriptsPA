@@ -1,0 +1,45 @@
+1. CLM
+BL765/01.VN-A570.HAN
+DANG NGUYEN XUAN (NXD1)
+
+MINH NGUYEN TUAN (NTM)
+
+BAO3 TRAN TON QUOC (TTQB3)
+
+QUYNH5 BUI NGUYEN PHUONG (BPQ5)
+
+BANG1 NGUYEN HUU (NHB1)
+
+THAO3 NGUYEN PHUONG (NPT3)
+
+
+----------------------------------------------------
+
+2. LDM
+BL765/01.VN-A570.HAN
+SGN 118/22/04 T/945   1/0   2/0   3/345   4/600    5/0
+SGN  B/945  C/0  M/0
+SI: 
+H1/NIL
+H3/B
+H4/B
+H5/NIL
+BRGDS TA
+----------------------------------------------------
+
+3. MVT
+BL765/01.VN-A570.HAN
+AD 1130/1145 EA 1335 SGN
+C/L 1125
+PUSH 1130
+PAX 144
+TOF 10800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

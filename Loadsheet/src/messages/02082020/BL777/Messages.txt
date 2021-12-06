@@ -1,0 +1,44 @@
+1. CLM
+BL777/02.VN-A569.HAN
+MAURIZIO RUSSO (MRR)
+
+SON TRAN NHU (VNTNS)
+
+HANG6 DO THI THU (DTH6)
+
+NGOC6 LE THI BICH (LBN6)
+
+TRUYEN1 NGUYEN THANH (NGTT1)
+
+HUYNH1 NGUYEN THI NHU (NNH1)
+
+----------------------------------------------------
+
+2. LDM
+BL777/02.VN-A569.HAN
+SGN 121/08/02 T/1839   1/800   2/0   3/289   4/750    5/0
+SGN  B/875  C/864  M/0
+SI: 
+-CPT1/C
+-CPT3/B+C
+-CPT4/B
+-CPT5/N
+----------------------------------------------------
+
+3. MVT
+BL777/02.VN-A569.HAN
+AD 2120/2140 EA 2320 SGN
+C/L 2115
+PUSH 2120
+PAX 131
+TOF 10800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL777/02.VN-A569.HAN
+AA 2323/2333

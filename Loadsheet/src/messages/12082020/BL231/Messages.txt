@@ -1,0 +1,44 @@
+1. CLM
+BL231/12.VN-A571.HAN
+JESUS MANUEL RIVERA (JMR)
+
+HUAN LE CONG (LCH)
+
+MINH1 VU DUC (VDM1)
+
+HAI1 NGUYEN TRUNG (NTH1)
+
+HUONG9 NGUYEN THANH THANH
+(NTH9)
+
+LAI1 TRAN NGOC (TNL1)
+
+----------------------------------------------------
+
+2. LDM
+BL231/12.VN-A571.HAN
+CXR 118/07/03 T/585   1/0   2/0   3/0   4/585    5/0
+CXR  B/585  C/0  M/0
+SI: 
+H1/NIL
+H3/NIL
+H4/B
+H5/NIL
+----------------------------------------------------
+
+3. MVT
+BL231/12.VN-A571.HAN
+AD 0935/0948 EA 1118 CXR
+C/L 0932
+PUSH 0935
+PAX 128
+TOF 8200
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

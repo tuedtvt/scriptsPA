@@ -1,0 +1,44 @@
+1. CLM
+BL767/09.VN-A566.HAN
+ANDRES MARCELO VINTIMILLA CRUZ
+(CRA)
+
+HIEP NGUYEN MINH (VNNMH)
+
+HOA3 NGO THANH (NGTH3)
+
+HA6 CHAU NGOC (CNH6)
+
+DUNG4 HANG HANH (HHD4)
+
+QUI1 PHAN VAN (PVQ1)
+
+----------------------------------------------------
+
+2. LDM
+BL767/09.VN-A566.HAN
+SGN 93/11/0 T/1908   1/808   2/0   3/470   4/630    5/0
+SGN  B/630  C/1278  M/0
+SI: 
+-CPT1/C
+-CPT3/C
+-CPT4/B
+-CPT5/N
+----------------------------------------------------
+
+3. MVT
+BL767/09.VN-A566.HAN
+AD 1420/1428 EA 1608 SGN
+C/L 1416
+PUSH 1420
+PAX 104
+TOF 10300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

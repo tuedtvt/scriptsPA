@@ -1,0 +1,44 @@
+1. CLM
+BL764/13.VN-A569.SGN
+BL764/VN6020-VNA569
+HUNG NGUYEN PHI (NPH1)
+
+ANH HOANG NGOC (VNHNA)
+
+HOA3 NGO THANH (NGTH3)
+
+LINH20 CAO THI KHANH (CKL20)
+
+BAO4 DUONG THAI (DTB4)
+
+HANG5 VU THI THUY (VTH5)
+
+----------------------------------------------------
+
+2. LDM
+BL764/13.VN-A569.SGN
+HAN 151/16/01 T/2125   1/910   2/0   3/735   4/480    5/0
+HAN  B/480  C/1645  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL764/13.VN-A569.SGN
+AD 1123/1140 EA 1315 HAN
+C/L 1123
+PUSH 1125
+PAX 168
+TOF 10400
+DL: 00
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

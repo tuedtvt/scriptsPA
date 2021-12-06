@@ -1,0 +1,46 @@
+1. CLM
+BL257/02.VN-A566.HAN
+HECTOR AUGUSTO MEUREHG
+AMENDOLLA (HEA)
+
+SON TRAN ANH (TAS)
+
+PHUONG6 NGUYEN QUYNH (NQP6)
+
+HIEU4 NGUYEN TRONG (NGTH4)
+
+HUYEN8 NGUYEN THI THU (NGTH8)
+
+KHANH3 TO NAM (TNK3)
+
+----------------------------------------------------
+
+2. LDM
+BL257/02.VN-A566.HAN
+PQC 70/3/2 T/330   1/0   2/0   3/330   4/0    5/0
+PQC  B/330  C/0  M/0
+SI: 
+H1/NIL
+H3/B
+H4/NIL
+H5/NIL
+
+BRGDS TIEN
+----------------------------------------------------
+
+3. MVT
+BL257/02.VN-A566.HAN
+AD 0740/0752 EA 0935 PQC
+C/L 0737
+PUSH 0740
+PAX 75
+TOF 10500
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

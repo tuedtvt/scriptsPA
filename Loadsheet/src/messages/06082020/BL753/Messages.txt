@@ -1,0 +1,45 @@
+1. CLM
+BL753/06.VN-A564.HAN
+JESUS MANUEL RIVERA (JMR)
+
+NIRAJ ADHIKARI (NIA)
+
+LINH11 PHAM THUY (PTL11)
+
+LINH21 NGUYEN THI PHUONG (NPL21)
+
+HUONG9 NGUYEN THANH THANH (NTH9)
+
+KHANH3 TO NAM (TNK3)
+
+----------------------------------------------------
+
+2. LDM
+BL753/06.VN-A564.HAN
+SGN 40/03/00 T/2652   1/1500   2/0   3/662   4/490    5/0
+SGN  B/90  C/2562  M/0
+SI: 
+H1/C
+H3/C
+H4/C+B
+H5/NIL
+BRGS NGOC ANH
+----------------------------------------------------
+
+3. MVT
+BL753/06.VN-A564.HAN
+AD 0537/0600 EA 0750 SGN
+C/L 0535
+PUSH 0537
+PAX 43
+TOF 9800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL753/06.VN-A564.HAN
+AA 0732/0742

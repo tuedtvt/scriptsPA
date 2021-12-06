@@ -1,0 +1,45 @@
+1. CLM
+BL782/10.VN-A564.SGN
+BL782	VN6022
+MOHAMED AFZAL AHMED (MAA)
+
+KHOA LE TAN (VNLTK)
+
+VU2 MAI THANH (MTV2)
+
+THONG1 LE HOANG (LHTH1)
+
+VU3 LE QUANG (LQV3)
+
+ANH11 PHAM THUY (PTA11)
+
+----------------------------------------------------
+
+2. LDM
+BL782/10.VN-A564.SGN
+HAN 98/3/0 T/2680   1/1505   2/0   3/965   4/210    5/0
+HAN  B/210  C/2470  M/0
+SI: 
+C1/C
+C3/C
+C4/B
+C5/N
+----------------------------------------------------
+
+3. MVT
+BL782/10.VN-A564.SGN
+AD 1948/2002 EA 2200 HAN
+C/L 1948
+PUSH 1950
+PAX 101
+TOF 9380
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL782/10.VN-A564.SGN
+AA 2206/2215

@@ -1,0 +1,43 @@
+1. CLM
+BL768/11.VN-A573.SGN
+WILLIAM RAUL GARCIA MUNOZ (WRM)
+
+KIEN DANG VU BAO (DVBK)
+
+PHUONG6 NGUYEN QUYNH (NQP6)
+
+HUYEN8 NGUYEN THI THU (NGTH8)
+
+HUONG9 NGUYEN THANH THANH (NTH9)
+
+HAO2 PHAM THI MY (PMH2)
+
+
+----------------------------------------------------
+
+2. LDM
+BL768/11.VN-A573.SGN
+HAN 172/14/2 T/1730   1/560   2/0   3/540   4/630    5/0
+HAN  B/630  C/1100  M/0
+SI: 
+CPT1/C--CPT3/C--CPT4/B--CPT5/N
+NO BAG PRIO
+TKS/LOC
+----------------------------------------------------
+
+3. MVT
+BL768/11.VN-A573.SGN
+AD 1359/1412 EA 1610 HAN
+C/L 1359
+PUSH 1400
+PAX 188
+TOF 10300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

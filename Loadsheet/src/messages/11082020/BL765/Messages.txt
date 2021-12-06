@@ -1,0 +1,45 @@
+1. CLM
+BL765/11.VN-A573.HAN
+THANG NGUYEN QUOC (NQT1)
+
+CUONG BUI MANH (BCU)
+
+PHUONG6 NGUYEN QUYNH (NQP6)
+
+HUYEN8 NGUYEN THI THU (NGTH8)
+
+HUONG9 NGUYEN THANH THANH(NTH9)
+
+HAO2 PHAM THI MY (PMH2)
+
+----------------------------------------------------
+
+2. LDM
+BL765/11.VN-A573.HAN
+SGN 133/14/01 T/3239   1/1025   2/0   3/915   4/999    5/300
+SGN  B/645  C/2594  M/00
+SI: 
+*-* LDD INF *-*
+-H1/C
+-H3/C
+-H4/C/B
+-H5/C
+BRGDS-TUAN
+----------------------------------------------------
+
+3. MVT
+BL765/11.VN-A573.HAN
+AD 1125/1135 EA 1335 SGN
+C/L 1118
+PUSH 1125
+PAX 148
+TOF 11000
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

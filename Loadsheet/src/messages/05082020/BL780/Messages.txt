@@ -1,0 +1,46 @@
+1. CLM
+BL780/05.VN-A568.SGN
+BL780/VN6010-VNA568-HAN
+MOHAMED AFZAL AHMED (MAA)
+
+NY BUI HOANG TON (BHTNY)
+
+CUONG1 NGUYEN HUNG (NCU1)
+
+TRANG24 DUONG THI (DTT24)
+
+LAM2 HO TUNG (HTL2)
+
+TRINH4 LE THI TUONG (LTTT4)
+
+----------------------------------------------------
+
+2. LDM
+BL780/05.VN-A568.SGN
+HAN 121/12/0 T/2645   1/990   2/0   3/875   4/780    5/0
+HAN  B/780  C/1865  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B
+CPT05/N
+SI: N
+--BEST REGARDS/TÂM--
+----------------------------------------------------
+
+3. MVT
+BL780/05.VN-A568.SGN
+AD 1750/1813 EA 2013 HAN
+C/L 1750
+PUSH 1757
+PAX 133
+TOF 10300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

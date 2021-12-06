@@ -1,0 +1,46 @@
+1. CLM
+BL790/07.VN-A573.SGN
+BL790/VN6016-VNA573-HAN
+RICARDO GOMEZ MENACA (RGM)
+
+TIN NGUYEN HOANG (NHT)
+
+THUONG1 PHAM MINH (PMT1)
+
+PHUONG9 DO THI KIM (DKP9)
+
+CONG1 LE THANH (LTC1)
+
+HUYEN6 VU THI MINH (VMH6)
+
+----------------------------------------------------
+
+2. LDM
+BL790/07.VN-A573.SGN
+HAN 146/06/01 T/3020   1/1185   2/0   3/960   4/510    5/365
+HAN  B/510  C/2510  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B
+CPT05/C
+SI: N
+--BEST REGARDS/TÂM--
+----------------------------------------------------
+
+3. MVT
+BL790/07.VN-A573.SGN
+AD 2249/2301 EA 0101 HAN
+C/L 2249
+PUSH 2251
+PAX 153
+TOF 9000
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

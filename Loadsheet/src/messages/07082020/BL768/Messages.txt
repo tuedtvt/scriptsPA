@@ -1,0 +1,45 @@
+1. CLM
+BL768/07.VN-A573.SGN
+RICARDO GOMEZ MENACA (RGM)
+
+TIN NGUYEN HOANG (NHT)
+
+THAO1 PHAM PHUONG (PPT1)
+
+HUONG11 BUI THANH (BTH11)
+
+HUONG7 LY MAI (LMH7)
+
+HA8 VU THU (VTH8)
+
+----------------------------------------------------
+
+2. LDM
+BL768/07.VN-A573.SGN
+HAN 125/09/02 T/865   1/0   2/0   3/630   4/235    5/0
+HAN  B/630  C/235  M/00
+SI: 
+CPT01/N
+CPT03/B
+CPT04/C
+CPT05/N
+SI: N
+--BEST REGARDS/TÂM--
+----------------------------------------------------
+
+3. MVT
+BL768/07.VN-A573.SGN
+AD 1400/1415 EA 1615 HAN
+C/L 1400
+PUSH 1403
+PAX 136
+TOF 9900
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,44 @@
+1. CLM
+BL787/10.VN-A560.HAN
+TUAN VU ANH (VNVAT)
+
+TRAN LUNG VAY (LUVT)
+
+HUONG2 NGUYEN THI LAN (NLH2)
+
+TRANG23 LE THI HUYEN (LHT23)
+
+VY10 NGUYEN BUI THAO (NTV10)
+
+NGOC4 TRAN HOA NHU (TNN4)
+
+----------------------------------------------------
+
+2. LDM
+BL787/10.VN-A560.HAN
+SGN 134/12/5 T/2501   1/1309   2/0   3/682   4/510    5/0
+SGN  B/510  C/1991  M/0
+SI: 
+CPT1/C
+CPT3/C
+CPT4/B
+CPT5/N
+----------------------------------------------------
+
+3. MVT
+BL787/10.VN-A560.HAN
+AD 1746/1804 EA 1954 SGN
+C/L 1740
+PUSH 1746
+PAX 151
+TOF 11800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL787/10.VN-A560.HAN
+AA 1945/1955

@@ -1,0 +1,48 @@
+1. CLM
+BL320/05.VN-A568.PQC
+ROBERT ALAN LINDSAY (RAL)
+
+SHEPHARD PAUL EDWARD (PES)
+
+TIEN NGUYEN DUNG (NDT)
+
+QUYEN1 PHAN THI HOANG (PHQ1)
+
+HA7 DAO THI THU (DTH7)
+
+THAO12 LE NGUYEN TRUC (LTT12)
+
+TIEN6 NGUYEN THI THUY (NTTT6)
+
+
+----------------------------------------------------
+
+2. LDM
+BL320/05.VN-A568.PQC
+SGN 160/26/6 T/1332   1/393   2/0   3/0   4/939    5/0
+SGN  B/939  C/393  M/0
+SI: 
+02 BBSTRLL LDD H4
+----------------------------------------------------
+
+3. MVT
+BL320/05.VN-A568.PQC
+AD 1445/1508 EA 1548 SGN
+C/L 1445
+PUSH 1446
+PAX 192
+TOF 8160
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM
+BL320/05AUG SGN PART1
+PHAN/TANDAOMR WCHC 23C 
+ENDPSM
+
+----------------------------------------------------
+
+5. MVA
+BL320/05.VN-A568.PQC
+AA 1550/1600

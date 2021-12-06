@@ -1,0 +1,44 @@
+1. CLM
+BL787/02.VN-A567.HAN
+QUYET DINH HUU (VNDHQ)
+
+HUAN LE CONG (LCH)
+
+THUONG1 PHAM MINH (PMT1)
+
+CUONG2 NGUYEN VAN (NVC2)
+
+MANH1 NGUYEN VU (NVM1)
+
+HAO2 PHAM THI MY (PMH2)
+
+
+----------------------------------------------------
+
+2. LDM
+BL787/02.VN-A567.HAN
+SGN 145/10/01 T/1480   1/220   2/0   3/450   4/810    5/0
+SGN  B/1260  C/220  M/0
+SI: 
+-CPT1/C
+-CPT3/B
+-CPT4/B
+-CPT5/N
+----------------------------------------------------
+
+3. MVT
+BL787/02.VN-A564.HAN
+AD 1753/1807 EA 1947 SGN
+C/L 1747
+PUSH 1753
+PAX 156
+TOF 10800
+DL: 770/03
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

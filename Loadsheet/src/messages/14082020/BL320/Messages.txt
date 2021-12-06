@@ -1,0 +1,37 @@
+1. CLM
+BL320/14.VN-A577.PQC
+ADIL RASHID KHAN (KAR)
+ NHAN HUYNH NGUYEN PHUC (HNPN)
+ TUAN1 LE QUOC (LQT1)
+ YEN2 CAO HONG (CHY2)
+ TRANG27 MAI THI KIEU (MKT27)
+ THAO13 NGUYEN THI PHUONG (NPT13)
+ OBS: ANH CHU QUOC (CQA)
+
+----------------------------------------------------
+
+2. LDM
+BL320/14.VN-A577.PQC
+SGN 87/19/2 T/753   1/233   2/0   3/0   4/520    5/0
+SGN  B/520  C/233  M/0
+SI: 
+01BBY LDD H4
+----------------------------------------------------
+
+3. MVT
+BL320/14.VN-A577.PQC
+AD 1442/1452 EA 1537 SGN
+C/L 1441
+PUSH 1443
+PAX 108
+TOF 8000
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL320/14.VN-A577.PQC
+AA 1535/1545

@@ -1,0 +1,40 @@
+1. CLM
+BL782/09.VN-A573.SGN
+HIEN8 NGUYEN THANH (NTH8)
+
+ANH41 DONG NAM (DNA41)
+
+TRAM4 KIEU ANH (KAT4)
+
+CUONG2 NGUYEN VAN (NVC2)
+
+GIAO TRUONG NGOC (VNTNG)
+
+YANIEL FACENDA BARCELÓ (FBY)
+
+----------------------------------------------------
+
+2. LDM
+BL782/09.VN-A573.SGN
+HAN 142/07/01 T/360   1/0   2/0   3/360   4/0    5/0
+HAN  B/360  C/0  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL782/09.VN-A573.SGN
+AD 1950/2000 EA 2200 HAN
+C/L 1950
+PUSH 1952
+PAX 150
+TOF 8800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,49 @@
+1. CLM
+BL768/21.VN-A577.SGN
+BL768/VN6026-VNA577-HAN
+THANG NGUYEN QUOC (NQT1)
+
+NY BUI HOANG TON (BHTNY)
+
+OBS: LE CONG HUAN
+NHUNG7 NGUYEN THI TUYET (NTN7)
+
+ANH41 DONG NAM (DNA41)
+
+TRANG10 NGUYEN THI HUYEN
+(NHT10)
+
+HAO2 PHAM THI MY (PMH2)
+
+
+----------------------------------------------------
+
+2. LDM
+BL768/21.VN-A577.SGN
+HAN 160/05/01 T/975   1/0   2/0   3/975   4/0    5/0
+HAN  B/975  C/00  M/00
+SI: 
+CPT01/N
+CPT03/B
+CPT04/N
+CPT05/N
+SI: N
+--BEST REGARDS/TÂM--
+----------------------------------------------------
+
+3. MVT
+BL768/21.VN-A577.SGN
+AD 1402/1418 EA 1618 HAN
+C/L 1402
+PUSH 1403
+PAX 166
+TOF 10700
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

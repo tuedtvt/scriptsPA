@@ -1,0 +1,45 @@
+1. CLM
+BL782/24.VN-A577.SGN
+BL782	VN6022
+ANTONIO ERNESTO ALONSO
+ESCANDELL (AAE)
+
+TIEN TRIEU QUANG (VNTQT)
+
+HUONG3 NGUYEN THU (NTH3)
+
+THONG1 LE HOANG (LHTH1)
+
+PHUNG2 NGUYEN VAN (NVP2)
+
+TAI3 VO MINH (VMT3)
+
+----------------------------------------------------
+
+2. LDM
+BL782/24.VN-A577.SGN
+HAN 133/13/02 T/3355   1/1360   2/0   3/875   4/915    5/205
+HAN  B/915  C/2440  M/0
+SI: 
+C1/C
+C3/C
+C4/B
+C5/C
+----------------------------------------------------
+
+3. MVT
+BL782/24.VN-A577.SGN
+AD 1810/1837 EA 2037 HAN
+C/L 1810
+PUSH 1815
+PAX 148
+TOF 9300
+DL: 770/0015 thoi tiet xau tai SGN
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

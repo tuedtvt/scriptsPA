@@ -1,0 +1,54 @@
+1. CLM
+BL764/20.VN-A565.SGN
+BL764/VN6020-VNA572-HAN
+ALBERTO JOSE ZARONE MORA (ZAA)
+
+KEANI MÉLISSA AMARU (KAM)
+
+YEN HA THI HAI (HTHY)
+
+THANG3 VU NGOC (VNT3)
+
+NHUNG4 TRAN HONG (THN4)
+
+HUONG11 BUI THANH (BTH11)
+
+TRANG10 NGUYEN THI HUYEN
+(NHT10)
+
+KHANH3 TO NAM (TNK3)
+
+----------------------------------------------------
+
+2. LDM
+BL764/20.VN-A565.SGN
+HAN 143/18/01 T/900   1/0   2/0   3/900   4/0    5/0
+HAN  B/60  C/00  M/00
+SI: 
+H1/N
+H3/B/60PCS
+H4/N
+H5/N
+
+SI: 02 CIP BAG ON CPT 03
+BRGDS/H.CUONG
+
+----------------------------------------------------
+
+3. MVT
+BL764/20.VN-A565.SGN
+AD 1140/1200 EA 1350 HAN
+C/L 1140
+PUSH 1142
+PAX 162
+TOF 8900
+DL: 410/0010- TECH PROBLEM (TÀU KIỂM TRA KỸ THUẬT)
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL764/20.VN-A565.SGN
+AA 1345/1350

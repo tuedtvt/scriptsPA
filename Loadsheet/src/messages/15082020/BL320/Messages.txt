@@ -1,0 +1,36 @@
+1. CLM
+BL320/15.VN-A570.PQC
+ALBERTO JOSE ZARONE MORA (ZAA)
+ DUONG NGO HOANG (NHD)
+ HIEN1 NGUYEN THI THU (NTHU1)
+ TRANG27 MAI THI KIEU (MKT27)
+ THAO13 NGUYEN THI PHUONG (NPT13)
+ TRANG18 NGUYEN THUY (NTT18)
+
+----------------------------------------------------
+
+2. LDM
+BL320/15.VN-A570.PQC
+SGN 121/26/2 T/526   1/0   2/0   3/526   4/0    5/0
+SGN  B/526  C/0  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL320/15.VN-A570.PQC
+AD 1435/1447 EA 1527 SGN
+C/L 1434
+PUSH 1436
+PAX 149
+TOF 7100
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL320/15.VN-A570.PQC
+AA 1520/1530

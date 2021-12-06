@@ -1,0 +1,43 @@
+1. CLM
+BL757/30.VN-A569.HAN
+TUAN VU ANH (VNVAT)
+
+TRUNG NGUYEN QUOC (NQTR)
+
+MAI3 NGUYEN THI (NTM3)
+
+PHAT1 BUI QUANG (BQP1)
+
+VU1 DANG ANH (DAV1)
+
+TRANG24 DUONG THI (DTT24)
+
+----------------------------------------------------
+
+2. LDM
+BL757/30.VN-A569.HAN
+SGN 175/11/04 T/1696   1/957   2/0   3/668   4/71    5/0
+SGN  B/1065  C/1625  M/00
+SI: 
+H1/C
+H3/C
+H4/B
+H5/NIL
+----------------------------------------------------
+
+3. MVT
+BL757/30.VN-A569.HAN
+AD 1014/1024 EA 1214 SGN
+C/L 1010
+PUSH 1014
+PAX 190
+TOF 10000
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

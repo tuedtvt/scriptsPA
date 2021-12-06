@@ -1,0 +1,48 @@
+1. CLM
+BL782/15.VN-A570.SGN
+BL782/VN6022-VNA570-HAN
+ARIO TEJO CHRISTOFORUS (ART)
+
+EVGENII KLASSEN (KLE)
+
+TAN VO TRAN DUC (VTDT)
+
+BAO2 TRAN QUOC (TQB2)
+
+TIEN6 NGUYEN THI THUY (NTTT6)
+
+MINH3 TRAN NGUYEN NHA (TNM3)
+
+HIEN12 VU THI THUC (VTH12)
+
+----------------------------------------------------
+
+2. LDM
+BL782/15.VN-A570.SGN
+HAN 134/02/01 T/1470   1/1035   2/0   3/0   4/435    5/0
+HAN  B/435  C/1035  M/00
+SI: 
+CPT01/C
+CPT03/N
+CPT04/B
+CPT05/N
+SI: N
+--BEST REGARDS/TÂM--
+----------------------------------------------------
+
+3. MVT
+BL782/15.VN-A570.SGN
+AD 1755/1820 EA 2020 HAN
+C/L 1755
+PUSH 1800
+PAX 137
+TOF 9920
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

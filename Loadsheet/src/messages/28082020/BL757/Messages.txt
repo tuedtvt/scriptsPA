@@ -1,0 +1,48 @@
+1. CLM
+BL757/28.VN-A568.HAN
+HAYDN JAMES ALFRED MILLER (HAM)
+
+TRUNG NGUYEN QUOC (NQTR)
+
+LIEM1 VU TIEN (VTL1)
+
+THOA1 TRINH KIM (TKT1)
+
+BAO4 DUONG THAI (DTB4)
+
+CUONG4 MAI DUC (MDC4)
+
+TRUC3 NGUYEN THI TAN (NTTT3)
+
+
+----------------------------------------------------
+
+2. LDM
+BL757/28.VN-A568.HAN
+SGN 159/14/01 T/3801   1/1478   2/0   3/1032   4/841    5/450
+SGN  B/675  C/3126  M/00
+SI: 
+*-* LDD INF *-*
+-H1/C
+-H3/C
+-H4/C/B
+-H5/C
+BRGDS-TUAN
+----------------------------------------------------
+
+3. MVT
+BL757/28.VN-A568.HAN
+AD 0950/1005 EA 1205 SGN
+C/L 0948
+PUSH 0950
+PAX 174
+TOF 9500
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

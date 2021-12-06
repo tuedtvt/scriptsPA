@@ -1,0 +1,40 @@
+1. CLM
+BL320/07.VN-A566.PQC
+ADIL RASHID KHAN (KAR)
+ HUY TA DUC (TDH)
+ VU2 MAI THANH (MTV2)
+ NAM6 HUYNH SON (HSN6)
+ MY7 LAM THI NGOC (LNM7)
+ NGHIA3 LE NGOC (LNN3)
+
+----------------------------------------------------
+
+2. LDM
+BL320/07.VN-A566.PQC
+SGN 133/15/1 T/1120   1/397   2/0   3/723   4/0    5/0
+SGN  B/723  C/397  M/00
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL320/07.VN-A566.PQC
+AD 1445/1505 EA 1545 SGN
+C/L 1444
+PUSH 1446
+PAX 149
+TOF 7540
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM
+BL320/07AUG SGN PART1
+DO/NGOCHAOMR WCHR 3C 
+ENDPSM
+
+----------------------------------------------------
+
+5. MVA
+BL320/07.VN-A566.PQC
+AA 1543/1553

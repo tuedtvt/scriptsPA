@@ -1,0 +1,43 @@
+1. CLM
+BL772/08.VN-A577.SGN
+BL772	VN6008
+MINH1 VU DUC (VDM1)
+
+HUONG7 LY MAI (LMH7)
+
+TOAN2 LE VAN (LVTO2)
+
+HUYEN8 NGUYEN THI THU (NGTH8)
+
+GIAO TRUONG NGOC (VNTNG)
+
+YANIEL FACENDA BARCELÓ (FBY)
+
+	
+
+----------------------------------------------------
+
+2. LDM
+BL772/08.VN-A577.SGN
+HAN 74/06/00 T/840   1/600   2/0   3/0   4/240    5/0
+HAN  B/240  C/600  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL772/08.VN-A577.SGN
+AD 1736/1800 EA 2000 HAN
+C/L 1736
+PUSH 1742
+PAX 80
+TOF 9400
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

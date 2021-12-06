@@ -1,0 +1,41 @@
+1. CLM
+BL320/21.VN-A566.PQC
+SAVVAS PATSOURIS (SPA)
+ BACH DO QUANG (DQB)
+ QUYNH2 DANG DUC (DDQ2)
+ TRAN6 NGUYEN LE BAO (NBT6)
+ DINH1 NGO TRUONG NGOC (NTND1)
+ MY8 TRAN THI KIEU (TKM8)
+
+----------------------------------------------------
+
+2. LDM
+BL320/21.VN-A566.PQC
+SGN 159/15/4 T/839   1/137   2/0   3/702   4/0    5/0
+SGN  B/702  C/137  M/00
+SI: 
+01BBSTRLL LDD IN H3
+----------------------------------------------------
+
+3. MVT
+BL320/21.VN-A566.PQC
+AD 1442/1452 EA 1532 SGN
+C/L 1440
+PUSH 1443
+PAX 178
+TOF 8080
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM
+BL320/21AUG SGN 
+NGUYEN/KIMHOANGPHUMSTR WCHC 4C 
+LE/THUDONGMR WCHC 3D 
+ENDPSM
+
+----------------------------------------------------
+
+5. MVA
+BL320/21.VN-A566.PQC
+AA 1530/1540

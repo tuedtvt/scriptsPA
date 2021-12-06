@@ -1,0 +1,48 @@
+1. CLM
+BL787/25.VN-A577.HAN
+TJEERD SCHOUTEN (SCT)
+
+TRAN LUNG VAY (LUVT)
+
+QUYNH2 DANG DUC (DDQ2)
+
+VAN2 TRAN LE THUY (TLTV2)
+
+NHI3 DUONG NGOC (DNN3)
+
+THONG1 LE HOANG (LHTH1)
+
+MINH3 TRAN NGUYEN NHA (TNM3)
+
+
+----------------------------------------------------
+
+2. LDM
+BL787/25.VN-A577.HAN
+SGN 180/04/01 T/2705   1/1050   2/0   3/639   4/836    5/180
+SGN  B/705  C/2000  M/00
+SI: 
+H1/C
+H3/C
+H4/C+B
+H5/C
+
+
+----------------------------------------------------
+
+3. MVT
+BL787/25.VN-A577.HAN
+AD 1750/1800 EA 1950 SGN
+C/L 1745
+PUSH 1750
+PAX 185
+TOF 10800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,48 @@
+1. CLM
+BL787/22.VN-A565.HAN
+VIEN TRAN THIEN (TVT)
+
+THINH TRAN CAO (VNTCT)
+
+OBS: NGUYEN NGOC DUC
+BAO2 TRAN QUOC (TQB2)
+
+HA7 DAO THI THU (DTH7)
+
+TUNG3 LE MINH (LMTU3)
+
+DINH1 NGO TRUONG NGOC (NTND1)
+
+
+----------------------------------------------------
+
+2. LDM
+BL787/22.VN-A565.HAN
+SGN 133/10/2 T/3085   1/1281   2/0   3/689   4/1115    5/0
+SGN  B/915  C/2170  M/0
+SI: 
+H1/SGN/C
+H3/SGN/C
+H4/SGN/C.SGN/B
+H5/NIL
+--
+BRGDS,
+BUIDUY
+----------------------------------------------------
+
+3. MVT
+BL787/22.VN-A565.HAN
+AD 1743/1757 EA 1945 SGN
+C/L 1740
+PUSH 1743
+PAX 145
+TOF 10700
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

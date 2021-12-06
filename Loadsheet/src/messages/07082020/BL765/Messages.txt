@@ -1,0 +1,46 @@
+1. CLM
+BL765/07.VN-A569.HAN
+ALBERTO JOSE ZARONE MORA (ZAA)
+
+NY BUI HOANG TON (BHTNY)
+
+YEN HA THI HAI (HTHY)
+
+LIEN1 TO KIM (TKL1)
+
+THONG1 LE HOANG (LHTH1)
+
+VU3 LE QUANG (LQV3)
+
+HUNG6 PHAM THI KIM (PKH6)
+
+----------------------------------------------------
+
+2. LDM
+BL765/07.VN-A569.HAN
+SGN 86/07/01 T/2123   1/795   2/0   3/742   4/586    5/0
+SGN  B/390  C/1733  M/0
+SI: 
+H1/C
+H3/C
+H4/C/B
+H5/NIL
+
+----------------------------------------------------
+
+3. MVT
+BL765/07.VN-A569.HAN
+AD 1125/1135 EA 1325 SGN
+C/L 1115
+PUSH 1125
+PAX 94
+TOF 9300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

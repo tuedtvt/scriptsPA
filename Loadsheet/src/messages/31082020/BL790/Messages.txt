@@ -1,0 +1,44 @@
+1. CLM
+BL790/31.VN-A570.SGN
+MOEARII RALPH MATAPO (MRM)
+ 
+SIMONE TIBURZI (TIS)
+
+TRANG12 DO MANH (DMT12)
+
+CHI2 DANG THI KIM (DKC2)
+
+HUONG7 LY MAI (LMH7)
+
+TRUNG3 NGUYEN TIEN (NTT3)
+
+
+----------------------------------------------------
+
+2. LDM
+BL790/31.VN-A570.SGN
+HAN 166/13/00 T/4115   1/1395   2/0   3/1100   4/1170    5/450
+HAN  B/1140  C/2945  M/00
+SI: 
+CPT1/ C
+CPT3/ C
+CPT4/ B
+CPT5/ C
+----------------------------------------------------
+
+3. MVT
+BL790/31.VN-A570.SGN
+AD 2120/2140 EA 2340 HAN
+C/L 2120
+PUSH 2122
+PAX 179
+TOF 8900
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

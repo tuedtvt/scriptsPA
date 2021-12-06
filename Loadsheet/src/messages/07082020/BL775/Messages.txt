@@ -1,0 +1,44 @@
+1. CLM
+BL775/07.VN-A570.HAN
+WILLIAM RAUL GARCIA MUNOZ (WRM)
+
+HUAN LE CONG (LCH)
+
+TOAN2 LE VAN (LVTO2)
+
+KHANH3 TO NAM (TNK3)
+
+LAI1 TRAN NGOC (TNL1)
+
+HUONG2 NGUYEN THI LAN (NLH2)
+
+----------------------------------------------------
+
+2. LDM
+BL775/07.VN-A570.HAN
+SGN 116/15/02 T/2223   1/828   2/0   3/635   4/760    5/0
+SGN  B/660  C/1563  M/0
+SI: 
+H1/C
+H3/C
+H4/C+B
+H5/NIL
+BRGS NGOC ANH
+----------------------------------------------------
+
+3. MVT
+BL775/07.VN-A570.HAN
+AD 1508/1522 EA 1712 SGN
+C/L 1503
+PUSH 1508
+PAX 133
+TOF 10900
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

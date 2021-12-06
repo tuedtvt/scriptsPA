@@ -1,0 +1,46 @@
+1. CLM
+BL772/05.VN-A569.SGN
+BL772/VN6008-VNA569-HAN
+JIN HANN GOH (HAG)
+
+TIEN TRIEU QUANG (VNTQT)
+
+QUANG2 NGUYEN TUAN (NTQ2)
+
+TRINH5 LE NU KIEU (LKT5)
+
+THAO3 NGUYEN PHUONG (NPT3)
+
+NGOC4 TRAN HOA NHU (TNN4)
+
+----------------------------------------------------
+
+2. LDM
+BL772/05.VN-A569.SGN
+HAN 130/20/04 T/2860   1/1170   2/0   3/1000   4/690    5/0
+HAN  B/690  C/2170  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B
+CPT05/N
+SI: N
+--BEST REGARDS/TÂM--
+----------------------------------------------------
+
+3. MVT
+BL772/05.VN-A569.SGN
+AD 1755/1819 EA 2019 HAN
+C/L 1755
+PUSH 1806
+PAX 154
+TOF 10300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

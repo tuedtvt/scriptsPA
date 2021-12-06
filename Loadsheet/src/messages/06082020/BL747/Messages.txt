@@ -1,0 +1,44 @@
+1. CLM
+BL747/06.VN-A570.HAN
+JUAN CAMILO JARAMILLO HENAO (JCH)
+
+QUANG NGUYEN THANH (VNNTQ)
+
+TUNG2 NGUYEN THANH (NTT2)
+
+ANH41 DONG NAM (DNA41)
+
+CHINH8 NGUYEN VIET (NVC8)
+
+ANH36 PHAN TUAN (PTA36)
+
+----------------------------------------------------
+
+2. LDM
+BL747/06.VN-A570.HAN
+SGN 83/11/00 T/2362   1/1194   2/0   3/778   4/390    5/0
+SGN  B/390  C/1972  M/0
+SI: 
+H1/C
+H3/C
+H4/B
+H5/NIL
+BRGS NGOC ANH
+----------------------------------------------------
+
+3. MVT
+BL747/06.VN-A570.HAN
+AD 0457/0518 EA 0708 SGN
+C/L 0455
+PUSH 0457
+PAX 94
+TOF 9400
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,46 @@
+1. CLM
+BL772/11.VN-A569.SGN
+BL772/VN6008-VNA569-HAN
+MOHAMED AFZAL AHMED (MAA)
+
+TRI TRAN QUANG (TQT)
+
+VY2 TRAN THI BICH (TBV2)
+
+ANH38 NGUYEN THI LAN (NLA38)
+
+ANH11 PHAM THUY (PTA11)
+
+HIEN12 VU THI THUC (VTH12)
+
+----------------------------------------------------
+
+2. LDM
+BL772/11.VN-A569.SGN
+HAN 139/06/01 T/1720   1/865   2/0   3/510   4/345    5/0
+HAN  B/345  C/1375  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B
+CPT05/N
+SI: N
+--BEST REGARDS/TÂM--
+----------------------------------------------------
+
+3. MVT
+BL772/11.VN-A569.SGN
+AD 1747/1800 EA 2000 HAN
+C/L 1747
+PUSH 1748
+PAX 146
+TOF 9920
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

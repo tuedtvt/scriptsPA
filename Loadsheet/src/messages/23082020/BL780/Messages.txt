@@ -1,0 +1,41 @@
+1. CLM
+BL780/23.VN-A569.SGN
+BL780	VN6010
+ASHLEY LUKE BYRNE (ALB)
+
+TU VUONG NGUYEN ANH (VNAT1)
+
+TAM4 LE THANH (LTT4)
+
+LAM5 DO TUNG (DTL5)
+
+CONG1 LE THANH (LTC1)
+
+NAM5 NGUYEN PHUONG (NPN5)
+	
+----------------------------------------------------
+
+2. LDM
+BL780/23.VN-A569.SGN
+HAN 145/07/00 T/900   1/0   2/0   3/900   4/0    5/0
+HAN  B/900  C/0  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL780/23.VN-A569.SGN
+AD 1555/1615 EA 1815 HAN
+C/L 1555
+PUSH 1602
+PAX 152
+TOF 10000
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,49 @@
+1. CLM
+BL775/22.VN-A567.HAN
+MAURIZIO RUSSO (MRR)
+
+TUAN DANG MINH (VNDMT)
+
+TUAN1 LE QUOC (LQT1)
+
+BAO3 TRAN TON QUOC (TTQB3)
+
+TUYEN1 DUONG THI PHUONG (DPT1)
+
+UYEN2 HO PHAM PHUONG (HPU2)
+
+CUONG4 MAI DUC (MDC4)
+
+----------------------------------------------------
+
+2. LDM
+BL775/22.VN-A567.HAN
+SGN 174/12/0 T/3488   1/1235   2/0   3/698   4/1155    5/400
+SGN  B/1155  C/2333  M/0
+SI: 
+H1/SGN/C
+H3/SGN/C
+H4/SGN/B
+H5/SGN/C
+--
+BRGDS,
+BUIDUY
+----------------------------------------------------
+
+3. MVT
+BL775/22.VN-A567.HAN
+AD 1510/1525 EA 1715 SGN
+C/L 1509
+PUSH 1510
+PAX 186
+TOF 10500
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL775/22.VN-A567.HAN
+AA 1708/1718

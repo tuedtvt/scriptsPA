@@ -1,0 +1,44 @@
+1. CLM
+BL775/14.VN-A566.HAN
+TRIEU PHAM LAM HAI (VNPHT)
+
+LONG NGUYEN TUAN (NGTL)
+
+THAO1 PHAM PHUONG (PPT1)
+
+LINH19 LE HUYNH KHANH (LKL19)
+
+TIEN5 TRAN THI THUY (TTT05)
+
+QUYNH6 VU NGOC DIEM (VDQ6)
+
+----------------------------------------------------
+
+2. LDM
+BL775/14.VN-A566.HAN
+SGN 155/13/1 T/1125   1/420   2/0   3/165   4/540    5/0
+SGN  B/705  C/420  M/0
+SI: 
+CPT1/C
+CPT3/B
+CPT4/B
+CPT5/N
+----------------------------------------------------
+
+3. MVT
+BL775/14.VN-A566.HAN
+AD 1505/1515 EA 1705 SGN
+C/L 1500
+PUSH 1505
+PAX 169
+TOF 10600
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL775/14.VN-A566.HAN
+AA 1700/1706

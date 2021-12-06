@@ -1,0 +1,43 @@
+1. CLM
+BL503/09.VN-A566.HUI
+JORGE LUIS CELY SALAZAR (JLS)
+ 
+QUAN DO HONG (VNDQU)
+ 
+VU2 MAI THANH (MTV2)
+ 
+DAT4 NGUYEN HUU (NHD4)
+ 
+HUYNH1 NGUYEN THI NHU (NNH1)
+ 
+TRANG18 NGUYEN THUY
+----------------------------------------------------
+
+2. LDM
+BL503/09.VN-A566.HUI
+SGN 139/17/6 T/1760   1/335   2/0   3/750   4/675    5/0
+SGN  B/1425  C/335  M/0
+SI: 
+-CPT1/SGN/335/C
+-CPT3/SGN/750/B
+-CPT4/SGN/675/B
+-CPT5/NIL
+----------------------------------------------------
+
+3. MVT
+BL503/09.VN-A566.HUI
+AD 2005/2015 EA 2125 SGN
+C/L 2005
+PUSH 2006
+PAX 162
+TOF 7800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL503/09.VN-A566.HUI
+AA 2122/2132

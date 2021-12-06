@@ -1,0 +1,45 @@
+1. CLM
+BL326/09.VN-A572.PQC
+TUAN VU ANH (VNVAT)
+
+TRAN LUNG VAY (LUVT)
+
+QUANG2 NGUYEN TUAN (NTQ2)
+
+LINH19 LE HUYNH KHANH (LKL19)
+
+SANG1 NGUYEN PHU (NPS1)
+
+CHIEN1 NGUYEN QUANG (NQC1)
+
+----------------------------------------------------
+
+2. LDM
+BL326/09.VN-A572.PQC
+SGN 147/21/0 T/954   1/0   2/0   3/954   4/0    5/0
+SGN  B/954  C/0  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL326/09.VN-A572.PQC
+AD 2105/2118 EA 2158 SGN
+C/L 2105
+PUSH 2106
+PAX 168
+TOF 7600
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM
+BL326/09AUG PQC PART1
+-SGN
+NIL
+ENDPSM
+----------------------------------------------------
+
+5. MVA
+BL326/09.VN-A572.PQC
+AA 2158/2208

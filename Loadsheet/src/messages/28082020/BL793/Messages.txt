@@ -1,0 +1,50 @@
+1. CLM
+BL793/28.VN-A572.HAN
+CAMILO ANDRES TORRES ACOSTA (TAC)
+
+THU VAN NGOC ANH (VNVNT)
+
+IAKOV KONDAKOV (KOI)
+
+THUY3 VU THI THANH (VTTT3)
+
+THANH5 PHAN NGUYEN TRUONG (PTT5)
+
+MY7 LAM THI NGOC (LNM7)
+
+TRANG13 LIEN THANH (LTT13)
+
+LY8 NGUYEN PHUOC TON NU KHANH (NKL8)
+
+
+----------------------------------------------------
+
+2. LDM
+BL793/28.VN-A572.HAN
+SGN 156/05/0 T/2327   1/894   2/0   3/803   4/630    5/0
+SGN  B/630  C/1697  M/0
+SI: 
+H1/C
+H3/C
+H4/B
+H5/NIL
+SI:
+D.HIEU
+----------------------------------------------------
+
+3. MVT
+BL793/28.VN-A572.HAN
+AD 2115/2125 EA 2315 SGN
+C/L 2110
+PUSH 2115
+PAX 161
+TOF 9800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

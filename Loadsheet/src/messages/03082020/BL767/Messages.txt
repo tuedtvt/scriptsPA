@@ -1,0 +1,44 @@
+1. CLM
+BL767/03.VN-A573.HAN
+RICARDO GOMEZ MENACA (RGM)
+
+YANIEL FACENDA BARCELÓ (FBY)
+
+THUY3 VU THI THANH (VTTT3)
+
+TUNG3 LE MINH (LMTU3)
+
+NGHI1 LE NGUYEN THUC (LNTN1)
+
+NGOC4 TRAN HOA NHU (TNN4)
+
+
+----------------------------------------------------
+
+2. LDM
+BL767/03.VN-A573.HAN
+SGN 121/18/05 T/2713   1/925   2/0   3/618   4/1020    5/150
+SGN  B/1170  C/1543  M/0
+SI: 
+H1/C
+H3/C
+H4/B
+H5/B
+----------------------------------------------------
+
+3. MVT
+BL767/03.VN-A573.HAN
+AD 1410/1425 EA 1620 SGN
+C/L 1400
+PUSH 1410
+PAX 144
+TOF 10800
+DL: 631/0005
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

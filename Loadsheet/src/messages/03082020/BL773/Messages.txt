@@ -1,0 +1,43 @@
+1. CLM
+BL773/03.VN-A564.HAN
+ QUYET DINH HUU (VNDHQ)
+
+NHUNG7 NGUYEN THI TUYET (NTN7)
+
+CONG1 LE THANH (LTC1)
+
+CUONG2 NGUYEN VAN (NVC2)
+
+MANH1 NGUYEN VU (NVM1)
+
+HUAN LE CONG (LCH)
+
+----------------------------------------------------
+
+2. LDM
+BL773/03.VN-A564.HAN
+SGN 117/16/02 T/2345   1/745   2/0   3/645   4/955    5/0
+SGN  B/855  C/1490  M/0
+SI: 
+H1/C
+H3/C
+H4/C/B
+H5/NIL
+----------------------------------------------------
+
+3. MVT
+BL773/03.VN-A564.HAN
+AD 1545/1602 EA 1800 SGN
+C/L 1548
+PUSH 1845
+PAX 135
+TOF 10800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

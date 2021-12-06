@@ -1,0 +1,47 @@
+1. CLM
+BL777/18.VN-A566.HAN
+SHAYE ROGAN MORLEY-HART (SRM)
+
+MINH NGUYEN TUAN (NTM)
+
+THAO1 PHAM PHUONG (PPT1)
+
+PHUC1 DAO THI (DTP1)
+
+NI2 TONG THI BAO (TTBN2)
+
+HANG5 VU THI THUY (VTH5)
+
+
+----------------------------------------------------
+
+2. LDM
+BL777/18.VN-A566.HAN
+SGN 163/23/3 T/2651   1/1026   2/0   3/800   4/825    5/0
+SGN  B/825  C/1826  M/0
+SI: 
+H1/SGN/C
+H3/SGN/C
+H4/SGN/B
+H5/NIL
+--
+BRGDS,
+BUIDUY
+----------------------------------------------------
+
+3. MVT
+BL777/18.VN-A566.HAN
+AD 1750/1805 EA 2000 SGN
+C/L 1742
+PUSH 1750
+PAX 189
+TOF 10500
+DL: 930/631/0037/0013
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

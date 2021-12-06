@@ -1,0 +1,46 @@
+1. CLM
+BL790/11.VN-A572.SGN
+BL790/VN6016-VNA572-HAN
+WILLIAM RAUL GARCIA MUNOZ (WRM)
+
+KIEN DANG VU BAO (DVBK)
+
+HIEU1 VU TRUNG (VTH1)
+
+QUYNH4 DO NHU (DNQ4)
+
+DIEN1 HOANG VAN (HVD1)
+
+PHUNG3 LE QUANG (LQP3)
+
+----------------------------------------------------
+
+2. LDM
+BL790/11.VN-A572.SGN
+HAN 146/10/00 T/3090   1/1205   2/0   3/830   4/655    5/400
+HAN  B/330  C/2760  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/C+B
+CPT05/C
+SI: N
+--BEST REGARDS/TÂM--
+----------------------------------------------------
+
+3. MVT
+BL790/11.VN-A572.SGN
+AD 2103/2120 EA 2320 HAN
+C/L 2103
+PUSH 2105
+PAX 156
+TOF 9400
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

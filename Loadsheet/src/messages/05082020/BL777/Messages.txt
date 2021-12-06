@@ -1,0 +1,46 @@
+1. CLM
+BL777/05.VN-A566.HAN
+MOHAMED AFZAL AHMED (MAA)
+
+NY BUI HOANG TON (BHTNY)
+
+CUONG1 NGUYEN HUNG (NCU1)
+
+TRANG24 DUONG THI (DTT24)
+
+LAM2 HO TUNG (HTL2)
+
+TRINH4 LE THI TUONG (LTTT4)
+
+----------------------------------------------------
+
+2. LDM
+BL777/05.VN-A566.HAN
+SGN 136/20/3 T/2616   1/926   2/0   3/755   4/735    5/200
+SGN  B/735  C/1881  M/0
+SI: 
+***LDM INF***
+-CP1/C
+-CP3/C
+-CP4/B
+-CP5/C
+SI:
+BRGDS/DUONG
+----------------------------------------------------
+
+3. MVT
+BL777/05.VN-A566.HAN
+AD 2120/2135 EA 2332 SGN
+C/L 2116
+PUSH 2120
+PAX 159
+TOF 10300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

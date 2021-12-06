@@ -1,0 +1,46 @@
+1. CLM
+BL764/25.VN-A571.SGN
+VIEN TRAN THIEN (TVT)
+
+KIEN DANG VU BAO (DVBK)
+
+HIEN8 NGUYEN THANH (NTH8)
+
+TRANG10 NGUYEN THI HUYEN (NHT10)
+
+HAO2 PHAM THI MY (PMH2)
+
+LAI1 TRAN NGOC (TNL1)
+
+
+----------------------------------------------------
+
+2. LDM
+BL764/25.VN-A571.SGN
+HAN 169/16/00 T/3435   1/1185   2/0   3/915   4/1035    5/300
+HAN  B/1035  C/2400  M/00
+SI: 
+--CPT01/C   
+--CPT03/C   
+--CPT04/B   
+--CPT05/C   
+REGARDS/QUANG
+----------------------------------------------------
+
+3. MVT
+BL764/25.VN-A571.SGN
+AD 1107/1122 EA 1320 HAN
+C/L 1107
+PUSH 1110
+PAX 185
+TOF 10100
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL764/25.VN-A571.SGN
+AA 1306/1312

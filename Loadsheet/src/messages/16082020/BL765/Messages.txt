@@ -1,0 +1,46 @@
+1. CLM
+BL765/16.VN-A567.HAN
+ALBERTO JOSE ZARONE MORA (ZAA)
+
+THINH TRAN CAO (VNTCT)
+
+HUY TRAN QUOC (TQH)
+
+HANG6 DO THI THU (DTH6)
+
+YEN2 CAO HONG (CHY2)
+
+TRINH2 HUYNH NGUYEN DOAN
+(HNDT2)
+
+THONG1 LE HOANG (LHTH1)
+
+----------------------------------------------------
+
+2. LDM
+BL765/16.VN-A567.HAN
+SGN 174/11/03 T/3173   1/1342   2/0   3/786   4/945    5/100
+SGN  B/945  C/2228  M/0
+SI: 
+CPT1/C
+CPT3/C
+CPT4/B
+CPT5/C
+----------------------------------------------------
+
+3. MVT
+BL765/16.VN-A567.HAN
+AD 1130/1144 EA 1324 SGN
+C/L 1126
+PUSH 1130
+PAX 188
+TOF 9200
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

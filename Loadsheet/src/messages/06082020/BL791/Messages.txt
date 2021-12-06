@@ -1,0 +1,45 @@
+1. CLM
+BL791/06.VN-A564.HAN
+HUY NGUYEN DANG (VNNDH)
+
+SON TRAN NHU (VNTNS)
+
+OBS: PHAM QUOC BAO
+SON2 HOANG THANH (HTS2)
+
+HIEN9 DUONG THI THU (DTH9)
+
+HAO4 HUA GIA (HGH4)
+
+NGHIA2 LE TRONG (LTN2)
+
+
+----------------------------------------------------
+
+2. LDM
+BL791/06.VN-A564.HAN
+SGN 108/08/00 T/2466   1/1409   2/0   3/772   4/285    5/0
+SGN  B/285  C/2181  M/0
+SI: 
+-CPT1/C
+-CPT3/C
+-CPT4/B
+-CPT5/N
+----------------------------------------------------
+
+3. MVT
+BL791/06.VN-A564.HAN
+AD 2025/2035 EA 2215 SGN
+C/L 2019
+PUSH 2025
+PAX 116
+TOF 9800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

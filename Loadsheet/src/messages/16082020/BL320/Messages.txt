@@ -1,0 +1,40 @@
+1. CLM
+BL320/16.VN-A564.PQC
+JORGE ALEJANDRO PEÑA IRUN (PJA)
+ THU VAN NGOC ANH (VNVNT)
+ QUYEN1 PHAN THI HOANG (PHQ1)
+ ANH38 NGUYEN THI LAN (NLA38)
+ THAO13 NGUYEN THI PHUONG (NPT13)
+ VI6 VU THI THAO (VTV6)
+
+----------------------------------------------------
+
+2. LDM
+BL320/16.VN-A564.PQC
+SGN 140/42/3 T/920   1/0   2/0   3/920   4/0    5/0
+SGN  B/920  C/0  M/0
+SI: 
+01BBSTRLL LDD H3
+----------------------------------------------------
+
+3. MVT
+BL320/16.VN-A564.PQC
+AD 1434/1445 EA 1525 SGN
+C/L 1433
+PUSH 1435
+PAX 185
+TOF 6800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM
+BL320/16AUG SGN PART1
+NGUYEN/NGOCQUYEN WCHR 4C 
+ENDPSM
+
+----------------------------------------------------
+
+5. MVA
+BL320/16.VN-A564.PQC
+AA 1526/1536

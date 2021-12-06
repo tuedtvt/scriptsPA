@@ -1,0 +1,47 @@
+1. CLM
+BL231/02.VN-A568.HAN
+CAMILO ANDRES TORRES ACOSTA
+(TAC)
+
+LONG NGUYEN TUAN (NGTL)
+
+LY2 HOANG KHANH (HKL2)
+
+LIEN4 CAO THI MY (CML4)
+
+DAT1 LE TRUONG PHUC (LTPD1)
+
+TAN1 NGUYEN NHUT (NNT1)
+
+
+----------------------------------------------------
+
+2. LDM
+BL231/02.VN-A568.HAN
+CXR 52/07/00 T/300   1/0   2/0   3/300   4/0    5/0
+CXR  B/300  C/0  M/0
+SI: 
+H1/NIL
+H3/B
+H4/NIL
+H5/NIL
+
+BRGDS TIEN
+----------------------------------------------------
+
+3. MVT
+BL231/02.VN-A568.HAN
+AD 0940/0955 EA 1124 CXR
+C/L 0939
+PUSH 0940
+PAX 59
+TOF 8600
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

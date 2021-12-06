@@ -1,0 +1,47 @@
+1. CLM
+BL752/30.VN-A577.SGN
+BL752   VNA577	VN6024
+SHAKIB M SH BESISO (SMB)
+
+HUY TA DUC (TDH)
+
+TUNG1 HOANG (HT01)
+
+MY5 NGUYEN THI HOAI (NHM5)
+
+HUNG5 HOANG NHAT (HNH5)
+
+LIEN3 TRAN THI BICH (TBL3)
+
+HUY7 TRAN KIM (TKH7)
+
+----------------------------------------------------
+
+2. LDM
+BL752/30.VN-A577.SGN
+HAN 155/18/05 T/1215   1/0   2/0   3/600   4/615    5/0
+HAN  B/1215  C/00  M/00
+SI: 
+CPT01/N
+CPT03/B
+CPT04/B
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL752/30.VN-A577.SGN
+AD 0835/0850 EA 1050 HAN
+C/L 0835
+PUSH 0836
+PAX 178
+TOF 9120
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL752/30.VN-A577.SGN
+AA 1030/1037

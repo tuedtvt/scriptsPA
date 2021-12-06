@@ -1,0 +1,46 @@
+1. CLM
+BL231/14.VN-A571.HAN
+TJEERD SCHOUTEN (SCT)
+
+SON TRAN ANH (TAS)
+
+NHUNG4 TRAN HONG (THN4)
+
+ANH41 DONG NAM (DNA41)
+
+KHANH3 TO NAM (TNK3)
+
+HA8 VU THU (VTH8)
+
+
+----------------------------------------------------
+
+2. LDM
+BL231/14.VN-A571.HAN
+CXR 86/02/03 T/465   1/0   2/0   3/465   4/0    5/0
+CXR  B/465  C/00  M/00
+SI: 
+*-* LDD INF *-*
+-H1/NIL
+-H3/B
+-H4/NIL
+-H5/NIL
+BRGDS-TUAN
+----------------------------------------------------
+
+3. MVT
+BL231/14.VN-A571.HAN
+AD 0935/0945 EA 1120 CXR
+C/L 0932
+PUSH 0935
+PAX 91
+TOF 7600
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

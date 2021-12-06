@@ -1,0 +1,46 @@
+1. CLM
+BL791/05.VN-A569.HAN
+JIN HANN GOH (HAG)
+
+TIEN TRIEU QUANG (VNTQT)
+
+QUANG2 NGUYEN TUAN (NTQ2)
+
+TRINH5 LE NU KIEU (LKT5)
+
+THAO3 NGUYEN PHUONG (NPT3)
+
+NGOC4 TRAN HOA NHU (TNN4)
+
+----------------------------------------------------
+
+2. LDM
+BL791/05.VN-A569.HAN
+SGN 110/8/2 T/540   1/0   2/0   3/540   4/0    5/0
+SGN  B/540  C/0  M/0
+SI: 
+***LDM INF***
+-CP1/N
+-CP3/B
+-CP4/N
+-CP5/NIL
+SI:
+BRGDS/DUONG
+----------------------------------------------------
+
+3. MVT
+BL791/05.VN-A569.HAN
+AD 2055/2105 EA 2302 SGN
+C/L 2049
+PUSH 2055
+PAX 120
+TOF 10200
+DL: 930/14 + 770/11
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,46 @@
+1. CLM
+BL787/11.VN-A568.HAN
+WILLIAM RAUL GARCIA MUNOZ
+(WRM)
+
+KIEN DANG VU BAO (DVBK)
+
+HIEU1 VU TRUNG (VTH1)
+
+QUYNH4 DO NHU (DNQ4)
+
+DIEN1 HOANG VAN (HVD1)
+
+PHUNG3 LE QUANG (LQP3)
+
+
+----------------------------------------------------
+
+2. LDM
+BL787/11.VN-A568.HAN
+SGN 150/8/4 T/1172   1/677   2/0   3/0   4/495    5/0
+SGN  B/495  C/677  M/0
+SI: 
+H1/C
+H3/NIL
+H4/B
+H5/NIL
+BRGDS/DUNG
+----------------------------------------------------
+
+3. MVT
+BL787/11.VN-A568.HAN
+AD 1750/1800 EA 1950 SGN
+C/L 1745
+PUSH 1750
+PAX 162
+TOF 10600
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

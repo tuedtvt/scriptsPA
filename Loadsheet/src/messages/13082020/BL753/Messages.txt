@@ -1,0 +1,47 @@
+1. CLM
+BL753/13.VN-A571.HAN
+JESUS MANUEL RIVERA (JMR)
+
+HUAN LE CONG (LCH)
+
+NHUNG4 TRAN HONG (THN4)
+
+HUONG11 BUI THANH (BTH11)
+
+NGOC12 DUONG ANH (DAN12)
+
+CHINH8 NGUYEN VIET (NVC8)
+
+
+----------------------------------------------------
+
+2. LDM
+BL753/13.VN-A571.HAN
+SGN 128/7/2 T/3066   1/1488   2/0   3/798   4/780    5/0
+SGN  B/480  C/2586  M/0
+SI: 
+H1/SGN/C
+H3/SGN/C
+H4/SGN/C.SGN/B
+H5/NIL
+--
+BRGDS,
+BUIDUY
+----------------------------------------------------
+
+3. MVT
+BL753/13.VN-A571.HAN
+AD 0535/0545 EA 0735 SGN
+C/L 0530
+PUSH 0535
+PAX 137
+TOF 9800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,46 @@
+1. CLM
+BL748/04.VN-A566.SGN
+ROBERT ALAN LINDSAY (RAL)
+
+CONG HOANG VIET (VNHVC)
+
+TIEN NGUYEN DUNG (NDT)
+
+HIEN1 NGUYEN THI THU (NTHU1)
+
+LINH12 DANG MAI (DML12)
+
+LIEU1 NGUYEN THI NGOC (NNL1)
+
+TRI3 PHUNG TRONG (PHTT3)
+
+----------------------------------------------------
+
+2. LDM
+BL748/04.VN-A566.SGN
+HAN 79/13/0 T/2520   1/1120   2/0   3/850   4/550    5/0
+HAN  B/450  C/2070  M/0
+SI: 
+CPT01/C
+CPT03/C
+CPT04/C+B
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL748/04.VN-A566.SGN
+AD 0610/0634 EA 0832 HAN
+C/L 0610
+PUSH 0622
+PAX 92
+TOF 10080
+DL: 631/0010 TO LAI HUAN LUYEN
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL748/04.VN-A566.SGN
+AA 0820/0825

@@ -1,0 +1,46 @@
+1. CLM
+BL777/29.VN-A570.HAN
+NAM HOANG LE (VNHLN)
+
+QUAN DO HONG (VNDQU)
+
+HOANG4 NGUYEN MINH (NMH4)
+
+BAO4 DUONG THAI (DTB4)
+
+THAO3 NGUYEN PHUONG (NPT3)
+
+HOAN1 VO THANH (VTHO1)
+
+----------------------------------------------------
+
+2. LDM
+BL777/29.VN-A570.HAN
+SGN 151/4/4 T/1965   1/960   2/0   3/450   4/555    5/0
+SGN  B/1005  C/960  M/0
+SI: 
+H1/SGN/C
+H3/SGN/B
+H4/SGN/B
+H5/NIL
+--
+BRGDS,
+BUIDUY
+----------------------------------------------------
+
+3. MVT
+BL777/29.VN-A570.HAN
+AD 1700/1715 EA 1915 SGN
+C/L 1655
+PUSH 1700
+PAX 159
+TOF 10100
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

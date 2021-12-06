@@ -1,0 +1,46 @@
+1. CLM
+BL780/22.VN-A569.SGN
+BL780/VN6010-VNA569-HAN
+TAN NGUYEN QUOC (VNNQT)
+
+TAI HUYNH HUU (HHT)
+
+TAM4 LE THANH (LTT4)
+
+QUYNH4 DO NHU (DNQ4)
+
+LAM5 DO TUNG (DTL5)
+
+NAM5 NGUYEN PHUONG (NPN5)
+
+----------------------------------------------------
+
+2. LDM
+BL780/22.VN-A569.SGN
+HAN 172/12/02 T/2260   1/1030   2/0   3/285   4/945    5/0
+HAN  B/945  C/1315  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B
+CPT05/N
+SI: N
+--BEST REGARDS/TÂM--
+----------------------------------------------------
+
+3. MVT
+BL780/22.VN-A569.SGN
+AD 1605/1627 EA 1827 HAN
+C/L 1605
+PUSH 1608
+PAX 186
+TOF 10300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

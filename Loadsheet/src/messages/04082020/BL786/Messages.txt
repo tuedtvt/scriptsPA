@@ -1,0 +1,47 @@
+1. CLM
+BL786/04.VN-A572.SGN
+BL786/VN6014-VNA572-HAN
+OMAR FERNANDO FREDING CAÑETE (FOF)
+
+NAM DANG HOAI (VNDHN)
+
+MINH1 VU DUC (VDM1)
+
+PHUONG9 DO THI KIM (DKP9)
+
+DIEN1 HOANG VAN (HVD1)
+
+NAM5 NGUYEN PHUONG (NPN5)
+
+----------------------------------------------------
+
+2. LDM
+BL786/04.VN-A572.SGN
+HAN 119/15/00 T/2390   1/725   2/0   3/630   4/810    5/225
+HAN  B/1035  C/1355  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B
+CPT05/B
+SI: N
+--BEST REGARDS/TÂM--
+
+----------------------------------------------------
+
+3. MVT
+BL786/04.VN-A572.SGN
+AD 2220/2235 EA 0035 HAN
+C/L 2220
+PUSH 2225
+PAX 134
+TOF 9800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

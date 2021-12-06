@@ -1,0 +1,52 @@
+1. CLM
+BL793/29.VN-A577.HAN
+ALBERTO JOSE ZARONE MORA (ZAA)
+
+HUNG TRAN HUU (THH)
+
+YEN HA THI HAI (HTHY)
+
+THUY3 VU THI THANH (VTTT3)
+
+THANH5 PHAN NGUYEN TRUONG
+(PTT5)
+
+LY8 NGUYEN PHUOC TON NU KHANH
+(NKL8)
+
+HUYNH1 NGUYEN THI NHU (NNH1)
+
+TAN1 NGUYEN NHUT (NNT1)
+
+----------------------------------------------------
+
+2. LDM
+BL793/29.VN-A577.HAN
+SGN 159/5/0 T/1766   1/716   2/0   3/450   4/600    5/0
+SGN  B/1050  C/716  M/0
+SI: 
+H1/SGN/C
+H3/SGN/B
+H4/SGN/B
+H5/NIL
+--
+BRGDS,
+BUIDUY
+----------------------------------------------------
+
+3. MVT
+BL793/29.VN-A577.HAN
+AD 2115/2125 EA 2315 SGN
+C/L 2110
+PUSH 2115
+PAX 164
+TOF 9860
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

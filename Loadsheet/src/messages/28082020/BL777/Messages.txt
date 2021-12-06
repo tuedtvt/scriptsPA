@@ -1,0 +1,51 @@
+1. CLM
+BL777/28.VN-A566.HAN
+ALBERTO JOSE ZARONE MORA (ZAA)
+
+SHEPHARD PAUL EDWARD (PES)
+
+YEN HA THI HAI (HTHY)
+
+HUONG2 NGUYEN THI LAN (NLH2)
+
+MY5 NGUYEN THI HOAI (NHM5)
+
+TRINH2 HUYNH NGUYEN DOAN(HNDT2)
+
+THAO6 LE THI XUAN (LXT6)
+
+LINH8 TONG HUE (THL8)
+
+
+----------------------------------------------------
+
+2. LDM
+BL777/28.VN-A566.HAN
+SGN 158/05/03 T/1473   1/485   2/0   3/358   4/630    5/0
+SGN  B/630  C/843  M/0
+SI: 
+H1/C
+H3/C
+H4/B
+H5/NIL
+SI:
+D.HIEU
+----------------------------------------------------
+
+3. MVT
+BL777/28.VN-A566.HAN
+AD 1700/1715 EA 1905 SGN
+C/L 1655
+PUSH 1700
+PAX 166
+TOF 9500
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL777/28.VN-A566.HAN
+AA 1900/1910

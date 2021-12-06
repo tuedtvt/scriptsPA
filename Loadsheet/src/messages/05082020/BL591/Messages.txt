@@ -1,0 +1,37 @@
+1. CLM
+BL591/05.VN-A562.HPH
+BL591/05.VN-A562.SGN
+NAM BUI HOANG TON (BHTN)
+ CONG HOANG VIET (VNHVC)
+ DUC1 NGUYEN ANH (NAD1)
+ HIEN9 DUONG THI THU (DTH9)
+ NGHIA2 LE TRONG (LTN2)
+ DAT4 NGUYEN HUU (NHD4)
+
+----------------------------------------------------
+
+2. LDM
+BL591/05.VN-A562.HPH
+SGN 109/40/4 T/2995   1/1249   2/0   3/980   4/555    5/211
+SGN  B/1249  C/1746  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL591/05.VN-A562.HPH
+AD 1617/1640 EA 1820 SGN
+C/L 1616
+PUSH 1630
+PAX 153
+TOF 100000
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL591/05.VN-A562.HPH
+AA 1825/1835

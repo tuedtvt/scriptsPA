@@ -1,0 +1,49 @@
+1. CLM
+BL555/15.VN-A573.VII
+BL555/VN6432-VNA573-VII 
+HONG LE THI BICH (LTBH)
+ 
+HUNG TRAN HUU (THH)
+ 
+DUC1 NGUYEN ANH (NAD1)
+ 
+HOANG5 LE KHANH (LKH5)
+ 
+MY4 TRINH HAI (THM4)
+ 
+DUNG7 VO HUYNH (VHD7)
+
+
+----------------------------------------------------
+
+2. LDM
+BL555/15.VN-A573.VII
+SGN 147/22/9 T/2300   1/515   2/0   3/1050   4/735    5/0
+SGN  B/1785  C/515  M/0
+SI: 
+LOAD DIST:
+-H1/SGN/C
+-H3/SGN/B
+-H4/SGN/B
+-H5/NIL
+SI 02 PRIORITY BAGS LOAD IN H3
+SI 
+----------------------------------------------------
+
+3. MVT
+BL555/15.VN-A573.VII
+AD 1702/1709 EA 1839 SGN
+C/L 1658
+PUSH 
+PAX 178
+TOF 9800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL555/15.VN-A573.VII
+AA 1832/1840

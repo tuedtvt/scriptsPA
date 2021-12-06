@@ -1,0 +1,36 @@
+1. CLM
+BL320/08.VN-A566.PQC
+JORGE LUIS CELY SALAZAR (JLS)
+ QUAN DO HONG (VNDQU)
+ ANH31 VU HOANG PHUONG (VPA31)
+ HOANG5 LE KHANH (LKH5)
+ TRINH4 LE THI TUONG (LTTT4)
+ MY4 TRINH HAI (THM4)
+
+----------------------------------------------------
+
+2. LDM
+BL320/08.VN-A566.PQC
+SGN 147/26/5 T/1367   1/265   2/0   3/800   4/302    5/0
+SGN  B/1102  C/265  M/00
+SI: 
+1BBSTRLL LDD H4
+----------------------------------------------------
+
+3. MVT
+BL320/08.VN-A566.PQC
+AD 1440/1452 EA 1532 SGN
+C/L 1439
+PUSH 1441
+PAX 178
+TOF 7300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL320/08.VN-A566.PQC
+AA 1540/1550

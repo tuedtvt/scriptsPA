@@ -1,0 +1,47 @@
+1. CLM
+BL775/23.VN-A565.HAN
+ ANTONIO ERNESTO ALONSO
+ESCANDELL (AAE)
+
+VINCENZO PARISI (PAV)
+
+KHANH1 NGUYEN HOANG PHUONG
+(NPK1)
+
+ANH31 VU HOANG PHUONG (VPA31)
+
+BO1 NGUYEN TRUNG (NTB1)
+
+QUI1 PHAN VAN (PVQ1)
+
+TAI3 VO MINH (VMT3)
+
+----------------------------------------------------
+
+2. LDM
+BL775/23.VN-A565.HAN
+SGN 165/12/05 T/2709   1/1074   2/0   3/720   4/915    5/0
+SGN  B/1110  C/1599  M/0
+SI: 
+H1/C
+H3/C/B
+H4/B
+H5/NIL
+----------------------------------------------------
+
+3. MVT
+BL775/23.VN-A565.HAN
+AD 1510/1520 EA 1715 SGN
+C/L 1505
+PUSH 1510
+PAX 182
+TOF 10800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

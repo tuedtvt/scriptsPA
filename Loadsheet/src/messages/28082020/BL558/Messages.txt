@@ -1,0 +1,41 @@
+1. CLM
+BL558/28.VN-A565.VII
+OMAR FERNANDO FREDING CAÑETE (FOF)
+ 
+LONG NGUYEN TUAN (NGTL)
+
+LY2 HOANG KHANH (HKL2)
+
+ PHAT1 BUI QUANG (BQP1)
+
+ DAT3 NGUYEN BA (NBD3)
+
+ ANH34 NGUYEN THI (NTA34)
+
+----------------------------------------------------
+
+2. LDM
+BL558/28.VN-A565.VII
+HAN 0/0/0 T/0   1/0   2/0   3/0   4/0    5/0
+HAN  B/0  C/0  M/0
+SI: 
+FERRY FLIGHT
+----------------------------------------------------
+
+3. MVT
+BL558/28.VN-A565.VII
+AD 1817/1825 EA 1855 HAN
+C/L 1806
+PUSH 
+PAX 0
+TOF 5800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL558/28.VN-A565.VII
+AA 1900/1909

@@ -1,0 +1,43 @@
+1. CLM
+BL764/04.VN-A566.SGN
+CAMILO ANDRES TORRES ACOSTA (TAC)
+
+LONG NGUYEN TUAN (NGTL)
+
+BAO3 TRAN TON QUOC (TTQB3)
+
+NHI3 DUONG NGOC (DNN3)
+
+GIANG4 LE THI CAM (LCG4)
+
+NGHI1 LE NGUYEN THUC (LNTN1)
+
+----------------------------------------------------
+
+2. LDM
+BL764/04.VN-A566.SGN
+HAN 124/18/6 T/975   1/0   2/0   3/975   4/0    5/0
+HAN  B/975  C/0  M/0
+SI: 
+CPT01/N
+CPT03/B
+CPT04/N
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL764/04.VN-A566.SGN
+AD 1238/1257 EA 1455 HAN
+C/L 1238
+PUSH 1246
+PAX 148
+TOF 10400
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

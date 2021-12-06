@@ -1,0 +1,45 @@
+1. CLM
+BL765/03.VN-A566.HAN
+HECTOR AUGUSTO MEUREHG
+AMENDOLLA (HEA)
+
+SON TRAN ANH (TAS)
+
+NGOC7 NGUYEN THE (NGTN7)
+
+CHI2 DANG THI KIM (DKC2)
+
+TOAN2 LE VAN (LVTO2)
+
+HIEU4 NGUYEN TRONG (NGTH4)
+
+----------------------------------------------------
+
+2. LDM
+BL765/03.VN-A566.HAN
+SGN 114/16/04 T/1155   1/0   2/0   3/405   4/750    5/0
+SGN  B/1155  C/0  M/0
+SI: 
+H1/NIL
+H3/B
+H4/B
+H5/NIL
+
+----------------------------------------------------
+
+3. MVT
+BL765/03.VN-A566.HAN
+AD 1120/1135 EA 1325 SGN
+C/L 1118
+PUSH 1120
+PAX 134
+TOF 10800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

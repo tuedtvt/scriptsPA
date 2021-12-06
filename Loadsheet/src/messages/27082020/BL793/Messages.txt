@@ -1,0 +1,45 @@
+1. CLM
+BL793/27.VN-A562.HAN
+JORGE ALEJANDRO PEÑA IRUN (PJA)
+
+SON TRAN NHU (VNTNS)
+
+THAO1 PHAM PHUONG (PPT1)
+
+MY7 LAM THI NGOC (LNM7)
+
+ANH27 LE THI PHUONG (LPA27)
+
+THAO6 LE THI XUAN (LXT6)
+
+
+----------------------------------------------------
+
+2. LDM
+BL793/27.VN-A562.HAN
+SGN 163/10/0 T/1558   1/538   2/0   3/420   4/600    5/0
+SGN  B/1020  C/538  M/0
+SI: 
+***LD INF***
+CPT1/C
+CPT3/B
+CPT4/B
+CPT5/NIL
+----------------------------------------------------
+
+3. MVT
+BL793/27.VN-A562.HAN
+AD 2114/2129 EA 2319 SGN
+C/L 2110
+PUSH 2114
+PAX 173
+TOF 9500
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,42 @@
+1. CLM
+BL320/09.VN-A577.PQC
+MOHAMED AFZAL AHMED (MAA)
+
+JOSE CARLOS SANCHEZ COBOS (CJS)
+
+HUONG3 NGUYEN THU (NTH3)
+
+HOANG5 LE KHANH (LKH5)
+
+NGHIA2 LE TRONG (LTN2)
+
+KHANH4 VU DUC (VDK4)
+
+
+----------------------------------------------------
+
+2. LDM
+BL320/09.VN-A577.PQC
+SGN 147/19/1 T/982   1/204   2/0   3/778   4/0    5/0
+SGN  B/778  C/204  M/0
+SI: 
+C14/204
+B71/778
+----------------------------------------------------
+
+3. MVT
+BL320/09.VN-A577.PQC
+AD 1440/1451 EA 1520 SGN
+C/L 1439
+PUSH 1441
+PAX 167
+TOF 8300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

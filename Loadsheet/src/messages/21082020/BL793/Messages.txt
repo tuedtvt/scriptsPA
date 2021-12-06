@@ -1,0 +1,46 @@
+1. CLM
+BL793/21.VN-A571.HAN
+ARIO TEJO CHRISTOFORUS (ART)
+
+PHILIPPE NOEL JEAN LE GALL (LPN)
+
+HA NGUYEN DANG (NDH)
+
+ANH22 BUI THI PHUONG (BPA22)
+
+HA7 DAO THI THU (DTH7)
+
+LOC1 NGUYEN HUU (NHL1)
+
+MINH3 TRAN NGUYEN NHA (TNM3)
+
+
+----------------------------------------------------
+
+2. LDM
+BL793/21.VN-A571.HAN
+SGN 150/07/0 T/1978   1/805   2/0   3/738   4/435    5/0
+SGN  B/435  C/1543  M/0
+SI: 
+H1/C
+H3/C
+H4/B
+H5/NIL
+----------------------------------------------------
+
+3. MVT
+BL793/21.VN-A571.HAN
+AD 2120/2130 EA 2325 SGN
+C/L 2114
+PUSH 2120
+PAX 157
+TOF 9300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

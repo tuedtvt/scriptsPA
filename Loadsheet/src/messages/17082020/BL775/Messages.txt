@@ -1,0 +1,43 @@
+1. CLM
+BL775/17.VN-A567.HAN
+ASHLEY LUKE BYRNE (ALB)
+
+TU VUONG NGUYEN ANH (VNAT1)
+
+THAO5 TO THI THU (TTT5)
+
+BAO4 DUONG THAI (DTB4)
+
+TRAM3 HUYNH LE NGOC (HNT3)
+
+DANG1 TRINH HOANG HAI (THD1)
+
+----------------------------------------------------
+
+2. LDM
+BL775/17.VN-A567.HAN
+SGN 165/13/03 T/2009   1/1154   2/0   3/0   4/855    5/0
+SGN  B/855  C/1154  M/0
+SI: 
+h1/c
+h3/nil
+h4/b
+h5/nil
+----------------------------------------------------
+
+3. MVT
+BL775/17.VN-A567.HAN
+AD 1510/1525 EA 1715 SGN
+C/L 1502
+PUSH 1510
+PAX 181
+TOF 10380
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

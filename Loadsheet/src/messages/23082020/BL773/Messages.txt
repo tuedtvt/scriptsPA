@@ -1,0 +1,45 @@
+1. CLM
+BL773/23.VN-A566.HAN
+SHAYE ROGAN MORLEY-HART (SRM)
+
+EVGENII KLASSEN (KLE)
+
+DUC1 NGUYEN ANH (NAD1)
+
+LINH20 CAO THI KHANH (CKL20)
+
+THONG1 LE HOANG (LHTH1)
+
+THU4 VAN ANH (VAT4)
+
+----------------------------------------------------
+
+2. LDM
+BL773/23.VN-A566.HAN
+SGN 165/19/03 T/2312   1/1172   2/0   3/540   4/600    5/0
+SGN  B/1140  C/1172  M/0
+SI: 
+H1/C
+H3/B
+H4/B
+H5/NIL
+BRGS NGOC ANH
+----------------------------------------------------
+
+3. MVT
+BL773/23.VN-A566.HAN
+AD 1545/1557 EA 1747 SGN
+C/L 1544
+PUSH 1545
+PAX 187
+TOF 10700
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL773/23.VN-A566.HAN
+AA 1705/1715

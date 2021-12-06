@@ -1,0 +1,46 @@
+1. CLM
+BL230/10.VN-A572.CXR
+CLM
+BL230/10.VNA572.CXR
+  1  CAPT  THANG NGUYEN QUOC (NQT1)
+          
+  2  FO  CUONG BUI MANH (BCU)
+          
+  3  CM  PHUONG6 NGUYEN QUYNH (NQP6)
+          
+  4  CA  NGOC12 DUONG ANH (DAN12)
+          
+  5  CA  VAN1 LE THANH (LTV1)
+          
+  6  CA  LAI1 TRAN NGOC (TNL1)
+          
+End of Crew List
+----------------------------------------------------
+
+2. LDM
+BL230/10.VN-A572.CXR
+HAN 134/17/6 T/2544   1/1314   2/0   3/300   4/930    5/0
+HAN  B/930  C/1614  M/0
+SI: 
+H1: C/70PCS
+H3: C/16PCS
+H4: B/59PCS N BBSTRL/03PCS
+H5: NIL
+----------------------------------------------------
+
+3. MVT
+BL230/10.VN-A572.CXR
+AD 1202/1215 EA 1354 HAN
+C/L 1200
+PUSH 1202
+PAX 157
+TOF 8060
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

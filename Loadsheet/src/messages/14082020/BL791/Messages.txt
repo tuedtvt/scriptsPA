@@ -1,0 +1,43 @@
+1. CLM
+BL791/14.VN-A573.HAN
+MAURIZIO RUSSO (MRR)
+
+SON TRAN NHU (VNTNS)
+
+VY2 TRAN THI BICH (TBV2)
+
+HOANG5 LE KHANH (LKH5)
+
+THANH13 PHAN DUY (PDT13)
+
+DUNG7 VO HUYNH (VHD7)
+
+----------------------------------------------------
+
+2. LDM
+BL791/14.VN-A573.HAN
+SGN 160/3/2 T/1836   1/947   2/0   3/589   4/300    5/0
+SGN  B/300  C/1536  M/0
+SI: 
+CPT1/C
+CPT3/C
+CPT4/B
+CPT5/N
+----------------------------------------------------
+
+3. MVT
+BL791/14.VN-A573.HAN
+AD 2030/2046 EA 2236 SGN
+C/L 2025
+PUSH 2030
+PAX 165
+TOF 9500
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,47 @@
+1. CLM
+BL748/06.VN-A567.SGN
+ANDRES MARCELO VINTIMILLA CRUZ (CRA)
+
+PATRICK VICTOR ALBERT VAN
+DAMME (PVV)
+
+THAO1 PHAM PHUONG (PPT1)
+
+SANG1 NGUYEN PHU (NPS1)
+
+CHIEN1 NGUYEN QUANG (NQC1)
+
+PHUONG7 PHAN NGOC (PNP7)
+
+----------------------------------------------------
+
+2. LDM
+BL748/06.VN-A567.SGN
+HAN 86/12/01 T/1630   1/1135   2/0   3/0   4/495    5/0
+HAN  B/495  C/1135  M/00
+SI: 
+--CPT01/C	  
+--CPT03/N 
+--CPT04/B  
+--CPT05/N 
+
+REGARDS/QUANG
+----------------------------------------------------
+
+3. MVT
+BL748/06.VN-A567.SGN
+AD 0555/0610 EA 0810 HAN
+C/L 0555
+PUSH 0600
+PAX 99
+TOF 10340
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL748/06.VN-A567.SGN
+AA 0755/0800

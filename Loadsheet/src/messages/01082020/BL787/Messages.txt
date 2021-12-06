@@ -1,0 +1,47 @@
+1. CLM
+BL787/01.VN-A570.HAN
+ANDRES MARCELO VINTIMILLA CRUZ(CRA)
+
+PATRICK VICTOR ALBERT VAN DAMME (PVV)
+
+HIEN8 NGUYEN THANH (NTH8)
+
+DIEN1 HOANG VAN (HVD1)
+
+CUONG2 NGUYEN VAN (NVC2)
+
+ANH36 PHAN TUAN (PTA36)
+
+----------------------------------------------------
+
+2. LDM
+BL787/01.VN-A570.HAN
+SGN 143/22/3 T/1080   1/0   2/0   3/450   4/630    5/0
+SGN  B/1080  C/0  M/0
+SI: 
+***LDM INF***
+-CP1/N
+-CP3/B
+-CP4/B
+-CP5/NIL
+SI:
+BRGDS/DUONG
+----------------------------------------------------
+
+3. MVT
+BL787/01.VN-A570.HAN
+AD 1750/1810 EA 2008 SGN
+C/L 1746
+PUSH 1750
+PAX 168
+TOF 10800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL787/01.VN-A570.HAN
+AA 1955/2005

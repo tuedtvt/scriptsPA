@@ -1,0 +1,45 @@
+1. CLM
+BL320/01.VN-A569.PQC
+HUY NGUYEN DANG (VNNDH)
+
+MANUEL HORST EWALD FINGER(FME)
+
+HANG6 DO THI THU (DTH6)
+
+NGOC6 LE THI BICH (LBN6)
+
+LINH14 LE THANH MAI (LML14)
+
+TRAN4 LOC THUY MAI (LMT4)
+
+----------------------------------------------------
+
+2. LDM
+BL320/01.VN-A569.PQC
+SGN 147/33/03 T/693   1/693   2/0   3/0   4/0    5/0
+SGN  B/693  C/00  M/00
+SI: 
+-------------SGN/BAG/70PCS/693KGS--------------------------01BBYSTRL LDD H1----------------
+----------------------------------------------------
+
+3. MVT
+BL320/01.VN-A569.PQC
+AD 1500/1523 EA 1603 SGN
+C/L 1459
+PUSH 1501
+PAX 183
+TOF 8300
+DL: DL930/0015
+----------------------------------------------------
+
+4. PSM
+PSM
+BL320/01AUG PQC PART1
+-SGN
+NIL
+ENDPSM
+----------------------------------------------------
+
+5. MVA
+BL320/01.VN-A569.PQC
+AA 1610/1620

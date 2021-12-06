@@ -1,0 +1,47 @@
+1. CLM
+BL764/12.VN-A568.SGN
+BL764/VN6020-VNA568
+HUNG NGUYEN PHI (NPH1)
+
+PHILIPPE NOEL JEAN LE GALL (LPN)
+
+THANG3 VU NGOC (VNT3)
+
+NHUNG7 NGUYEN THI TUYET (NTN7)
+
+LAM5 DO TUNG (DTL5)
+
+KHANH3 TO NAM (TNK3)
+
+HUYEN6 VU THI MINH (VMH6)
+
+----------------------------------------------------
+
+2. LDM
+BL764/12.VN-A568.SGN
+HAN 153/15/02 T/2395   1/965   2/0   3/890   4/540    5/0
+HAN  B/540  C/1855  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL764/12.VN-A568.SGN
+AD 1115/1145 EA 1330 HAN
+C/L 1115
+PUSH 1120
+PAX 170
+TOF 10300
+DL: 00
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL764/12.VN-A568.SGN
+AA 1326/1332

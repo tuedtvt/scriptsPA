@@ -1,0 +1,45 @@
+1. CLM
+BL747/05.VN-A570.HAN
+CAMILO ANDRES TORRES ACOSTA (TAC)
+
+LONG NGUYEN TUAN (NGTL)
+
+NGOC7 NGUYEN THE (NGTN7)
+
+VAN1 LE THANH (LTV1)
+
+LINH21 NGUYEN THI PHUONG (NPL21)
+
+HUONG9 NGUYEN THANH THANH (NTH9)
+
+
+----------------------------------------------------
+
+2. LDM
+BL747/05.VN-A570.HAN
+SGN 93/8/0 T/2612   1/1223   2/0   3/685   4/445    5/259
+SGN  B/315  C/2267  M/0
+SI: 
+CPT1/C
+CPT3/C
+CPT4/C+B
+CPT5/C
+----------------------------------------------------
+
+3. MVT
+BL747/05.VN-A570.HAN
+AD 0450/0457 EA 0647 SGN
+C/L 0446
+PUSH 0450
+PAX 101
+TOF 9200
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL747/05.VN-A570.HAN
+AA 0635/0645

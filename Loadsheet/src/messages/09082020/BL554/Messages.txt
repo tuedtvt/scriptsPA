@@ -1,0 +1,42 @@
+1. CLM
+BL554/09.VN-A567.SGN
+GIACOMO CORONESE (CGC)
+
+THANG NGUYEN DINH (VNDIT)
+
+HUONG2 NGUYEN THI LAN (NLH2)
+
+THY2 DANG NGOC MAI (DNMT2)
+
+NHU3 NGUYEN THI HUYNH (NHN3)
+
+ANH19 NGUYEN THI THUY (NTA19)
+
+
+----------------------------------------------------
+
+2. LDM
+BL554/09.VN-A567.SGN
+VII 164/22/5 T/1110   1/0   2/0   3/1110   4/0    5/0
+VII  B/1110  C/0  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL554/09.VN-A567.SGN
+AD 1410/1428 EA 1608 VII
+C/L 1410
+PUSH 1416
+PAX 191
+TOF 7300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL554/09.VN-A567.SGN
+AA 1558/1601

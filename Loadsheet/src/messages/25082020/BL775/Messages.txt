@@ -1,0 +1,45 @@
+1. CLM
+BL775/25.VN-A571.HAN
+DANG NGUYEN XUAN (NXD1)
+
+NHUT TRUONG MINH (TMN)
+
+BAO2 TRAN QUOC (TQB2)
+
+LUAN2 HUYNH NGOC (HNL2)
+
+TRANG18 NGUYEN THUY (NTT18)
+
+TOAN4 VO NGUYEN TIEN (VTT4)
+
+
+----------------------------------------------------
+
+2. LDM
+BL775/25.VN-A571.HAN
+SGN 171/14/03 T/2106   1/1071   2/0   3/480   4/555    5/0
+SGN  B/1035  C/1071  M/00
+SI: 
+H1/C
+H3/B
+H4/B
+H5/NIL
+
+----------------------------------------------------
+
+3. MVT
+BL775/25.VN-A571.HAN
+AD 1515/1525 EA 1715 SGN
+C/L 1505
+PUSH 1510
+PAX 188
+TOF 10600
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

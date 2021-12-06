@@ -1,0 +1,45 @@
+1. CLM
+BL231/01.VN-A566.HAN
+GIACOMO CORONESE (CGC)
+
+NIRAJ ADHIKARI (NIA)
+
+NGOC7 NGUYEN THE (NGTN7)
+
+HANG10 DAM THI LE (DLH10)
+
+NGHI1 LE NGUYEN THUC (LNTN1)
+
+CUONG3 NGO CHI (NCC3)
+
+
+----------------------------------------------------
+
+2. LDM
+BL231/01.VN-A566.HAN
+CXR 79/13/1 T/420   1/0   2/0   3/420   4/0    5/0
+CXR  B/420  C/0  M/0
+SI: 
+CPT1/N
+CPT3/B
+CPT4/N
+CPT5/N
+----------------------------------------------------
+
+3. MVT
+BL231/01.VN-A566.HAN
+AD 0940/0950 EA 1120 CXR
+C/L 0937
+PUSH 0940
+PAX 93
+TOF 8500
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL231/01.VN-A566.HAN
+AA 1125/1133

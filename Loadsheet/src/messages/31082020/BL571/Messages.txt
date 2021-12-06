@@ -1,0 +1,47 @@
+1. CLM
+BL571/31.VN-A570.THD
+TUAN VU ANH (VNVAT)
+
+TRUNG NGUYEN QUOC (NQTR)
+
+QUYNH2 DANG DUC (DDQ2)
+
+MY5 NGUYEN THI HOAI (NHM5)
+
+LINH12 DANG MAI (DML12)
+
+THAO6 LE THI XUAN (LXT6)
+
+LINH22 PHAN THAO (PTL22)
+
+----------------------------------------------------
+
+2. LDM
+BL571/31.VN-A570.THD
+SGN 145/24/3 T/2359   1/844   2/0   3/975   4/540    5/0
+SGN  B/1515  C/844  M/0
+SI: 
+H1/C
+H3/B
+H4/B
+H5/C
+SI 
+----------------------------------------------------
+
+3. MVT
+BL571/31.VN-A570.THD
+AD 1523/1530 EA 1710 SGN
+C/L 1515
+PUSH 0000
+PAX 172
+TOF 10700
+DL: 990/0003
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL571/31.VN-A570.THD
+AA 1710/1720

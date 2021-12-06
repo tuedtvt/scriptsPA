@@ -1,0 +1,49 @@
+1. CLM
+BL752/23.VN-A564.SGN
+BL752  VNA564	VN6024
+ROBERT ALAN LINDSAY (RAL)
+
+VINH LY THIEU (LTV)
+
+ANH CHU QUOC (CQA)
+
+KHANH1 NGUYEN HOANG PHUONG
+(NPK1)
+
+ANH31 VU HOANG PHUONG (VPA31)
+
+BO1 NGUYEN TRUNG (NTB1)
+
+QUI1 PHAN VAN (PVQ1)
+
+TAI3 VO MINH (VMT3)
+
+----------------------------------------------------
+
+2. LDM
+BL752/23.VN-A564.SGN
+HAN 172/14/01 T/2000   1/965   2/0   3/0   4/1035    5/0
+HAN  B/1035  C/965  M/00
+SI: 
+CPT01/C
+CPT03/N
+CPT04/B
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL752/23.VN-A564.SGN
+AD 0835/0900 EA 1100 HAN
+C/L 0835
+PUSH 0836
+PAX 187
+TOF 10280
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,46 @@
+1. CLM
+BL767/02.VN-A573.HAN
+ANDRES MARCELO VINTIMILLA CRUZ
+(CRA)
+
+PATRICK VICTOR ALBERT VAN
+DAMME (PVV)
+
+THUY3 VU THI THANH (VTTT3)
+
+TRANG23 LE THI HUYEN (LHT23)
+
+TUAN2 PHAM ANH (PAT2)
+
+PHUONG7 PHAN NGOC (PNP7)
+
+
+----------------------------------------------------
+
+2. LDM
+BL767/02.VN-A573.HAN
+SGN 133/14/04 T/1275   1/0   2/0   3/675   4/600    5/0
+SGN  B/1275  C/0  M/0
+SI: 
+-CPT1/N
+-CPT3/B
+-CPT4/B
+-CPT5/N
+----------------------------------------------------
+
+3. MVT
+BL767/02.VN-A573.HAN
+AD 1410/1421 EA 1600 SGN
+C/L 1400
+PUSH 1410
+PAX 151
+TOF 10840
+DL: 850/05
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

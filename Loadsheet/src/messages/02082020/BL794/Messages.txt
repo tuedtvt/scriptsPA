@@ -1,0 +1,47 @@
+1. CLM
+BL794/02.VN-A566.SGN
+FRÉDÉRIC JEAN-CLAUDE
+JANKOWSKI (FJC)
+
+NHAN DAM KIEN (VNDKN)
+
+HIEN8 NGUYEN THANH (NTH8)
+
+DIEN1 HOANG VAN (HVD1)
+
+CONG1 LE THANH (LTC1)
+
+TRANG17 PHAM THUY (PTT17)
+
+
+----------------------------------------------------
+
+2. LDM
+BL794/02.VN-A566.SGN
+HAN 104/19/02 T/435   1/0   2/0   3/435   4/0    5/0
+HAN  B/435  C/00  M/00
+SI: 
+CPT1/NIL
+CPT3/B
+CPT4/NIL
+CPT5/NIL
+HUNG2
+----------------------------------------------------
+
+3. MVT
+BL794/02.VN-A566.SGN
+AD 2300/2314 EA 0114 HAN
+C/L 2300
+PUSH 2303
+PAX 125
+TOF 11000
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL794/02.VN-A566.SGN
+AA 0052/0100

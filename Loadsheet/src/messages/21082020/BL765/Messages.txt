@@ -1,0 +1,45 @@
+1. CLM
+BL765/21.VN-A565.HAN
+TJEERD SCHOUTEN (SCT)
+
+TRAN LUNG VAY (LUVT)
+
+LIEM1 VU TIEN (VTL1)
+
+HOANG4 NGUYEN MINH (NMH4)
+
+YEN2 CAO HONG (CHY2)
+
+TRAM3 HUYNH LE NGOC (HNT3)
+
+QUI1 PHAN VAN (PVQ1)
+
+----------------------------------------------------
+
+2. LDM
+BL765/21.VN-A565.HAN
+SGN 156/6/2 T/2850   1/1150   2/0   3/935   4/765    5/0
+SGN  B/765  C/2085  M/0
+SI: 
+h1/c
+h3/c
+h4/b
+h5/nil
+----------------------------------------------------
+
+3. MVT
+BL765/21.VN-A565.HAN
+AD 1130/1145 EA 1335 SGN
+C/L 1125
+PUSH 1130
+PAX 164
+TOF 10660
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,46 @@
+1. CLM
+BL793/09.VN-A573.HAN
+GIAO TRUONG NGOC (VNTNG)
+
+YANIEL FACENDA BARCELÓ (FBY)
+
+THAO1 PHAM PHUONG (PPT1)
+
+LOC1 NGUYEN HUU (NHL1)
+
+YEN6 NGUYEN HAI (NHY6)
+
+VI11 NGUYEN THAI (NTV11)
+
+
+----------------------------------------------------
+
+2. LDM
+BL793/09.VN-A573.HAN
+SGN 100/00/00 T/1861   1/786   2/0   3/685   4/390    5/0
+SGN  B/390  C/1471  M/00
+SI: 
+*-* LDD INF *-*
+-H1/C
+-H3/C
+-H4/B
+-H5/NIL
+BRGDS-TUAN
+----------------------------------------------------
+
+3. MVT
+BL793/09.VN-A573.HAN
+AD 2250/2300 EA 0100 SGN
+C/L 2240
+PUSH 2250
+PAX 1000
+TOF 9500
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

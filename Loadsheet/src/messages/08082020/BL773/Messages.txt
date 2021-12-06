@@ -1,0 +1,46 @@
+1. CLM
+BL773/08.VN-A577.HAN
+JIN HANN GOH (HAG)
+
+HIEP NGUYEN MINH (VNNMH)
+
+MINH1 VU DUC (VDM1)
+
+HUONG7 LY MAI (LMH7)
+
+TOAN2 LE VAN (LVTO2)
+
+HUYEN8 NGUYEN THI THU (NGTH8)
+
+
+----------------------------------------------------
+
+2. LDM
+BL773/08.VN-A577.HAN
+SGN 87/10/01 T/2653   1/930   2/0   3/770   4/745    5/208
+SGN  B/540  C/2113  M/00
+SI: 
+*-* LDD INF *-*
+-H1/C
+-H3/C
+-H4/C/B
+-H5/C
+BRGDS-TUAN
+----------------------------------------------------
+
+3. MVT
+BL773/08.VN-A577.HAN
+AD 1405/1415 EA 1615 SGN
+C/L 1400
+PUSH 1405
+PAX 98
+TOF 10600
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

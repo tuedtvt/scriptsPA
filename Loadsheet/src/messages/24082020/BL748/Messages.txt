@@ -1,0 +1,44 @@
+1. CLM
+BL748/24.VN-A572.SGN
+DANG NGUYEN XUAN (NXD1)
+
+DUY HO KHANH (HKD)
+
+TRANG9 TRAN NGOC HOAI (THT9)
+
+LUAN2 HUYNH NGOC (HNL2)
+
+CUONG3 NGO CHI (NCC3)
+
+VY10 NGUYEN BUI THAO (NTV10)
+
+VU THI THANH THUY 
+----------------------------------------------------
+
+2. LDM
+BL748/24.VN-A572.SGN
+HAN 115/04/01 T/1020   1/555   2/0   3/0   4/465    5/0
+HAN  B/465  C/555  M/00
+SI: 
+--CPT01/C   
+--CPT03/N   
+--CPT04/B   
+--CPT05/N   
+----------------------------------------------------
+
+3. MVT
+BL748/24.VN-A572.SGN
+AD 0550/0605 EA 0800 HAN
+C/L 0550
+PUSH 0555
+PAX 120
+TOF 9300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

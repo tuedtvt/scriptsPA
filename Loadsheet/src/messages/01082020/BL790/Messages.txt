@@ -1,0 +1,47 @@
+1. CLM
+BL790/01.VN-A570.SGN
+ANDRES MARCELO VINTIMILLA CRUZ
+(CRA)
+
+PATRICK VICTOR ALBERT VAN
+DAMME (PVV)
+
+HIEN8 NGUYEN THANH (NTH8)
+
+DIEN1 HOANG VAN (HVD1)
+
+CUONG2 NGUYEN VAN (NVC2)
+
+ANH36 PHAN TUAN (PTA36)
+
+
+----------------------------------------------------
+
+2. LDM
+BL790/01.VN-A570.SGN
+HAN 126/23/01 T/765   1/0   2/0   3/765   4/0    5/0
+HAN  B/765  C/00  M/00
+SI: 
+H1/NIL
+H3/B
+H4/NIL
+H5/NIL
+HUNG2
+----------------------------------------------------
+
+3. MVT
+BL790/01.VN-A570.SGN
+AD 2130/2148 EA 2348 HAN
+C/L 2130
+PUSH 2135
+PAX 150
+TOF 12020
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

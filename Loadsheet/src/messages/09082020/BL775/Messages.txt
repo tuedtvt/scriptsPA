@@ -1,0 +1,44 @@
+1. CLM
+BL775/09.VN-A564.HAN
+RICARDO GOMEZ MENACA (RGM)
+
+TIN NGUYEN HOANG (NHT)
+
+HIEU1 VU TRUNG (VTH1)
+
+QUYNH4 DO NHU (DNQ4)
+
+HIEU4 NGUYEN TRONG (NGTH4)
+
+HA8 VU THU (VTH8)
+
+
+----------------------------------------------------
+
+2. LDM
+BL775/09.VN-A564.HAN
+SGN 122/06/03 T/1110   1/0   2/0   3/600   4/510    5/0
+SGN  B/1110  C/0  M/0
+SI: 
+CPT1/N
+CPT3/B
+CPT4/B
+CPT5/N
+----------------------------------------------------
+
+3. MVT
+BL775/09.VN-A564.HAN
+AD 1500/1507 EA 1647 SGN
+C/L 1456
+PUSH 1500
+PAX 131
+TOF 10500
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

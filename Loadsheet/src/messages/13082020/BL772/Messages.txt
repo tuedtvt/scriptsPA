@@ -1,0 +1,48 @@
+1. CLM
+BL772/13.VN-A569.SGN
+BL772/VN6008-VNA569-HAN
+QUYET DINH HUU (VNDHQ)
+
+PHILIPPE NOEL JEAN LE GALL (LPN)
+
+DIEP1 TRAN NGOC (TND1)
+
+TRAM4 KIEU ANH (KAT4)
+
+TRANG10 NGUYEN THI HUYEN
+(NHT10)
+
+HAO2 PHAM THI MY (PMH2)
+
+----------------------------------------------------
+
+2. LDM
+BL772/13.VN-A569.SGN
+HAN 162/09/01 T/2540   1/1160   2/0   3/705   4/285    5/390
+HAN  B/285  C/2255  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B
+CPT05/C
+SI: N
+--BEST REGARDS/TÂM--
+
+----------------------------------------------------
+
+3. MVT
+BL772/13.VN-A569.SGN
+AD 2015/2032 EA 2232 HAN
+C/L 2015
+PUSH 2017
+PAX 172
+TOF 9420
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

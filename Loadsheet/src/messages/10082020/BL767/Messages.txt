@@ -1,0 +1,47 @@
+1. CLM
+BL767/10.VN-A571.HAN
+HUY NGUYEN DANG (VNNDH)
+
+SKANDER FEKI (FES)
+
+CUONG1 NGUYEN HUNG (NCU1)
+
+HAO4 HUA GIA (HGH4)
+
+TRAN4 LOC THUY MAI (LMT4)
+
+LIEU1 NGUYEN THI NGOC (NNL1)
+
+----------------------------------------------------
+
+2. LDM
+BL767/10.VN-A571.HAN
+SGN 150/5/2 T/1217   1/647   2/0   3/0   4/570    5/0
+SGN  B/570  C/647  M/0
+SI: 
+H1/SGN/C
+H3/NIL
+H4/SGN/B
+H5/NIL
+--
+BRGDS,
+BUIDUY
+----------------------------------------------------
+
+3. MVT
+BL767/10.VN-A571.HAN
+AD 1405/1415 EA 1605 SGN
+C/L 1402
+PUSH 1405
+PAX 157
+TOF 10600
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL767/10.VN-A571.HAN
+AA 1555/1605

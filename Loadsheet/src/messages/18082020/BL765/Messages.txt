@@ -1,0 +1,47 @@
+1. CLM
+BL765/18.VN-A571.HAN
+DEAN WILLIAM STEVENSON (DWS)
+
+HUY NGUYEN QUANG (NQH)
+
+AN4 DOAN TRUONG (DTA4)
+
+LAM2 HO TUNG (HTL2)
+
+THANH13 PHAN DUY (PDT13)
+
+LINH7 PHAN KIEU (PKL7)
+
+----------------------------------------------------
+
+2. LDM
+BL765/18.VN-A571.HAN
+SGN 172/11/4 T/2916   1/955   2/0   3/800   4/840    5/321
+SGN  B/840  C/2076  M/0
+SI: 
+H1/SGN/C
+H3/SGN/C
+H4/SGN/B
+H5/SGN/C
+--
+BRGDS,
+BUIDUY
+----------------------------------------------------
+
+3. MVT
+BL765/18.VN-A571.HAN
+AD 1140/1150 EA 1340 SGN
+C/L 1138
+PUSH 1140
+PAX 187
+TOF 10200
+DL: 841/0010
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL765/18.VN-A571.HAN
+AA 1330/1340

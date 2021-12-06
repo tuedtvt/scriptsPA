@@ -1,0 +1,48 @@
+1. CLM
+BL780/07.VN-A566.SGN
+BL780/VN6010-VNA566-HAN
+PHILIPPE TEHEINUI JULES CHAN
+YOU KE (PTC)
+
+THU VAN NGOC ANH (VNVNT)
+
+HUONG3 NGUYEN THU (NTH3)
+
+PHAT1 BUI QUANG (BQP1)
+
+HOANG5 LE KHANH (LKH5)
+
+NGHIA2 LE TRONG (LTN2)
+
+
+----------------------------------------------------
+
+2. LDM
+BL780/07.VN-A566.SGN
+HAN 162/06/00 T/1280   1/695   2/0   3/0   4/585    5/0
+HAN  B/585  C/695  M/00
+SI: 
+CPT01/C
+CPT03/N
+CPT04/B
+CPT05/N
+SI: N
+--BEST REGARDS/TÂM--
+----------------------------------------------------
+
+3. MVT
+BL780/07.VN-A566.SGN
+AD 1702/1717 EA 1917 HAN
+C/L 1702
+PUSH 1702
+PAX 168
+TOF 9500
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

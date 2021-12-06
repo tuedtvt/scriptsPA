@@ -1,0 +1,45 @@
+1. CLM
+BL765/20.VN-A568.HAN
+SAMUEL JOHN CHANDRA (SJC)
+
+KHOA LE TAN (VNLTK)
+
+VINH2 TRAN TIEN (TTV2)
+
+LINH12 DANG MAI (DML12)
+
+TRANG13 LIEN THANH (LTT13)
+
+TRANG27 MAI THI KIEU (MKT27)
+
+PHAM THANH HOANG
+----------------------------------------------------
+
+2. LDM
+BL765/20.VN-A568.HAN
+SGN 173/10/0 T/3004   1/879   2/0   3/800   4/975    5/350
+SGN  B/1200  C/1804  M/0
+SI: 
+H1/C
+H3/C
+H4/B
+H5/C/B
+BRGDS TA
+----------------------------------------------------
+
+3. MVT
+BL765/20.VN-A568.HAN
+AD 1127/1140 EA 1330 SGN
+C/L 1124
+PUSH 1127
+PAX 183
+TOF 10000
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

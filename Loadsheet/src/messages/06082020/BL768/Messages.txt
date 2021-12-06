@@ -1,0 +1,44 @@
+1. CLM
+BL768/06.VN-A570.SGN
+WILLIAM RAUL GARCIA MUNOZ
+(WRM)
+
+HUAN LE CONG (LCH)
+
+KHANH1 NGUYEN HOANG
+PHUONGHA6 CHAU NGOC (CNH6)
+
+TRINH5 LE NU KIEU (LKT5)
+
+TUAN2 PHAM ANH (PAT2)
+
+
+----------------------------------------------------
+
+2. LDM
+BL768/06.VN-A570.SGN
+HAN 140/21/4 T/825   1/0   2/0   3/825   4/0    5/0
+HAN  B/825  C/0  M/0
+SI: 
+CPT1/N--CPT3/B--CPT4/N--CPT5/N
+NO BAG PRIO
+TKS/LOC
+----------------------------------------------------
+
+3. MVT
+BL768/06.VN-A570.SGN
+AD 1435/1455 EA 1653 HAN
+C/L 1435
+PUSH 1439
+PAX 165
+TOF 10100
+DL: 660/0020 TỔ BAY ĐẾN MÁY BAY TRỄ 600/0005 CHỜ CƠ TRƯỞNG CHO PHÉP BOARDING
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL768/06.VN-A570.SGN
+AA 1647/1652

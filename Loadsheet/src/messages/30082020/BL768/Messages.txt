@@ -1,0 +1,50 @@
+1. CLM
+BL768/30.VN-A570.SGN
+BL768/VN6026-VNA570-HAN
+JUAN CAMILO JARAMILLO HENAO
+(JCH)
+
+NAM DANG HOAI (VNDHN)
+
+QUYNH2 DANG DUC (DDQ2)
+
+AN2 TRAN NGOC THIEN (TNTA2)
+
+YEN6 NGUYEN HAI (NHY6)
+
+BINH1 PHAN THI (PTB1)
+
+LINH22 PHAN THAO (PTL22)
+
+
+----------------------------------------------------
+
+2. LDM
+BL768/30.VN-A570.SGN
+HAN 167/15/02 T/1350   1/0   2/0   3/900   4/450    5/0
+HAN  B/1350  C/00  M/00
+SI: 
+CPT01/N
+CPT03/B
+CPT04/B
+CPT05/N
+SI: N
+--BEST REGARDS/TÂM--
+----------------------------------------------------
+
+3. MVT
+BL768/30.VN-A570.SGN
+AD 1410/1435 EA 1635 HAN
+C/L 1410
+PUSH 1415
+PAX 184
+TOF 10300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,46 @@
+1. CLM
+BL790/02.VN-A567.SGN
+QUYET DINH HUU (VNDHQ)
+
+HUAN LE CONG (LCH)
+
+THUONG1 PHAM MINH (PMT1)
+
+CUONG2 NGUYEN VAN (NVC2)
+
+MANH1 NGUYEN VU (NVM1)
+
+HAO2 PHAM THI MY (PMH2)
+
+
+----------------------------------------------------
+
+2. LDM
+BL790/02.VN-A567.SGN
+HAN 102/06/02 T/435   1/0   2/0   3/435   4/0    5/0
+HAN  B/435  C/00  M/00
+SI: 
+CPT1/NIL
+CPT3/B
+CPT4/NIL
+CPT5/NIL
+HUNG2
+----------------------------------------------------
+
+3. MVT
+BL790/02.VN-A567.SGN
+AD 2245/2300 EA 0100 HAN
+C/L 2245
+PUSH 2250
+PAX 109
+TOF 11900
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL790/02.VN-A567.SGN
+AA 0042/0048

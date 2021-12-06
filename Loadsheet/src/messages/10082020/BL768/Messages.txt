@@ -1,0 +1,41 @@
+1. CLM
+BL768/10.VN-A560.SGN
+BL768	VN6026
+TUAN VU ANH (VNVAT)
+
+TRAN LUNG VAY (LUVT)
+
+HUONG2 NGUYEN THI LAN (NLH2)
+
+TRANG23 LE THI HUYEN (LHT23)
+
+VY10 NGUYEN BUI THAO (NTV10)
+
+NGOC4 TRAN HOA NHU (TNN4)
+
+----------------------------------------------------
+
+2. LDM
+BL768/10.VN-A560.SGN
+HAN 104/16/03 T/730   1/190   2/0   3/0   4/540    5/0
+HAN  B/540  C/190  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL768/10.VN-A560.SGN
+AD 1400/1425 EA 1625 HAN
+C/L 1400
+PUSH 1410
+PAX 123
+TOF 10240
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

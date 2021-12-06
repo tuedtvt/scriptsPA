@@ -1,0 +1,47 @@
+1. CLM
+BL773/21.VN-A564.HAN
+TAN NGUYEN QUOC (VNNQT)
+
+THANG NGUYEN DINH (VNDIT)
+
+MAI1 NGUYEN THI TUYET (NTM1)
+
+TUNG2 NGUYEN THANH (NTT2)
+
+HUY6 NGUYEN PHUC NHAT (NPNH6)
+
+VY10 NGUYEN BUI THAO (NTV10)
+
+CONG2 PHAN CHI (PCC2)
+
+
+----------------------------------------------------
+
+2. LDM
+BL773/21.VN-A564.HAN
+SGN 164/12/02 T/2392   1/751   2/0   3/726   4/915    5/0
+SGN  B/915  C/1477  M/0
+SI: 
+H1/C
+H3/C
+H4/B
+H5/NIL
+----------------------------------------------------
+
+3. MVT
+BL773/21.VN-A564.HAN
+AD 1548/1500 EA 1655 SGN
+C/L 1545
+PUSH 1548
+PAX 178
+TOF 10700
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL773/21.VN-A564.HAN
+AA 1740/1750

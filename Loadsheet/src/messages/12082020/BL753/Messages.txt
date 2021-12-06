@@ -1,0 +1,44 @@
+1. CLM
+BL753/12.VN-A566.HAN
+BANG LUU TRONG (VNLTB)
+
+OLIVER CEDRIC BARNETT (OCB)
+
+NHUNG7 NGUYEN THI TUYET (NTN7)
+
+LAM5 DO TUNG (DTL5)
+
+KHANH3 TO NAM (TNK3)
+
+HUYEN6 VU THI MINH (VMH6)
+
+----------------------------------------------------
+
+2. LDM
+BL753/12.VN-A566.HAN
+SGN 91/07/01 T/2738   1/1586   2/0   3/732   4/420    5/0
+SGN  B/240  C/2498  M/0
+SI: 
+H1/C
+H3/C
+H4/C/B
+H5/NIL
+----------------------------------------------------
+
+3. MVT
+BL753/12.VN-A566.HAN
+AD 0535/0545 EA 0735 SGN
+C/L 0532
+PUSH 0535
+PAX 99
+TOF 9800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL753/12.VN-A566.HAN
+AA 0726/0736

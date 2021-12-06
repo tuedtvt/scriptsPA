@@ -1,0 +1,45 @@
+1. CLM
+BL768/04.VN-A564.SGN
+HUNG NGUYEN PHI (NPH1)
+
+BRYAN KOH ZHENG YUAN (KZB)
+
+NGOC7 NGUYEN THE (NGTN7)
+
+HUONG7 LY MAI (LMH7)
+
+TOAN2 LE VAN (LVTO2)
+
+HUYEN8 NGUYEN THI THU (NGTH8)
+
+
+----------------------------------------------------
+
+2. LDM
+BL768/04.VN-A564.SGN
+HAN 145/20/02 T/1065   1/0   2/0   3/915   4/150    5/0
+HAN  B/1065  C/00  M/00
+SI: 
+CPT1/ NIL
+CPT3/ B
+CPT4/ B
+CPT5/ NIL
+
+----------------------------------------------------
+
+3. MVT
+BL768/04.VN-A564.SGN
+AD 1410/1430 EA 1620 HAN
+C/L 1410
+PUSH 1415
+PAX 169
+TOF 10800
+DL: TÀU ĐI ĐÚNG GIỜ
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

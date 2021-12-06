@@ -1,0 +1,45 @@
+1. CLM
+BL320/26.VN-A572.PQC
+PHILIPPE TEHEINUI JULES CHAN
+YOU KE (PTC)
+
+NHUT TRUONG MINH (TMN)
+
+BAO2 TRAN QUOC (TQB2)
+
+LUAN2 HUYNH NGOC (HNL2)
+
+TRAM3 HUYNH LE NGOC (HNT3)
+
+TRANG23 LE THI HUYEN (LHT23)
+
+----------------------------------------------------
+
+2. LDM
+BL320/26.VN-A572.PQC
+SGN 164/22/3 T/1347   1/244   2/0   3/551   4/552    5/0
+SGN  B/1103  C/244  M/0
+SI: 
+02 BBSTRLL LDD H4
+----------------------------------------------------
+
+3. MVT
+BL320/26.VN-A572.PQC
+AD 1439/1449 EA 1529 SGN
+C/L 1437
+PUSH 1440
+PAX 189
+TOF 6300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM
+BL320/26AUG PQC PART1
+-SGN
+NIL
+ENDPSM
+----------------------------------------------------
+
+5. MVA
+MVA not input

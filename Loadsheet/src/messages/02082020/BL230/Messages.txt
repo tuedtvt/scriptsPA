@@ -1,0 +1,47 @@
+1. CLM
+BL230/02.VN-A569.CXR
+CLM
+BL230/02.VNA569.CXR
+  1  CAPT  CAMILO ANDRES TORRES ACOSTA (TAC)
+          
+  2  FO  LONG NGUYEN TUAN (NGTL)
+          
+  3  CM  LY2 HOANG KHANH (HKL2)
+          
+  4  CA  LIEN4 CAO THI MY (CML4)
+          
+  5  CA  DAT1 LE TRUONG PHUC (LTPD1)
+          
+  6  CA  TAN1 NGUYEN NHUT (NNT1)
+          
+End of Crew List
+----------------------------------------------------
+
+2. LDM
+BL230/02.VN-A569.CXR
+HAN 83/16/1 T/900   1/900   2/0   3/0   4/0    5/0
+HAN  B/900  C/0  M/0
+SI: 
+CPT1: 60PCS BY
+CPT3: NIL
+CPT4: NIL
+CPT5: NIL
+----------------------------------------------------
+
+3. MVT
+BL230/02.VN-A569.CXR
+AD 1205/1225 EA 1404 HAN
+C/L 1203
+PUSH 1205
+PAX 100
+TOF 10100
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL230/02.VN-A569.CXR
+AA 1404/1410

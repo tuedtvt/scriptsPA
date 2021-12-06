@@ -1,0 +1,46 @@
+1. CLM
+BL230/16.VN-A568.CXR
+CLM
+BL230/16.VNA568.CXR
+  1  CAPT  GIAO TRUONG NGOC (VNTNG)
+          
+  2  FO  MINH NGUYEN TUAN (NTM)
+          
+  3  CM  TAM4 LE THANH (LTT4)
+          
+  4  CA  ANH41 DONG NAM (DNA41)
+          
+  5  CA  TRAM4 KIEU ANH (KAT4)
+          
+  6  CA  HUONG9 NGUYEN THANH THANH (NTH9)
+          
+End of Crew List
+----------------------------------------------------
+
+2. LDM
+BL230/16.VN-A568.CXR
+HAN 156/10/3 T/2809   1/1313   2/0   3/806   4/555    5/135
+HAN  B/690  C/2119  M/0
+SI: 
+CPT1: 75PCS CARGO
+CPT3: 46PCS CARGO
+CPT4: 37PCS BY
+CPT5: 09PCS BC
+----------------------------------------------------
+
+3. MVT
+BL230/16.VN-A568.CXR
+AD 1205/1214 EA 1354 HAN
+C/L 1202
+PUSH 1205
+PAX 169
+TOF 8600
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

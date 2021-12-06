@@ -1,0 +1,39 @@
+1. CLM
+BL320/04.VN-A573.PQC
+ADRIAN STEFFAN CRESWELL LOWE (LOA1)
+ TUAN NGUYEN QUOC (NGQT)
+ TRUNG NGUYEN QUOC (NQTR)
+ LIEN1 TO KIM (TKL1)
+ NGHIA3 LE NGOC (LNN3)
+ TIEN4 LE NHAT (LNT4)
+ HAO1 NGO KIM (NKH1)
+
+----------------------------------------------------
+
+2. LDM
+BL320/04.VN-A573.PQC
+SGN 155/31/4 T/1095   1/0   2/0   3/880   4/215    5/0
+SGN  B/1095  C/0  M/0
+SI: 
+B101/1095
+2BP N 1BBSTRLL LDD H4
+
+----------------------------------------------------
+
+3. MVT
+BL320/04.VN-A573.PQC
+AD 1442/1454 EA 1534 SGN
+C/L 1441
+PUSH 1443
+PAX 190
+TOF 7300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL320/04.VN-A573.PQC
+AA 1533/1543

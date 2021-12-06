@@ -1,0 +1,47 @@
+1. CLM
+BL793/24.VN-A577.HAN
+ANTONIO ERNESTO ALONSO ESCANDELL (AAE)
+
+TIEN TRIEU QUANG (VNTQT)
+
+HUONG3 NGUYEN THU (NTH3)
+
+THONG1 LE HOANG (LHTH1)
+
+PHUNG2 NGUYEN VAN (NVP2)
+
+TAI3 VO MINH (VMT3)
+
+
+----------------------------------------------------
+
+2. LDM
+BL793/24.VN-A577.HAN
+SGN 177/09/1 T/2646   1/820   2/0   3/752   4/774    5/300
+SGN  B/575  C/2071  M/0
+SI: 
+H1/C
+H3/C
+B4/C/B
+H5/C
+SI:
+D.HIEU
+----------------------------------------------------
+
+3. MVT
+BL793/24.VN-A577.HAN
+AD 2135/2145 EA 2335 SGN
+C/L 2130
+PUSH 2135
+PAX 187
+TOF 9300
+DL: 410/0015
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL793/24.VN-A577.HAN
+AA 2330/2333

@@ -1,0 +1,47 @@
+1. CLM
+BL793/23.VN-A572.HAN
+ARIO TEJO CHRISTOFORUS (ART)
+
+MANUEL HORST EWALD FINGER
+(FME)
+
+TAN VO TRAN DUC (VTDT)
+
+QUANG2 NGUYEN TUAN (NTQ2)
+
+TUYEN1 DUONG THI PHUONG (DPT1)
+
+TRUYEN1 NGUYEN THANH (NGTT1)
+
+TRI3 PHUNG TRONG (PHTT3)
+
+----------------------------------------------------
+
+2. LDM
+BL793/23.VN-A572.HAN
+SGN 151/04/00 T/765   1/0   2/0   3/765   4/0    5/0
+SGN  B/765  C/0  M/0
+SI: 
+H1/NIL
+H3/B
+H4/NIL
+H5/NIL
+BRGS NGOC ANH
+----------------------------------------------------
+
+3. MVT
+BL793/23.VN-A572.HAN
+AD 2125/2140 EA 2330 SGN
+C/L 2115
+PUSH 2125
+PAX 155
+TOF 9400
+DL: 850/0005
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

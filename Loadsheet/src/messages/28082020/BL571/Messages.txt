@@ -1,0 +1,49 @@
+1. CLM
+BL571/28.VN-A569.THD
+ADRIAN STEFFAN CRESWELL LOWE
+(LOA1)
+
+NAM DANG HOAI (VNDHN)
+
+TIEN NGUYEN DUNG (NDT)
+
+TRA1 DANG THI THU (DTT1)
+
+HOANG4 NGUYEN MINH (NMH4)
+
+LINH12 DANG MAI (DML12)
+
+LAM2 HO TUNG (HTL2)
+
+DAT5 LIEU THANH (LTD5)
+
+----------------------------------------------------
+
+2. LDM
+BL571/28.VN-A569.THD
+SGN 149/24/5 T/1605   1/975   2/0   3/630   4/0    5/0
+SGN  B/1605  C/0  M/0
+SI: 
+H1/B
+H3/B
+H4/N
+H5/N
+----------------------------------------------------
+
+3. MVT
+BL571/28.VN-A569.THD
+AD 1527/1538 EA 1718 SGN
+C/L 1521
+PUSH 
+PAX 178
+TOF 9300
+DL: 360/0007
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL571/28.VN-A569.THD
+AA 1710/1720

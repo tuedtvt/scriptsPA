@@ -1,0 +1,48 @@
+1. CLM
+BL765/31.VN-A571.HAN
+ADAM JOHN GIBB (AJG)
+
+ADRIAN STEFFAN CRESWELL LOWE
+(LOA1)
+
+TUNG1 HOANG (HT01)
+
+LIEN2 LE NGUYEN MY (LML2)
+
+HUNG5 HOANG NHAT (HNH5)
+
+TRANG27 MAI THI KIEU (MKT27)
+
+YEN7 NGUYEN CHE KIM (NKY7)
+
+
+----------------------------------------------------
+
+2. LDM
+BL765/31.VN-A571.HAN
+SGN 161/20/4 T/2125   1/895   2/0   3/630   4/600    5/0
+SGN  B/1230  C/895  M/0
+SI: 
+***LDD INF***
+CPT1/C
+CPT3/B
+CPT4/B
+CPT5/NIL
+----------------------------------------------------
+
+3. MVT
+BL765/31.VN-A571.HAN
+AD 1130/1140 EA 1338 SGN
+C/L 1127
+PUSH 1130
+PAX 185
+TOF 10700
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,40 @@
+1. CLM
+BL326/06.VN-A567.PQC
+ADAM LESLIE TRIGGS (ALT)
+ HIEU1 VU TRUNG (VTH1)
+ CONG1 LE THANH (LTC1)
+ NAM5 NGUYEN PHUONG (NPN5)
+ TRANG17 PHAM THUY (PTT17)
+ TAN HO MINH (HMT)
+
+----------------------------------------------------
+
+2. LDM
+BL326/06.VN-A567.PQC
+SGN 146/25/2 T/953   1/0   2/0   3/739   4/214    5/0
+SGN  B/953  C/0  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL326/06.VN-A567.PQC
+AD 2107/2116 EA 2156 SGN
+C/L 2106
+PUSH 2109
+PAX 173
+TOF 8400
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM
+BL326/06AUG SGN PART1
+NGUYEN/HUUDINHMR WCHR 3D 
+ENDPSM
+
+----------------------------------------------------
+
+5. MVA
+BL326/06.VN-A567.PQC
+AA 2205/2215

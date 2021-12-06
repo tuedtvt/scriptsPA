@@ -1,0 +1,44 @@
+1. CLM
+BL753/03.VN-A571.HAN
+LY2 HOANG KHANH (HKL2)
+
+LIEN4 CAO THI MY (CML4)
+
+DAT1 LE TRUONG PHUC (LTPD1)
+
+TAN1 NGUYEN NHUT (NNT1)
+
+GIACOMO CORONESE (CGC)
+
+KEANI MÉLISSA AMARU (KAM)
+
+----------------------------------------------------
+
+2. LDM
+BL753/03.VN-A571.HAN
+SGN 119/13/03 T/2646   1/844   2/0   3/710   4/840    5/252
+SGN  B/690  C/1956  M/0
+SI: 
+H1/C
+H3/C
+H4/C/B
+H5/C
+
+----------------------------------------------------
+
+3. MVT
+BL753/03.VN-A571.HAN
+AD 0540/0550 EA 0740 SGN
+C/L 0530
+PUSH 0540
+PAX 135
+TOF 9940
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,44 @@
+1. CLM
+BL764/01.VN-A577.SGN
+BL764/VN6020-VNA577-HAN
+TU HO ANH (VNHTU)
+
+QUANG NGUYEN THANH (VNNTQ)
+
+TOAN1 HUYNH QUOC (HQT1)
+
+GIANG4 LE THI CAM (LCG4)
+
+TUNG3 LE MINH (LMTU3)
+
+TUAN2 PHAM ANH (PAT2)
+
+----------------------------------------------------
+
+2. LDM
+BL764/01.VN-A577.SGN
+HAN 132/17/2 T/1065   1/0   2/0   3/1065   4/0    5/0
+HAN  B/1065  C/0  M/0
+SI: 
+CPT01/N
+CPT03/B
+CPT04/N
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL764/01.VN-A577.SGN
+AD 1119/1133 EA 1331 HAN
+C/L 1119
+PUSH 1122
+PAX 151
+TOF 11300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

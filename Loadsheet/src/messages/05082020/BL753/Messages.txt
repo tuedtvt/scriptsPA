@@ -1,0 +1,45 @@
+1. CLM
+BL753/05.VN-A570.HAN
+JUAN CAMILO JARAMILLO HENAO (JCH)
+
+QUANG NGUYEN THANH (VNNTQ)
+
+HIEU1 VU TRUNG (VTH1)
+
+HUONG11 BUI THANH (BTH11)
+
+HUONG7 LY MAI (LMH7)
+
+TOAN2 LE VAN (LVTO2)
+
+
+----------------------------------------------------
+
+2. LDM
+BL753/05.VN-A570.HAN
+SGN 92/14/0 T/2640   1/836   2/0   3/835   4/515    5/454
+SGN  B/300  C/2325  M/0
+SI: 
+CPT1/C
+CPT3/C
+CPT4/C+B
+CPT5/C
+----------------------------------------------------
+
+3. MVT
+BL753/05.VN-A572.HAN
+AD 0540/0554 EA 0744 SGN
+C/L 0538
+PUSH 0540
+PAX 106
+TOF 9900
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL753/05.VN-A572.HAN
+AA 0732/0742

@@ -1,0 +1,46 @@
+1. CLM
+BL777/27.VN-A568.HAN
+SHAKIB M SH BESISO (SMB)
+
+SON TRAN ANH (TAS)
+
+HUONG2 NGUYEN THI LAN (NLH2)
+
+LY2 HOANG KHANH (HKL2)
+
+NGHIA4 LE TUAN (LTNG4)
+
+BINH1 PHAN THI (PTB1)
+
+TRAN3 VUONG THIEU (VTT3)
+
+
+----------------------------------------------------
+
+2. LDM
+BL777/27.VN-A568.HAN
+SGN 171/11/00 T/2529   1/1065   2/0   3/519   4/945    5/0
+SGN  B/945  C/1584  M/0
+SI: 
+CPT1/C
+CPT3/C
+CPT4/B
+CPT5/N
+----------------------------------------------------
+
+3. MVT
+BL777/27.VN-A568.HAN
+AD 1656/1709 EA 1949 SGN
+C/L 1653
+PUSH 1656
+PAX 182
+TOF 9300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

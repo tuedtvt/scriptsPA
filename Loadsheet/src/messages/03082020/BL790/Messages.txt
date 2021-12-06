@@ -1,0 +1,45 @@
+1. CLM
+BL790/03.VN-A572.SGN
+QUYET DINH HUU (VNDHQ)
+
+BAO PHAM QUOC (PQB)
+
+HIEN8 NGUYEN THANH (NTH8)
+
+DIEN1 HOANG VAN (HVD1)
+
+LAI1 TRAN NGOC (TNL1)
+
+HUYEN6 VU THI MINH (VMH6)
+
+----------------------------------------------------
+
+2. LDM
+BL790/03.VN-A572.SGN
+HAN 119/10/03 T/480   1/0   2/0   3/480   4/0    5/0
+HAN  B/780  C/00  M/00
+SI: 
+H1/NIL
+H3/B
+H4/NIL
+H5/NIL
+HUNG2
+----------------------------------------------------
+
+3. MVT
+BL790/03.VN-A572.SGN
+AD 2123/2133 EA 2333 HAN
+C/L 2123
+PUSH 2123
+PAX 132
+TOF 11280
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL790/03.VN-A567.SGN
+AA 0042/0048

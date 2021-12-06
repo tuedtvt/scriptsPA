@@ -1,0 +1,44 @@
+1. CLM
+BL772/09.VN-A560.SGN
+PHUC NGUYEN DONG (VNNDP)
+
+KEANI MÉLISSA AMARU (KAM)
+
+THAO1 PHAM PHUONG (PPT1)
+
+LOC1 NGUYEN HUU (NHL1)
+
+YEN6 NGUYEN HAI (NHY6)
+
+VI11 NGUYEN THAI (NTV11)
+
+----------------------------------------------------
+
+2. LDM
+BL772/09.VN-A560.SGN
+HAN 106/2/0 T/2029   1/836   2/0   3/788   4/405    5/0
+HAN  B/405  C/1624  M/0
+SI: 
+C1/C
+C3/C
+C4/B
+C5/N
+----------------------------------------------------
+
+3. MVT
+BL772/09.VN-A560.SGN
+AD 1745/1805 EA 2005 HAN
+C/L 1745
+PUSH 1750
+PAX 130
+TOF 9700
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL772/09.VN-A560.SGN
+AA 1948/1955

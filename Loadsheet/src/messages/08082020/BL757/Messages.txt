@@ -1,0 +1,45 @@
+1. CLM
+BL757/08.VN-A570.HAN
+ADIL RASHID KHAN (KAR)
+
+TRI TRAN QUANG (TQT)
+
+MAI1 NGUYEN THI TUYET (NTM1)
+
+THAO12 LE NGUYEN TRUC (LTT12)
+
+PHUNG2 NGUYEN VAN (NVP2)
+
+TAI2 TRUONG VAN (TVT2)
+
+
+----------------------------------------------------
+
+2. LDM
+BL757/08.VN-A570.HAN
+SGN 56/4/0 T/1889   1/1149   2/0   3/380   4/360    5/0
+SGN  B/360  C/1529  M/0
+SI: 
+H1/C
+H3/C
+H4/B
+H5/NIL
+
+----------------------------------------------------
+
+3. MVT
+BL757/08.VN-A570.HAN
+AD 0945/0950 EA 1140 SGN
+C/L 0937
+PUSH 0945
+PAX 60
+TOF 10940
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

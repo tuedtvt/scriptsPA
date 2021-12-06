@@ -1,0 +1,45 @@
+1. CLM
+BL780/02.VN-A564.SGN
+GIAO TRUONG NGOC (VNTNG)
+
+TIN NGUYEN HOANG (NHT)
+
+TOAN1 HUYNH QUOC (HQT1)
+
+Y1 DO NHU (DNY1)
+
+TRAN6 NGUYEN LE BAO (NBT6)
+
+THAO3 NGUYEN PHUONG (NPT3)
+
+----------------------------------------------------
+
+2. LDM
+BL780/02.VN-A564.SGN
+HAN 129/25/04 T/2575   1/790   2/0   3/540   4/1245    5/0
+HAN  B/1245  C/1330  M/00
+SI: 
+CPT1/C
+CPT3/C
+CPT4/B
+CPT5/NIL
+HUNG2
+----------------------------------------------------
+
+3. MVT
+BL780/02.VN-A564.SGN
+AD 1707/1729 EA 1929 HAN
+C/L 1707
+PUSH 1709
+PAX 158
+TOF 12300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL780/02.VN-A564.SGN
+AA 1920/1928

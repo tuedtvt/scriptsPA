@@ -1,0 +1,42 @@
+1. CLM
+BL772/17.VN-A572.SGN
+BL772	VN6008
+ARIEL ADRIAN CRUZ MENDOZA (ARC)
+
+NHAN HUYNH NGUYEN PHUC (HNPN)
+
+QUYEN1 PHAN THI HOANG (PHQ1)
+
+TRANG18 NGUYEN THUY (NTT18)
+
+HIEN12 VU THI THUC (VTH12)
+
+VI6 VU THI THAO (VTV6)
+	
+----------------------------------------------------
+
+2. LDM
+BL772/17.VN-A572.SGN
+HAN 155/09/01 T/2220   1/928   2/0   3/767   4/525    5/0
+HAN  B/525  C/1695  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL772/17.VN-A572.VII
+AD 1848/1855 EA 1925 HAN
+C/L 1815
+PUSH 
+PAX 165
+TOF 7040
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL772/17.VN-A572.VII
+AA 1931/1938

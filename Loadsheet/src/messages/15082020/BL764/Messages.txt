@@ -1,0 +1,45 @@
+1. CLM
+BL764/15.VN-A567.SGN
+BL764	VN6020
+TAN NGUYEN QUOC (VNNQT)
+
+OLIVER CEDRIC BARNETT (OCB)
+
+KIM1 DOAN THI THIEN (DTK1)
+
+NGUYEN4 HONG THI THAO (HTN4)
+
+LY8 NGUYEN PHUOC TON NU KHANH
+(NKL8)
+
+TIEN5 TRAN THI THUY (TTT05)
+
+----------------------------------------------------
+
+2. LDM
+BL764/15.VN-A567.SGN
+HAN 142/08/00 T/2020   1/840   2/0   3/670   4/510    5/0
+HAN  B/510  C/1510  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL764/15.VN-A567.SGN
+AD 1118/1138 EA 1340 HAN
+C/L 1118
+PUSH 1127
+PAX 150
+TOF 9400
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

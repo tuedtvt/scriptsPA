@@ -1,0 +1,47 @@
+1. CLM
+BL755/24.VN-A569.HAN
+PHUC NGUYEN DONG (VNNDP)
+
+ANH HOANG NGOC (VNHNA)
+
+HIEN8 NGUYEN THANH (NTH8)
+
+TRANG10 NGUYEN THI HUYEN (NHT10)
+
+HAO2 PHAM THI MY (PMH2)
+
+LAI1 TRAN NGOC (TNL1)
+
+
+----------------------------------------------------
+
+2. LDM
+BL755/24.VN-A569.HAN
+SGN 162/12/1 T/3172   1/1154   2/0   3/988   4/1030    5/0
+SGN  B/780  C/2392  M/0
+SI: 
+H1/C
+H3/C
+H4/C/B
+H5/NIL
+SI:
+D.HIEU
+----------------------------------------------------
+
+3. MVT
+BL755/24.VN-A569.HAN
+AD 0805/0815 EA 1005 SGN
+C/L 0758
+PUSH 0805
+PAX 175
+TOF 9300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL755/24.VN-A569.HAN
+AA 0955/1005

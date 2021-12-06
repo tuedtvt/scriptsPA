@@ -1,0 +1,43 @@
+1. CLM
+BL793/07.VN-A569.HAN
+MAURIZIO RUSSO (MRR)
+
+HUNG TRAN HUU (THH)
+
+HIEN1 NGUYEN THI THU (NTHU1)
+
+MAI6 DOAN THI THANH (DTM6)
+
+ANH38 NGUYEN THI LAN (NLA38)
+
+TRANG18 NGUYEN THUY (NTT18)
+
+----------------------------------------------------
+
+2. LDM
+BL793/07.VN-A569.HAN
+SGN 111/08/0 T/2750   1/1212   2/0   3/737   4/801    5/0
+SGN  B/480  C/2270  M/0
+SI: 
+H1/C
+H3/C
+H4/C/B
+H5/NIL
+----------------------------------------------------
+
+3. MVT
+BL793/07.VN-A569.HAN
+AD 2250/2305 EA 0100 SGN
+C/L 2247
+PUSH 2250
+PAX 119
+TOF 9800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

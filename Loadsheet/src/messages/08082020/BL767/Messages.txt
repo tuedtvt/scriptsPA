@@ -1,0 +1,46 @@
+1. CLM
+BL767/08.VN-A572.HAN
+TJEERD SCHOUTEN (SCT)
+
+DUONG NGO HOANG (NHD)
+
+LINH13 TONG KHANH (TKL13)
+
+CHIEN1 NGUYEN QUANG (NQC1)
+
+THANG7 NGUYEN VAN (NVT7)
+
+QUI1 PHAN VAN (PVQ1)
+
+
+----------------------------------------------------
+
+2. LDM
+BL767/08.VN-A572.HAN
+SGN 92/18/01 T/2518   1/975   2/0   3/883   4/660    5/0
+SGN  B/660  C/1858  M/00
+SI: 
+*-* LDD INF *-*
+-H1/C
+-H3/C
+-H4/B
+-H5/NIL
+BRGDS-TUAN
+----------------------------------------------------
+
+3. MVT
+BL767/08.VN-A572.HAN
+AD 1400/1410 EA 1610 SGN
+C/L 1355
+PUSH 1400
+PAX 111
+TOF 10700
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

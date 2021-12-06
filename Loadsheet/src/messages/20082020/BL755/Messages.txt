@@ -1,0 +1,50 @@
+1. CLM
+BL755/20.VN-A562.HAN
+RICARDO GOMEZ MENACA (RGM)
+
+THANG NGUYEN DINH (VNDIT)
+
+NHUNG4 TRAN HONG (THN4)
+
+HUONG11 BUI THANH (BTH11)
+
+TRANG10 NGUYEN THI HUYEN
+(NHT10)
+
+KHANH3 TO NAM (TNK3)
+
+----------------------------------------------------
+
+2. LDM
+BL755/20.VN-A562.HAN
+SGN 147/6/1 T/1740   1/1110   2/0   3/0   4/630    5/0
+SGN  B/630  C/1110  M/0
+SI: 
+***LDM INF***
+-CP1/C
+-CP3/N
+-CP4/B
+-CP5/NIL
+SI:
+BRGDS/DUONG
+
+
+----------------------------------------------------
+
+3. MVT
+BL755/20.VN-A562.HAN
+AD 0800/0810 EA 1008 SGN
+C/L 0757
+PUSH 0800
+PAX 154
+TOF 9800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL755/20.VN-A562.HAN
+AA 0955/1005

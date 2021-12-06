@@ -1,0 +1,45 @@
+1. CLM
+BL750/30.VN-A569.SGN
+BL750   VNA569	VN6006
+TUAN VU ANH (VNVAT)
+
+TRUNG NGUYEN QUOC (NQTR)
+
+MAI3 NGUYEN THI (NTM3)
+
+PHAT1 BUI QUANG (BQP1)
+
+VU1 DANG ANH (DAV1)
+
+TRANG24 DUONG THI (DTT24)
+
+----------------------------------------------------
+
+2. LDM
+BL750/30.VN-A569.SGN
+HAN 171/12/02 T/2595   1/1040   2/0   3/640   4/915    5/0
+HAN  B/915  C/1680  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL750/30.VN-A569.SGN
+AD 0723/0740 EA 0940 HAN
+C/L 0723
+PUSH 0724
+PAX 185
+TOF 8800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL750/30.VN-A569.SGN
+AA 0920/0927

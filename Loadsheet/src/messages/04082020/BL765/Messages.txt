@@ -1,0 +1,46 @@
+1. CLM
+BL765/04.VN-A564.HAN
+GIACOMO CORONESE (CGC)
+
+KEANI MÉLISSA AMARU (KAM)
+
+HAN1 HA GIA (HGH1)
+
+HUONG7 LY MAI (LMH7)
+
+TOAN2 LE VAN (LVTO2)
+
+HUYEN8 NGUYEN THI THU (NGTH8)
+
+
+----------------------------------------------------
+
+2. LDM
+BL765/04.VN-A564.HAN
+SGN 122/15/02 T/2976   1/981   2/0   3/855   4/840    5/300
+SGN  B/1140  C/1836  M/00
+SI: 
+*-* LDD INF *-*
+-H1/C
+-H3/C
+-H4/B
+-H5/B
+BRGDS-TUAN
+----------------------------------------------------
+
+3. MVT
+BL765/04.VN-A564.HAN
+AD 1125/1140 EA 1340 SGN
+C/L 1120
+PUSH 1125
+PAX 139
+TOF 11000
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

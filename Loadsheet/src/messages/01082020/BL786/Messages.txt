@@ -1,0 +1,46 @@
+1. CLM
+BL786/01.VN-A571.SGN
+RICARDO GOMEZ MENACA (RGM)
+
+YANIEL FACENDA BARCELÓ (FBY)
+
+THUONG1 PHAM MINH (PMT1)
+
+PHUNG3 LE QUANG (LQP3)
+
+LINH21 NGUYEN THI PHUONG
+(NPL21)
+
+TRANG17 PHAM THUY (PTT17)
+
+
+----------------------------------------------------
+
+2. LDM
+BL786/01.VN-A571.SGN
+HAN 144/18/05 T/765   1/0   2/0   3/765   4/0    5/0
+HAN  B/765  C/00  M/00
+SI: 
+H1/NIL
+H3/B
+H4/NIL
+H5/NIL
+HUNG2
+----------------------------------------------------
+
+3. MVT
+BL786/01.VN-A571.SGN
+AD 2115/2128 EA 2328 HAN
+C/L 2115
+PUSH 2117
+PAX 167
+TOF 11800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

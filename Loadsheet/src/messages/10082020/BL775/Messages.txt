@@ -1,0 +1,45 @@
+1. CLM
+BL775/10.VN-A572.HAN
+GIACOMO CORONESE (CGC)
+
+THANG NGUYEN DINH (VNDIT)
+
+HIEN8 NGUYEN THANH (NTH8)
+
+ANH41 DONG NAM (DNA41)
+
+TRAM4 KIEU ANH (KAT4)
+
+HA8 VU THU (VTH8)
+
+
+----------------------------------------------------
+
+2. LDM
+BL775/10.VN-A572.HAN
+SGN 140/18/1 T/1628   1/848   2/0   3/0   4/780    5/0
+SGN  B/780  C/848  M/0
+SI: 
+H1/C
+H3/NIL
+H4/B
+H5/NIL
+BRGDS/DUNG
+----------------------------------------------------
+
+3. MVT
+BL775/10.VN-A572.HAN
+AD 1505/1510 EA 1700 SGN
+C/L 1458
+PUSH 1505
+PAX 159
+TOF 10700
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

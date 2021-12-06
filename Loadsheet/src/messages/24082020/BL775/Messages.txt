@@ -1,0 +1,50 @@
+1. CLM
+BL775/24.VN-A564.HAN
+ROBERT ALAN LINDSAY (RAL)
+
+EVGENII KLASSEN (KLE)
+
+ANH CHU QUOC (CQA)
+
+MAI1 NGUYEN THI TUYET (NTM1)
+
+MY5 NGUYEN THI HOAI (NHM5)
+
+YEN2 CAO HONG (CHY2)
+
+LINH20 CAO THI KHANH (CKL20)
+
+THANH13 PHAN DUY (PDT13)
+
+
+----------------------------------------------------
+
+2. LDM
+BL775/24.VN-A564.HAN
+SGN 169/17/5 T/2323   1/853   2/0   3/900   4/570    5/0
+SGN  B/1470  C/853  M/0
+SI: 
+H1/C
+H3/B
+H4/B
+H5/NIL
+SI:
+D.HIEU
+----------------------------------------------------
+
+3. MVT
+BL775/24.VN-A564.HAN
+AD 1510/1520 EA 1710 SGN
+C/L 1503
+PUSH 1510
+PAX 191
+TOF 10700
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,41 @@
+1. CLM
+BL790/08.VN-A570.SGN
+RICARDO GOMEZ MENACA (RGM)
+
+TIN NGUYEN HOANG (NHT)
+
+THUONG1 PHAM MINH (PMT1)
+
+TRAM4 KIEU ANH (KAT4)
+
+PHUNG3 LE QUANG (LQP3)
+
+HA8 VU THU (VTH8)
+
+----------------------------------------------------
+
+2. LDM
+BL790/08.VN-A570.SGN
+HAN 90/10/00 T/940   1/700   2/0   3/0   4/240    5/0
+HAN  B/240  C/700  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL790/08.VN-A570.SGN
+AD 2120/2135 EA 2335 HAN
+C/L 2120
+PUSH 2123
+PAX 100
+TOF 9100
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL790/08.VN-A573.SGN
+AA 0045/0050

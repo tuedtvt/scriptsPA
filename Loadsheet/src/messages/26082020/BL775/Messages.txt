@@ -1,0 +1,46 @@
+1. CLM
+BL775/26.VN-A577.HAN
+DAT NGUYEN QUANG (DQN1)
+
+HUY NGUYEN QUANG (NQH)
+
+HUONG3 NGUYEN THU (NTH3)
+
+LINH19 LE HUYNH KHANH (LKL19)
+
+MINH3 TRAN NGUYEN NHA (TNM3)
+
+THU4 VAN ANH (VAT4)
+
+----------------------------------------------------
+
+2. LDM
+BL775/26.VN-A577.HAN
+SGN 172/13/3 T/3550   1/1140   2/0   3/850   4/1260    5/300
+SGN  B/1260  C/2260  M/0
+SI: 
+H1/SGN/C
+H3/SGN/C
+H4/SGN/B
+H5/SGN/C
+--
+BRGDS,
+BUIDUY
+----------------------------------------------------
+
+3. MVT
+BL775/26.VN-A577.HAN
+AD 1510/1520 EA 1710 SGN
+C/L 1502
+PUSH 1510
+PAX 188
+TOF 10600
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

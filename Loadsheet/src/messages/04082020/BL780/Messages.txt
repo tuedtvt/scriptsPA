@@ -1,0 +1,43 @@
+1. CLM
+BL780/04.VN-A573.SGN
+NAM HOANG LE (VNHLN)
+
+TRI TRAN QUANG (TQT)
+
+SON2 HOANG THANH (HTS2)
+
+LINH14 LE THANH MAI (LML14)
+
+TRUYEN1 NGUYEN THANH (NGTT1)
+
+HUYNH1 NGUYEN THI NHU (NNH1)
+
+----------------------------------------------------
+
+2. LDM
+BL780/04.VN-A573.SGN
+HAN 145/18/04 T/3265   1/1205   2/0   3/950   4/960    5/150
+HAN  B/1110  C/2155  M/00
+SI: 
+CPT1/ C
+CPT3/ C
+CPT4/ B
+CPT5/ B
+----------------------------------------------------
+
+3. MVT
+BL780/04.VN-A573.SGN
+AD 1730/1755 EA 1955 HAN
+C/L 1730
+PUSH 1733
+PAX 167
+TOF 9800
+DL: TÀU ĐI ĐÚNG GIỜ
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

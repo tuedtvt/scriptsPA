@@ -1,0 +1,45 @@
+1. CLM
+BL753/01.VN-A571.HAN
+HUNG NGUYEN PHI (NPH1)
+
+SIMONE TIBURZI (TIS)
+
+HIEU1 VU TRUNG (VTH1)
+
+HIEU4 NGUYEN TRONG (NGTH4)
+
+HUYEN8 NGUYEN THI THU (NGTH8)
+
+KHANH3 TO NAM (TNK3)
+
+
+----------------------------------------------------
+
+2. LDM
+BL753/01.VN-A571.HAN
+SGN 84/4/2 T/465   1/0   2/0   3/465   4/0    5/0
+SGN  B/465  C/0  M/0
+SI: 
+CPT1/N
+CPT3/B
+CPT4/N
+CPT5/N
+----------------------------------------------------
+
+3. MVT
+BL753/01.VN-A571.HAN
+AD 0610/0620 EA 0810 SGN
+C/L 0605
+PUSH 0610
+PAX 90
+TOF 9900
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL753/01.VN-A571.HAN
+AA 0803/0813

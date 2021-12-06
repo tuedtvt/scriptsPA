@@ -1,0 +1,46 @@
+1. CLM
+BL773/30.VN-A564.HAN
+TU HO ANH (VNHTU)
+
+SIMONE TIBURZI (TIS)
+
+CUONG1 NGUYEN HUNG (NCU1)
+
+BAO4 DUONG THAI (DTB4)
+
+TRANG27 MAI THI KIEU (MKT27)
+
+THAO13 NGUYEN THI PHUONG (NPT13)
+
+
+----------------------------------------------------
+
+2. LDM
+BL773/30.VN-A564.HAN
+SGN 142/15/02 T/855   1/0   2/0   3/0   4/855    5/0
+SGN  B/855  C/00  M/00
+SI: 
+H1/NIL
+H3/NIL
+H4/B
+H5/NIL
+
+----------------------------------------------------
+
+3. MVT
+BL773/30.VN-A564.HAN
+AD 1548/1558 EA 1748 SGN
+C/L 1546
+PUSH 1548
+PAX 159
+TOF 9500
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL773/30.VN-A564.HAN
+AA 1750/1800

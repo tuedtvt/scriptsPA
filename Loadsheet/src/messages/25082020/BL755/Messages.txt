@@ -1,0 +1,44 @@
+1. CLM
+BL755/25.VN-A571.HAN
+THANG NGUYEN QUOC (NQT1)
+
+NIRAJ ADHIKARI (NIA)
+
+HIEN8 NGUYEN THANH (NTH8)
+
+TRANG10 NGUYEN THI HUYEN (NHT10)
+
+HAO2 PHAM THI MY (PMH2)
+
+LAI1 TRAN NGOC (TNL1)
+
+----------------------------------------------------
+
+2. LDM
+BL755/25.VN-A571.HAN
+SGN 163/6/0 T/3581   1/1200   2/0   3/800   4/1081    5/500
+SGN  B/720  C/2861  M/0
+SI: 
+CPT1/C
+CPT3/C
+CPT4/C+B
+CPT5/C
+----------------------------------------------------
+
+3. MVT
+BL755/25.VN-A571.HAN
+AD 0810/0820 EA 1010 SGN
+C/L 0804
+PUSH 0810
+PAX 169
+TOF 8900
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL755/25.VN-A571.HAN
+AA 1003/1013

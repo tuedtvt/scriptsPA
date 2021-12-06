@@ -1,0 +1,44 @@
+1. CLM
+BL757/01.VN-A573.HAN
+MOEARII RALPH MATAPO (MRM)
+
+JOSE CARLOS SANCHEZ COBOS (CJS)
+
+LIEN1 TO KIM (TKL1)
+
+TRANG24 DUONG THI (DTT24)
+
+NGHIA3 LE NGOC (LNN3)
+
+TIEN4 LE NHAT (LNT4)
+
+
+----------------------------------------------------
+
+2. LDM
+BL757/01.VN-A573.HAN
+SGN 100/12/1 T/1846   1/1051   2/0   3/300   4/495    5/0
+SGN  B/795  C/1051  M/0
+SI: 
+CPT1/C
+CPT3/B
+CPT4/B
+CPT5/N
+----------------------------------------------------
+
+3. MVT
+BL757/01.VN-A573.HAN
+AD 1005/1022 EA 1212 SGN
+C/L 0955
+PUSH 1005
+PAX 113
+TOF 10600
+DL: 930/0010
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

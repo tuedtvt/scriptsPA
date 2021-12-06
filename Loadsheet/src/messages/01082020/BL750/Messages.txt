@@ -1,0 +1,44 @@
+1. CLM
+BL750/01.VN-A573.SGN
+BL750/VN6006-VNA573-HAN
+MOEARII RALPH MATAPO (MRM)
+
+JOSE CARLOS SANCHEZ COBOS (CJS)
+
+LIEN1 TO KIM (TKL1)
+
+TRANG24 DUONG THI (DTT24)
+
+NGHIA3 LE NGOC (LNN3)
+
+TIEN4 LE NHAT (LNT4)
+
+----------------------------------------------------
+
+2. LDM
+BL750/01.VN-A573.SGN
+HAN 78/11/0 T/300   1/0   2/0   3/300   4/0    5/0
+HAN  B/300  C/0  M/0
+SI: 
+CPT01/N
+CPT03/B
+CPT04/N
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL750/01.VN-A573.SGN
+AD 0723/0738 EA 0937 HAN
+C/L 0723
+PUSH 0727
+PAX 89
+TOF 10100
+DL: 841/0008 KET GATE BOARDING BL544 VA BL564
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

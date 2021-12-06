@@ -1,0 +1,36 @@
+1. CLM
+BL326/01.VN-A566.PQC
+JIN HANN GOH (HAG)
+ BAO PHAM QUOC (PQB)
+ MINH1 VU DUC (VDM1)
+ QUYNH4 DO NHU (DNQ4)
+ LAM5 DO TUNG (DTL5)
+ MANH1 NGUYEN VU (NVM1)
+
+----------------------------------------------------
+
+2. LDM
+BL326/01.VN-A566.PQC
+SGN 150/26/5 T/982   1/0   2/0   3/982   4/0    5/0
+SGN  B/982  C/0  M/0
+SI: 
+02HAND BAGS LDD H3
+----------------------------------------------------
+
+3. MVT
+BL326/01.VN-A566.PQC
+AD 2058/2112 EA 2152 SGN
+C/L 2057
+PUSH 2059
+PAX 181
+TOF 6920
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL326/01.VN-A566.PQC
+AA 2153/2203

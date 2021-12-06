@@ -1,0 +1,43 @@
+1. CLM
+BL752/04.VN-A564.SGN
+GIACOMO CORONESE (CGC)
+
+KEANI MÉLISSA AMARU (KAM)
+
+HAN1 HA GIA (HGH1)
+
+HUONG11 BUI THANH (BTH11)
+
+HUONG9 NGUYEN THANH THANH (NTH9)
+
+KHANH3 TO NAM (TNK3)
+
+----------------------------------------------------
+
+2. LDM
+BL752/04.VN-A564.SGN
+HAN 105/10/8 T/1545   1/1050   2/0   3/0   4/495    5/0
+HAN  B/495  C/1050  M/0
+SI: 
+CPT01/C
+CPT03/N
+CPT04/B
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL752/04.VN-A564.SGN
+AD 0807/0821 EA 1019 HAN
+C/L 0807
+PUSH 0812
+PAX 123
+TOF 10500
+DL: 360/0012 CO TRUONG NAP THEM DAU
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

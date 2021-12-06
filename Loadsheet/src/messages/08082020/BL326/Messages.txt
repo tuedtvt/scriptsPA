@@ -1,0 +1,45 @@
+1. CLM
+BL326/08.VN-A562.PQC
+TU HO ANH (VNHTU)
+
+TIEN TRIEU QUANG (VNTQT)
+
+BAO1 DANG QUOC (DQB1)
+
+SANG1 NGUYEN PHU (NPS1)
+
+VY10 NGUYEN BUI THAO (NTV10)
+
+PHUONG7 PHAN NGOC (PNP7)
+
+----------------------------------------------------
+
+2. LDM
+BL326/08.VN-A562.PQC
+SGN 135/21/0 T/767   1/0   2/0   3/767   4/0    5/0
+SGN  B/767  C/0  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL326/08.VN-A562.PQC
+AD 2107/2117 EA 2157 SGN
+C/L 2106
+PUSH 2108
+PAX 156
+TOF 6800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM
+BL326/08AUG PQC PART1
+-SGN
+NIL
+ENDPSM
+----------------------------------------------------
+
+5. MVA
+BL326/08.VN-A562.PQC
+AA 2152/2200

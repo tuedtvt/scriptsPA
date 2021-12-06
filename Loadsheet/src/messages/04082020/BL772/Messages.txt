@@ -1,0 +1,48 @@
+1. CLM
+BL772/04.VN-A568.SGN
+BL772/VN6008-VNA568-HAN
+ARIO TEJO CHRISTOFORUS (ART)
+
+QUAN DO HONG (VNDQU)
+
+NHAN HUYNH NGUYEN PHUC (HNPN)
+
+CUONG1 NGUYEN HUNG (NCU1)
+
+MINH2 LE NHUT (LNM2)
+
+NGHIA4 LE TUAN (LTNG4)
+
+XUAN1 NGUYEN PHUOC THANH (NTX1)
+
+----------------------------------------------------
+
+2. LDM
+BL772/04.VN-A568.SGN
+HAN 130/10/01 T/2240   1/1000   2/0   3/550   4/690    5/0
+HAN  B/690  C/1550  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B
+CPT05/N
+SI: N
+--BEST REGARDS/TÂM--
+----------------------------------------------------
+
+3. MVT
+BL772/04.VN-A568.SGN
+AD 1745/1818 EA 2018 HAN
+C/L 1745
+PUSH 1758
+PAX 141
+TOF 10040
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

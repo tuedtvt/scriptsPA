@@ -1,0 +1,45 @@
+1. CLM
+BL750/04.VN-A570.SGN
+JUAN CAMILO JARAMILLO HENAO (JCH)
+
+QUANG NGUYEN THANH (VNNTQ)
+
+LIEN2 LE NGUYEN MY (LML2)
+
+HANG10 DAM THI LE (DLH10)
+
+CUONG3 NGO CHI (NCC3)
+
+LOC1 NGUYEN HUU (NHL1)
+
+
+----------------------------------------------------
+
+2. LDM
+BL750/04.VN-A570.SGN
+HAN 125/23/3 T/1860   1/1050   2/0   3/0   4/810    5/0
+HAN  B/810  C/1050  M/0
+SI: 
+CPT01/C
+CPT03/N
+CPT04/B
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL750/04.VN-A570.SGN
+AD 0710/0729 EA 0926 HAN
+C/L 0710
+PUSH 0717
+PAX 151
+TOF 10400
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL750/04.VN-A570.SGN
+AA 0917/0923

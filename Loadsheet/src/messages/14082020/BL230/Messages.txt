@@ -1,0 +1,46 @@
+1. CLM
+BL230/14.VN-A571.CXR
+CLM
+BL230/14.VNA571.CXR
+  1  CAPT  TJEERD SCHOUTEN (SCT)
+          
+  2  FO  SON TRAN ANH (TAS)
+          
+  3  CM  NHUNG4 TRAN HONG (THN4)
+          
+  4  CA  ANH41 DONG NAM (DNA41)
+          
+  5  CA  KHANH3 TO NAM (TNK3)
+          
+  6  CA  HA8 VU THU (VTH8)
+          
+End of Crew List
+----------------------------------------------------
+
+2. LDM
+BL230/14.VN-A571.CXR
+HAN 170/13/1 T/1140   1/0   2/0   3/1050   4/90    5/0
+HAN  B/1140  C/0  M/0
+SI: 
+CPT1: NIL
+CPT3: 70PCS BY
+CPT4: 06PCS BC
+CPT5: NIL
+----------------------------------------------------
+
+3. MVT
+BL230/14.VN-A571.CXR
+AD 1222/1232 EA 1412 HAN
+C/L 1220
+PUSH 1222
+PAX 184
+TOF 9300
+DL: 990/0015 (CLEAN COMPARTMENT HOLD)
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

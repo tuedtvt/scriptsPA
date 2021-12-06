@@ -1,0 +1,44 @@
+1. CLM
+BL790/05.VN-A570.SGN
+BL790/VN6016-VNA570-HAN
+ADAM LESLIE TRIGGS (ALT)
+
+TAN HO MINH (HMT)
+
+MINH1 VU DUC (VDM1)
+
+PHUONG9 DO THI KIM (DKP9)
+
+TRUNG3 NGUYEN TIEN (NTT3)
+
+HAO2 PHAM THI MY (PMH2)
+
+----------------------------------------------------
+
+2. LDM
+BL790/05.VN-A570.SGN
+HAN 112/15/02 T/2745   1/1185   2/0   3/1170   4/390    5/0
+HAN  B/390  C/2355  M/0
+SI: 
+C1/C
+C3/C
+C4/B
+C5/N
+----------------------------------------------------
+
+3. MVT
+BL790/05.VN-A570.SGN
+AD 2100/2125 EA 2325 HAN
+C/L 2100
+PUSH 2108
+PAX 129
+TOF 10400
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

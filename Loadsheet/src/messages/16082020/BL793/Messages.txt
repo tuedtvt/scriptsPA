@@ -1,0 +1,47 @@
+1. CLM
+BL793/16.VN-A567.HAN
+PHUC NGUYEN DONG (VNNDP)
+
+TUAN DANG MINH (VNDMT)
+
+LINH13 TONG KHANH (TKL13)
+
+LINH19 LE HUYNH KHANH (LKL19)
+
+VI11 NGUYEN THAI (NTV11)
+
+THANG7 NGUYEN VAN (NVT7)
+
+
+----------------------------------------------------
+
+2. LDM
+BL793/16.VN-A567.HAN
+SGN 141/8/1 T/420   1/0   2/0   3/420   4/0    5/0
+SGN  B/420  C/0  M/0
+SI: 
+***LDM INF***
+-CP1/N
+-CP3/B
+-CP4/N
+-CP5/NIL
+SI:
+BRGDS/DUONG
+----------------------------------------------------
+
+3. MVT
+BL793/16.VN-A567.HAN
+AD 2120/2130 EA 2328 SGN
+C/L 2012
+PUSH 2120
+PAX 150
+TOF 9600
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

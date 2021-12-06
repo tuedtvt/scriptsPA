@@ -1,0 +1,46 @@
+1. CLM
+BL765/23.VN-A564.HAN
+ ROBERT ALAN LINDSAY (RAL)
+
+VINH LY THIEU (LTV)
+
+ANH CHU QUOC (CQA)
+
+TAM4 LE THANH (LTT4)
+
+LAM5 DO TUNG (DTL5)
+
+CONG1 LE THANH (LTC1)
+
+NAM5 NGUYEN PHUONG (NPN5)
+
+----------------------------------------------------
+
+2. LDM
+BL765/23.VN-A564.HAN
+SGN 171/15/02 T/3355   1/905   2/0   3/1030   4/1020    5/400
+SGN  B/1275  C/2080  M/0
+SI: 
+H1/C
+H3/C/B
+H4/B
+H5/C
+----------------------------------------------------
+
+3. MVT
+BL765/23.VN-A564.HAN
+AD 1138/1150 EA 1345 SGN
+C/L 1134
+PUSH 1138
+PAX 188
+TOF 10800
+DL: 930/0008
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL765/23.VN-A564.HAN
+AA 1335/1345

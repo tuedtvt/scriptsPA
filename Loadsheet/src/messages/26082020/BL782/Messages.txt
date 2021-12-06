@@ -1,0 +1,45 @@
+1. CLM
+BL782/26.VN-A562.SGN
+BL782	VN6022
+ANTONIO ERNESTO ALONSO
+ESCANDELL (AAE)
+
+NY BUI HOANG TON (BHTNY)
+
+NHUNG7 NGUYEN THI TUYET (NTN7)
+
+ANH41 DONG NAM (DNA41)
+
+LAM5 DO TUNG (DTL5)
+
+HAI1 NGUYEN TRUNG (NTH1)
+
+----------------------------------------------------
+
+2. LDM
+BL782/26.VN-A562.SGN
+HAN 125/10/02 T/3265   1/1110   2/0   3/930   4/945    5/280
+HAN  B/945  C/2320  M/0
+SI: 
+C1/C
+C3/C
+C4/B
+C5/C
+----------------------------------------------------
+
+3. MVT
+BL782/26.VN-A562.SGN
+AD 1745/1805 EA 2005 HAN
+C/L 1745
+PUSH 1754
+PAX 137
+TOF 10600
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,43 @@
+1. CLM
+BL765/09.VN-A567.HAN
+ NAM HOANG LE (VNHLN)
+
+HUY TA DUC (TDH)
+
+QUYEN1 PHAN THI HOANG (PHQ1)
+
+LAM2 HO TUNG (HTL2)
+
+NGHIA3 LE NGOC (LNN3)
+
+TRI3 PHUNG TRONG (PHTT3)
+
+----------------------------------------------------
+
+2. LDM
+BL765/09.VN-A567.HAN
+SGN 125/15/03 T/720   1/0   2/0   3/720   4/0    5/0
+SGN  B/720  C/0  M/0
+SI: 
+H1/NIL
+H3/B
+H4/NIL
+H5/NIL
+----------------------------------------------------
+
+3. MVT
+BL765/09.VN-A567.HAN
+AD 1130/1145 EA 1340 SGN
+C/L 1124
+PUSH 1130
+PAX 145
+TOF 10600
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

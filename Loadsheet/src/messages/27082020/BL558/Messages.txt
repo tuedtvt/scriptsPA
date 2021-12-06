@@ -1,0 +1,38 @@
+1. CLM
+BL558/27.VN-A564.VII
+BL558/27.VN-A564.VII
+THAO1 PHAM PHUONG (PPT1)
+ MY7 LAM THI NGOC (LNM7)
+ ANH27 LE THI PHUONG (LPA27)
+ THAO6 LE THI XUAN (LXT6)
+ JORGE ALEJANDRO PEÑA IRUN (PJA)
+ SON TRAN NHU (VNTNS)
+
+
+----------------------------------------------------
+
+2. LDM
+BL558/27.VN-A564.VII
+HAN 0/0/0 T/0   1/0   2/0   3/0   4/0    5/0
+HAN  B/0  C/0  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL558/27.VN-A564.VII
+AD 1828/1835 EA 1905 HAN
+C/L 1817
+PUSH 
+PAX 0
+TOF 5500
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL558/27.VN-A564.VII
+AA 1909/1915

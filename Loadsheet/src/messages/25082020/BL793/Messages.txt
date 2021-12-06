@@ -1,0 +1,47 @@
+1. CLM
+BL793/25.VN-A572.HAN
+BANG LUU TRONG (VNLTB)
+
+VINH LY THIEU (LTV)
+
+ANH8 NGUYEN NGOC THUY (NTA8)
+
+LINH20 CAO THI KHANH (CKL20)
+
+TUYEN1 DUONG THI PHUONG (DPT1)
+
+PHUNG2 NGUYEN VAN (NVP2)
+
+
+----------------------------------------------------
+
+2. LDM
+BL793/25.VN-A572.HAN
+SGN 152/04/01 T/2813   1/1330   2/0   3/750   4/450    5/283
+SGN  B/450  C/2363  M/00
+SI: 
+***LDM INF***
+-CP1/C
+-CP3/C
+-CP4/B
+-CP5/C
+SI:
+BRGDS/DUONG
+----------------------------------------------------
+
+3. MVT
+BL793/25.VN-A572.HAN
+AD 2115/2125 EA 2323 SGN
+C/L 2110
+PUSH 2115
+PAX 157
+TOF 9800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

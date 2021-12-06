@@ -1,0 +1,46 @@
+1. CLM
+BL230/09.VN-A564.CXR
+  1  CAPT  BINH NGUYEN NGOC (NNB)
+          
+  2  FO  TUAN DANG MINH (VNDMT)
+          
+  3  PUR  LY2 HOANG KHANH (HKL2)
+          
+  4  CA  LIEN4 CAO THI MY (CML4)
+          
+  5  CA  TRANG23 LE THI HUYEN (LHT23)
+          
+  6  CA  DAT1 LE TRUONG PHUC (LTPD1)
+          
+End of Crew List
+----------------------------------------------------
+
+2. LDM
+BL230/09.VN-A564.CXR
+HAN 119/15/2 T/1983   1/967   2/0   3/431   4/585    5/0
+HAN  B/585  C/1398  M/0
+SI: 
+H1/C/65PCS
+H3/C/29PCS
+H4/B/39PCS
+H5/N
+03PCS BJ POS 41 PLS TAKE CARE
+----------------------------------------------------
+
+3. MVT
+BL230/09.VN-A564.CXR
+AD 1200/1210 EA 1350 HAN
+C/L 1157
+PUSH 1200
+PAX 136
+TOF 8400
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL230/09.VN-A564.CXR
+AA 1346/1353

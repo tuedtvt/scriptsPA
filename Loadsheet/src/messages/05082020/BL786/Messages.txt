@@ -1,0 +1,43 @@
+1. CLM
+BL786/05.VN-A572.SGN
+BL786/VN6014-VNA572-HAN
+DANG NGUYEN XUAN (NXD1)
+
+DUY HO KHANH (HKD)
+
+PHUONG6 NGUYEN QUYNH (NQP6)
+
+LAM5 DO TUNG (DTL5)
+
+DIEN1 HOANG VAN (HVD1)
+
+TRANG17 PHAM THUY (PTT17)
+
+
+----------------------------------------------------
+
+2. LDM
+BL786/05.VN-A572.SGN
+HAN 132/12/03 T/1780   1/590   2/0   3/500   4/690    5/0
+HAN  B/690  C/1090  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL786/05.VN-A572.SGN
+AD 2127/2150 EA 2350 HAN
+C/L 2127
+PUSH 2134
+PAX 147
+TOF 10900
+DL: 770/0012 THOI TIET XAU TAI SGN
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL786/05.VN-A572.SGN
+AA 2333/2350

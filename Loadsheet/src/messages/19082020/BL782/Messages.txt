@@ -1,0 +1,46 @@
+1. CLM
+BL782/19.VN-A562.SGN
+DHARMESH KAUSHIK (KAD)
+
+NIRAJ ADHIKARI (NIA)
+
+DIEP1 TRAN NGOC (TND1)
+
+NGOC12 DUONG ANH (DAN12)
+
+NAM5 NGUYEN PHUONG (NPN5)
+
+HA8 VU THU (VTH8)
+
+----------------------------------------------------
+
+2. LDM
+BL782/19.VN-A562.SGN
+HAN 84/01/00 T/2850   1/1195   2/0   3/1145   4/390    5/120
+HAN  B/390  C/2460  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B
+CPT05/C
+SI: N
+--BEST REGARDS/TÂM--
+----------------------------------------------------
+
+3. MVT
+BL782/19.VN-A562.SGN
+AD 1755/1815 EA 2015 HAN
+C/L 1755
+PUSH 1802
+PAX 85
+TOF 9800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL782/19.VN-A562.SGN
+AA 2000/2007

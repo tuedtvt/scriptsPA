@@ -1,0 +1,47 @@
+1. CLM
+BL768/31.VN-A571.SGN
+ARIEL ADRIAN CRUZ MENDOZA (ARC)
+
+NHAN HUYNH NGUYEN PHUC (HNPN)
+
+HUONG2 NGUYEN THI LAN (NLH2)
+
+THAO1 PHAM PHUONG (PPT1)
+
+MY7 LAM THI NGOC (LNM7)
+
+NHI5 TRUONG TIEU (TTN5)
+
+LINH8 TONG HUE (THL8)
+
+----------------------------------------------------
+
+2. LDM
+BL768/31.VN-A571.SGN
+HAN 169/17/02 T/1350   1/0   2/0   3/1350   4/0    5/0
+HAN  B/1350  C/00  M/00
+SI: 
+--CPT01/N   
+--CPT03/B   
+--CPT04/N   
+--CPT05/N   
+REGARDS/QUANG
+----------------------------------------------------
+
+3. MVT
+BL768/31.VN-A571.SGN
+AD 1403/1423 EA 1620 HAN
+C/L 1403
+PUSH 1408
+PAX 188
+TOF 9000
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL768/31.VN-A562.SGN
+AA 1555/1603

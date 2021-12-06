@@ -1,0 +1,50 @@
+1. CLM
+BL767/29.VN-A198.HAN
+ADRIAN STEFFAN CRESWELL LOWE (LOA1)
+
+SIMONE TIBURZI (TIS)
+
+TIEN NGUYEN DUNG (NDT)
+
+QUYNH2 DANG DUC (DDQ2)
+
+KHIET1 NGUYEN THANH (NTK1)
+
+BAO5 NGUYEN HUY (NHB5)
+
+HIEN10 TRAN THI THANH (TTH10)
+
+HANG5 VU THI THUY (VTH5)
+
+
+----------------------------------------------------
+
+2. LDM
+BL767/29.VN-A198.HAN
+SGN 150/13/02 T/2375   1/1040   2/0   3/600   4/735    5/0
+SGN  B/1035  C/1340  M/00
+SI: 
+*-* LDD INF *-*
+-H1/C
+-H3/C/B
+-H4/B
+-H5/NIL
+BRGDS-TUAN
+----------------------------------------------------
+
+3. MVT
+BL767/29.VN-A198.HAN
+AD 1405/1420 EA 1620 SGN
+C/L 1403
+PUSH 1405
+PAX 165
+TOF 10300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

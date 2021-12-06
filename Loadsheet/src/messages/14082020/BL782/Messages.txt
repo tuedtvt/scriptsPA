@@ -1,0 +1,45 @@
+1. CLM
+BL782/14.VN-A569.SGN
+
+BL782/VN6022-VNA569-HAN
+KOKORO YONGOLE JANDA (JKY)
+
+PATRICK VICTOR ALBERT VAN
+DAMME (PVV)
+
+DIEP1 TRAN NGOC (TND1)
+
+TRAM4 KIEU ANH (KAT4)
+
+TRANG10 NGUYEN THI HUYEN
+(NHT10)
+
+MANH1 NGUYEN VU (NVM1)
+
+
+----------------------------------------------------
+
+2. LDM
+BL782/14.VN-A569.SGN
+HAN 169/06/00 T/2365   1/1040   2/0   3/910   4/415    5/0
+HAN  B/315  C/2050  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/C+B
+CPT05/N
+SI: N
+--BEST REGARDS/TÂM--
+----------------------------------------------------
+
+3. MVT
+MVT not input.
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL782/14.VN-A569.SGN
+AA 1951/1958

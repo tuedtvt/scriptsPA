@@ -1,0 +1,46 @@
+1. CLM
+BL767/14.VN-A569.HAN
+KOKORO YONGOLE JANDA (JKY)
+
+PATRICK VICTOR ALBERT VAN
+DAMME (PVV)
+
+DIEP1 TRAN NGOC (TND1)
+
+TRAM4 KIEU ANH (KAT4)
+
+TRANG10 NGUYEN THI HUYEN
+(NHT10)
+
+MANH1 NGUYEN VU (NVM1)
+
+----------------------------------------------------
+
+2. LDM
+BL767/14.VN-A569.HAN
+SGN 175/4/1 T/2674   1/1000   2/0   3/669   4/805    5/200
+SGN  B/705  C/1969  M/0
+SI: 
+CPT1/C
+CPT3/C
+CPT4/C+B
+CPT5/C
+----------------------------------------------------
+
+3. MVT
+BL767/14.VN-A569.HAN
+AD 1405/1415 EA 1605 SGN
+C/L 1357
+PUSH 1405
+PAX 180
+TOF 10500
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL767/14.VN-A569.HAN
+AA 1600/1610

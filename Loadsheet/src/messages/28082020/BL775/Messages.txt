@@ -1,0 +1,46 @@
+1. CLM
+BL775/28.VN-A564.HAN
+KOKORO YONGOLE JANDA (JKY)
+
+NHAN DAM KIEN (VNDKN)
+
+LINH11 PHAM THUY (PTL11)
+
+CHI2 DANG THI KIM (DKC2)
+
+HUONG9 NGUYEN THANH THANH (NTH9)
+
+TRUNG3 NGUYEN TIEN (NTT3)
+
+
+----------------------------------------------------
+
+2. LDM
+BL775/28.VN-A564.HAN
+SGN 175/10/2 T/1913   1/1088   2/0   3/0   4/825    5/0
+SGN  B/825  C/1088  M/0
+SI: 
+H1/C
+H3/NIL
+H4/B
+H5/NIL
+SI:
+D.HIEU
+----------------------------------------------------
+
+3. MVT
+BL775/28.VN-A564.HAN
+AD 1505/1515 EA 1705 SGN
+C/L 1501
+PUSH 1505
+PAX 187
+TOF 9400
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

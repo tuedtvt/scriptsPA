@@ -1,0 +1,45 @@
+1. CLM
+BL773/20.VN-A570.HAN
+SHAYE ROGAN MORLEY-HART (SRM)
+
+TU VUONG NGUYEN ANH (VNAT1)
+
+KHANH1 NGUYEN HOANG PHUONG
+(NPK1)
+
+HOA7 BUI THI XUAN (BXH7)
+
+TUYEN1 DUONG THI PHUONG (DPT1)
+
+PHUC1 DAO THI (DTP1)
+
+----------------------------------------------------
+
+2. LDM
+BL773/20.VN-A570.HAN
+SGN 159/10/01 T/855   1/0   2/0   3/855   4/0    5/0
+SGN  B/855  C/0  M/0
+SI: 
+H1/NIL
+H3/B
+H4/NIL
+H5/NIL
+
+----------------------------------------------------
+
+3. MVT
+BL773/20.VN-A570.HAN
+AD 1415/1435 EA 1625 SGN
+C/L 1414
+PUSH 1415
+PAX 170
+TOF 10600
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

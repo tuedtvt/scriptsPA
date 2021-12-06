@@ -1,0 +1,40 @@
+1. CLM
+BL302/01.VN-A577.PQC
+PHILIPPE TEHEINUI JULES CHAN YOU KE (PTC)
+ KHOA LE TAN (VNLTK)
+ ANH35 NGUYEN QUOC (NQA35)
+ LINH12 DANG MAI (DML12)
+ THAO6 LE THI XUAN (LXT6)
+ HAO4 HUA GIA (HGH4)
+
+----------------------------------------------------
+
+2. LDM
+BL302/01.VN-A577.PQC
+SGN 126/18/2 T/884   1/0   2/0   3/884   4/0    5/0
+SGN  B/884  C/00  M/00
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL302/01.VN-A577.PQC
+AD 0759/0811 EA 0841 SGN
+C/L 0758
+PUSH 0800
+PAX 146
+TOF 6800
+DL: 930/0009
+----------------------------------------------------
+
+4. PSM
+PSM
+BL302/01AUG SGN PART1
+NGUYEN/THITHANHMS WCHR 4C 
+ENDPSM
+
+----------------------------------------------------
+
+5. MVA
+BL302/01.VN-A577.PQC
+AA 0845/0855

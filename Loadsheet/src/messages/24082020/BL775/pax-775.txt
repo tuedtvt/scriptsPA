@@ -1,0 +1,167 @@
+GPL6007/25AUGHAN
+VN    6007  25AUG  HAN     320               PSGR INFO LIST
+  HAN   SGN   1510  1725  COACH
+FSA 1
+  2B MAI        THI D      Y SGN         EC   F    ETI  AA
+                                         ET   CM   DOCS
+  2C NGUYEN     HUONG      Y SGN         EL   F    ETI  AA
+                                         ET   CM
+  2E DINH       CONG  BJ3  Y SGN         EL   M    ETI  AA
+                                         ET   CM   DOCS
+  4B NGUYEN     MANH  BH2  Y SGN         M    ETI  AA   ET
+                                         INF  CM
+  5C DUONG      TUONG      Y SGN         F    ETI  AA   ET
+                                         CM
+  6B LE         THI T      Y SGN         F    ETI  AA   ET
+                                         CM
+  6D NGUYEN     NGOC       Y SGN         EL   M    ETI  AA
+                                         ET   CM
+  6E BUI        THI M      Y SGN         F    ETI  AA   ET
+                                         CM   AE¥
+  7E LE         THI T      Y SGN         F    ETI  AA   ET     ¥
+                                         CM
+  8B NGO        THI T AZ4  Y SGN         F    ETI  AA   ET
+                                         CM   DOCS MC
+  8F HOANG      THANH      Y SGN         M    ETI  AA   ET
+                                         CM   MC
+  9B TRAN       THANH      Y SGN         EL   F    ETI  AA
+                                         ET   CM   DOCS
+  9C LUONG      VAN T      Y SGN         EL   M    ETI  RT
+                                         AA   ET   CM   DOCS
+  9D NINH       VAN S      Y SGN         M    ETI  AA   ET
+                                         CM
+  9E TRAN       ANH T AC2  Y SGN         M    ETI  AA   ET
+                                         CM   DOCS
+ 10A NGUYEN MIN VU MR      Y SGN         M    ETI  AA   ET
+                                         CM
+ 10C LE         XUAN       Y SGN         M    ETI  AA   ET
+                                         CM
+ 10E NGUYEN     THI K BF2  Y SGN         F    ETI  AA   ET     ¥
+                                         CM                    ¥
+ 10F HOANG      THI D      Y SGN         EL   F    ETI  AA
+                                         ET   CM   DOCS
+ 11C TA         THI P      Y SGN         F    ETI  AA   ET
+                                         CM
+ 11D DANG       NAM N      Y SGN         EL   M    ETI  AA
+                                         ET   CM   DOCS
+ 11E PHAM       HOANG      Y SGN         M    ETI  AA   ET
+                                         CM
+ 14B HOANG      XUAN       Y SGN         EL   M    ETI  AA
+                                         ET   CM
+ 15A NGO        DUY L AT2  Y SGN         M    ETI  AA   ET
+                                         CM
+ 15E MAI        THI K      Y SGN         F    ETI  AA   ET
+                                         CM
+ 16C TRAN       VAN V      Y SGN         M    ETI  AA   ET
+                                         CM
+ 17A PHAM       THANH AV2  Y SGN         EL   M    ETI  AA
+                                         ET   CM   DOCS        ¥
+ 17C TRINH DAO  HUYEN BC7  Y SGN         F    ETI  AA   ET     ¥
+                                         CM   MC
+ 17E DO         DUC H      Y SGN         M    ETI  AA   ET
+                                         CM
+ 18B TRAN       VAN Q AE4  Y SGN         M    ETI  AA   ET
+                                         CM   AE
+ 19D HOANG      THI D AP3  Y SGN         F    ETI  AA   ET
+                                         CM
+ 19F NGUYEN     XUAN  AP3  Y SGN         M    ETI  AA   ET
+                                         CM
+ 20C MA         VAN C AY4  Y SGN         M    ETI  AA   ET
+                                         CM
+ 25C VU         THI T      Y SGN         F    ETI  AA   ET
+                                         CM
+ 25D NGUYEN     THI T      Y SGN         EL   F    ETI  AA
+                                         ET   CM   DOCS
+ 26D PHAM       VAN D BK5  Y SGN         M    ETI  AA   ET
+                                         CM
+ 26F VU         VAN V      Y SGN         M    ETI  AA   ET     ¥
+                                         CM                    ¥
+ 27A HOANGVAN   PHONG AJ2  Y SGN         M    ETI  AA   ET
+                                         CM
+ 27C NGUYEN     THI T      Y SGN         F    ETI  AA   ET
+                                         CM
+ 27F DUONG      THI H BD2  Y SGN         F    ETI  AA   ET
+                                         CM
+ 28B NGUYEN     XUAN       Y SGN         M    ETI  AA   ET
+                                         CM
+ 28E HOANG      TUAN  BM2  Y SGN         M    ETI  AA   ET
+                                         CM
+ 28F DANG       MINH       Y SGN         M    ETI  AA   ET
+                                         CM   MC
+ 29E NGUYEN     QUY T BB5  Y SGN         CHD  ETI  AA   ET
+                                         CM
+ 29F NONG       VAN D      Y SGN         M    ETI  AA   ET
+                                         CM
+ 30A CAO        VAN N      Y SGN         M    ETI  AA   ET
+                                         CM                    ¥
+ 30B NGUYEN     DAC T      Y SGN         EL   M    ETI  AA     ¥
+                                         ET   CM   DOCS
+ 30C DUONG      THE M      Y SGN         M    ETI  AA   ET
+                                         CM
+ 30D DANG       THUY  BG2  Y SGN         F    ETI  AA   ET
+                                         CM
+ 30F VU         HOANG      Y SGN         EL   M    ETI  AA
+                                         ET   CM   DOCS
+ 31D PHAM       THI H AO2  Y SGN         F    ETI  AA   ET
+                                         CM
+ 31F NGUYEN     THI K      Y SGN         F    ETI  AA   ET
+                                         CM
+ 32B NGUYEN     VAN T      Y SGN         M    ETI  AA   ET
+                                         CM
+ 32C PHAN       QUOC       Y SGN         M    ETI  AA   ET
+                                         CM
+
+
+                                                               ¥
+                                                               ¥
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VN   6007   25AUG  HAN    12    1510    320  FLIGHT DATA  OPENCI
+                                                               ¥
+                                                  Y            ¥
+                          SMOKING ROWS    NO SMOKING FLIGHT
+                          MEALS N
+                          SETUPS
+                          SUPPS
+                          TTL ON BD             0
+                          FQTV MILES      SGN
+COUNTS     WCHR 0   CHD 0   INF 0   UMNR 0   TWOV 0   DHD 0
+¥NONE LISTED
+
+
+
+  6007 25AUG   HAN 12   1510   320      CM LIST        Y9
+   1 BUI         THI T AP3  G   SGN     F  0  F  ETI AA
+       1  NO BAG                              CM SR
+   2 KWON        TAEIL      A   SGN     F  0  M  ETI AA
+       1  NO BAG                              CM DOCS SR
+   3 LAI THANH   SANG  AQ2  G   SGN     F  0  CHD ETI AA
+       1  NO BAG                              CM SR            ¥
+   4 LE HONG     QUANG      G   SGN     F  0  M  ETI AA        ¥
+       1  NO BAG                              CM SR
+   5 NGO         DINH       P   SGN     F  0  M  ETI AA
+       1  NO BAG                              CM SR
+   6 NGO KIM     THANH      G   SGN     F  0  M  ETI AA
+       1  NO BAG                              CM AE SR
+                                              XBAG
+   7 NGUYEN      THI H      G   SGN     F  0  F  ETI AA
+       1  NO BAG                              CM DOCS SR
+   8 NGUYEN      CHAU  AR2  G   SGN     F  0  M  ETI AA
+       1  NO BAG                              CM AE SR
+                                              XBAG
+   9 PHAM        HONG       G   SGN     F  0  F  ETI AA
+       1  NO BAG                              CM SR

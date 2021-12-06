@@ -1,0 +1,42 @@
+1. CLM
+BL320/13.VN-A562.PQC
+ANTONIO ERNESTO ALONSO
+ESCANDELL (AAE)
+
+KIEN DANG VU BAO (DVBK)
+
+LY3 MAI THAO (MTL3)
+
+NGUYEN4 HONG THI THAO (HTN4)
+
+TIEN5 TRAN THI THUY (TTT05)
+
+QUYNH6 VU NGOC DIEM (VDQ6)
+
+----------------------------------------------------
+
+2. LDM
+BL320/13.VN-A562.PQC
+SGN 91/17/2 T/644   1/124   2/0   3/520   4/0    5/0
+SGN  B/520  C/124  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL320/13.VN-A562.PQC
+AD 1437/1452 EA 1532 SGN
+C/L 1436
+PUSH 1438
+PAX 110
+TOF 8100
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL320/13.VN-A562.PQC
+AA 1532/1542

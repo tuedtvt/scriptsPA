@@ -1,0 +1,48 @@
+1. CLM
+BL765/29.VN-A565.HAN
+TUAN VU ANH (VNVAT)
+
+TRUNG NGUYEN QUOC (NQTR)
+
+TUNG1 HOANG (HT01)
+
+THOA1 TRINH KIM (TKT1)
+
+GIANG5 NGUYEN THI HUONG (NHG5)
+
+ANH42 NGUYEN TUAN (NTA42)
+
+NGA3 TRAN THI ANH (TAN3)
+
+----------------------------------------------------
+
+2. LDM
+BL765/29.VN-A565.HAN
+SGN 159/16/1 T/1050   1/0   2/0   3/450   4/600    5/0
+SGN  B/1050  C/0  M/0
+SI: 
+H1/NIL
+H3/SGN/B
+H4/SGN/B
+H5/NIL
+--
+BRGDS,
+BUIDUY
+----------------------------------------------------
+
+3. MVT
+BL765/29.VN-A565.HAN
+AD 1130/1140 EA 1330 SGN
+C/L 1125
+PUSH 1130
+PAX 176
+TOF 10200
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

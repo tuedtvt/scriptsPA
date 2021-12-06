@@ -1,0 +1,36 @@
+1. CLM
+BL320/06.VN-A577.PQC
+THOBÉ DURK KUIPERS (KTD)
+ SKANDER FEKI (FES)
+ VINH2 TRAN TIEN (TTV2)
+ VU3 LE QUANG (LQV3)
+ TRI3 PHUNG TRONG (PHTT3)
+ LINH7 PHAN KIEU (PKL7)
+
+----------------------------------------------------
+
+2. LDM
+BL320/06.VN-A577.PQC
+SGN 134/20/5 T/847   1/0   2/0   3/847   4/0    5/0
+SGN  B/847  C/00  M/00
+SI: 
+02 BBY STRLL LDD H3
+----------------------------------------------------
+
+3. MVT
+BL320/06.VN-A577.PQC
+AD 1443/1500 EA 1540 SGN
+C/L 1442
+PUSH 1444
+PAX 159
+TOF 7400
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL320/06.VN-A577.PQC
+AA 1533/1543

@@ -1,0 +1,46 @@
+1. CLM
+BL767/20.VN-A565.HAN
+ ALBERTO JOSE ZARONE MORA (ZAA)
+
+KEANI MÉLISSA AMARU (KAM)
+
+YEN HA THI HAI (HTHY)
+
+THANG3 VU NGOC (VNT3
+PHUONG6 NGUYEN QUYNH (NQP6)
+
+TRAM4 KIEU ANH (KAT4)
+
+MANH1 NGUYEN VU (NVM1)
+
+HA8 VU THU (VTH8)
+
+----------------------------------------------------
+
+2. LDM
+BL767/20.VN-A565.HAN
+SGN 164/21/03 T/960   1/0   2/0   3/300   4/660    5/0
+SGN  B/960  C/0  M/0
+SI: 
+H1/NIL
+H3/B
+H4/B
+H5/NIL
+----------------------------------------------------
+
+3. MVT
+BL767/20.VN-A565.HAN
+AD 1434/1450 EA 1645 SGN
+C/L 1425
+PUSH 1435
+PAX 188
+TOF 9800
+DL: 930/850/0020/0010
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

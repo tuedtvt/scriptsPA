@@ -1,0 +1,41 @@
+1. CLM
+BL320/20.VN-A572.PQC
+TAN NGUYEN QUOC (VNNQT)
+
+PHILIPPE NOEL JEAN LE GALL (LPN)
+
+THAO1 PHAM PHUONG (PPT1)
+
+VI11 NGUYEN THAI (NTV11)
+
+HUY7 TRAN KIM (TKH7)
+
+THU4 VAN ANH (VAT4)
+
+----------------------------------------------------
+
+2. LDM
+BL320/20.VN-A572.PQC
+SGN 165/21/3 T/788   1/109   2/0   3/679   4/0    5/0
+SGN  B/679  C/109  M/0
+SI: 
+01BBSTRL LDD H3
+----------------------------------------------------
+
+3. MVT
+BL320/20.VN-A572.PQC
+AD 1443/1456 EA 1536 SGN
+C/L 1442
+PUSH 1445
+PAX 189
+TOF 7300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL320/20.VN-A572.PQC
+AA 1535/1545

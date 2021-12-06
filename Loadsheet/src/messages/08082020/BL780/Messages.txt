@@ -1,0 +1,42 @@
+1. CLM
+BL780/08.VN-A566.SGN
+BL780	VN6010
+JORGE LUIS CELY SALAZAR (JLS)
+
+QUAN DO HONG (VNDQU)
+
+ANH31 VU HOANG PHUONG (VPA31)
+
+HOANG5 LE KHANH (LKH5)
+
+TRINH4 LE THI TUONG (LTTT4)
+
+MY4 TRINH HAI (THM4)
+
+
+----------------------------------------------------
+
+2. LDM
+BL780/08.VN-A566.SGN
+HAN 123/06/02 T/1620   1/755   2/0   3/430   4/435    5/0
+HAN  B/435  C/1185  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL780/08.VN-A566.SGN
+AD 1705/1725 EA 1925 HAN
+C/L 1705
+PUSH 1708
+PAX 131
+TOF 9300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

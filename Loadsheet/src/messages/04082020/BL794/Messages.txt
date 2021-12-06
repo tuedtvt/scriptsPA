@@ -1,0 +1,42 @@
+1. CLM
+BL794/04.VN-A570.SGN
+BL794/VN6028-VNA570-HAN
+DANG NGUYEN XUAN (NXD1)
+
+DUY HO KHANH (HKD)
+
+OSB: PHAM QUOC BAO
+THAI3 PHAM QUANG (PQT3)
+
+HIEU4 NGUYEN TRONG (NGTH4)
+
+TRUNG3 NGUYEN TIEN (NTT3)
+
+HUYEN6 VU THI MINH (VMH6)
+
+----------------------------------------------------
+
+2. LDM
+BL794/04.VN-A570.SGN
+HAN 125/13/01 T/1020   1/720   2/0   3/0   4/300    5/0
+HAN  B/300  C/720  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL794/04.VN-A570.SGN
+AD 2305/2320 EA 0120 HAN
+C/L 2305
+PUSH 2307
+PAX 139
+TOF 10400
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

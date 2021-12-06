@@ -1,0 +1,43 @@
+1. CLM
+BL748/07.VN-A577.SGN
+KOKORO YONGOLE JANDA (JKY)
+
+BAO PHAM QUOC (PQB)
+
+MAI3 NGUYEN THI (NTM3)
+
+TUYEN1 DUONG THI PHUONG (DPT1)
+
+MAI4 PHAM THI NGOC (PNM4)
+
+QUI1 PHAN VAN (PVQ1)
+
+----------------------------------------------------
+
+2. LDM
+BL748/07.VN-A577.SGN
+HAN 89/10/1 T/1770   1/935   2/0   3/505   4/330    5/0
+HAN  B/330  C/1440  M/0
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL748/07.VN-A577.SGN
+AD 0550/0604 EA 0802 HAN
+C/L 0550
+PUSH 0555
+PAX 100
+TOF 8940
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

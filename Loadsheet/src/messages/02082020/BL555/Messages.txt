@@ -1,0 +1,49 @@
+1. CLM
+BL555/02.VN-A572.VII
+ARIO TEJO CHRISTOFORUS (ART)
+
+MANUEL HORST EWALD FINGER (FME)
+
+NHAN HUYNH NGUYEN PHUC (HNPN)
+
+SON2 HOANG THANH (HTS2)
+
+MAI6 DOAN THI THANH (DTM6)
+
+ NGHIA4 LE TUAN (LTNG4)
+
+ DAT4 NGUYEN HUU (NHD4)
+
+
+----------------------------------------------------
+
+2. LDM
+BL555/02.VN-A572.VII
+SGN 135/28/1 T/1155   1/0   2/0   3/900   4/255    5/0
+SGN  B/1155  C/0  M/0
+SI: 
+LDD DIST
+-H1/N
+-H3/B
+-H4/B
+-H5/N
+
+----------------------------------------------------
+
+3. MVT
+BL555/02.VN-A572.VII
+AD 2358/0006 EA 0136 SGN
+C/L 2352
+PUSH 
+PAX 164
+TOF 8900
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL555/02.VN-A572.VII
+AA 0029/0039

@@ -1,0 +1,47 @@
+1. CLM
+BL555/19.VN-A577.VII
+BL555/-VNA577-VII
+HONG LE THI BICH (LTBH)
+
+NY BUI HOANG TON (BHTNY)
+
+TUAN1 LE QUOC (LQT1)
+
+MY7 LAM THI NGOC (LNM7)
+
+THANH13 PHAN DUY (PDT13)
+
+TOAN4 VO NGUYEN TIEN (VTT4)
+
+----------------------------------------------------
+
+2. LDM
+BL555/19.VN-A577.VII
+SGN 151/27/05 T/2842   1/850   2/0   3/1050   4/592    5/350
+SGN  B/1560  C/1282  M/0
+SI: 
+-H1/SGN/C
+-H3/SGN/B
+-H4/SGN/C/B
+-H5/SGN/C
+01 PRIO BAG LDD H4
+
+----------------------------------------------------
+
+3. MVT
+BL555/19.VN-A577.VII
+AD 1653/1700 EA 1830 SGN
+C/L 1647
+PUSH 1654
+PAX 183
+TOF 10100
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL555/19.VN-A577.VII
+AA 1839/1845

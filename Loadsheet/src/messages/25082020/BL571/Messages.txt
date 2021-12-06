@@ -1,0 +1,46 @@
+1. CLM
+BL571/25.VN-A566.THD
+DAT NGUYEN QUANG (DQN1)
+
+HUY NGUYEN QUANG (NQH)
+
+MAI1 NGUYEN THI TUYET (NTM1)
+
+MY5 NGUYEN THI HOAI (NHM5)
+
+HOANG5 LE KHANH (LKH5)
+
+TUNG3 LE MINH (LMTU3)
+
+THU4 VAN ANH (VAT4)
+
+
+----------------------------------------------------
+
+2. LDM
+BL571/25.VN-A566.THD
+SGN 143/29/7 T/2076   1/831   2/0   3/900   4/345    5/0
+SGN  B/1245  C/831  M/0
+SI: 
+H1/C
+B3/B
+H4/B
+H5/N
+----------------------------------------------------
+
+3. MVT
+BL571/25.VN-A566.THD
+AD 1530/1540 EA 1720 SGN
+C/L 1525
+PUSH 
+PAX 179
+TOF 9800
+DL: 360/662/0005/0005
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

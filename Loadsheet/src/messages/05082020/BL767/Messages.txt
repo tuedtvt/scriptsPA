@@ -1,0 +1,47 @@
+1. CLM
+BL767/05.VN-A572.HAN
+OMAR FERNANDO FREDING CAÑETE (FOF)
+
+NAM DANG HOAI (VNDHN)
+
+BAO3 TRAN TON QUOC (TTQB3)
+
+LUAN2 HUYNH NGOC (HNL2)
+
+GIANG4 LE THI CAM (LCG4)
+
+MY8 TRAN THI KIEU (TKM8)
+
+
+----------------------------------------------------
+
+2. LDM
+BL767/05.VN-A572.HAN
+SGN 127/10/2 T/3480   1/1300   2/0   3/900   4/1160    5/120
+SGN  B/1125  C/2355  M/0
+SI: 
+***LDM INF***
+-CP1/C
+-CP3/C
+-CP4/C+B
+-CP5/B
+SI:
+BRGDS/DUONG
+----------------------------------------------------
+
+3. MVT
+BL767/05.VN-A572.HAN
+AD 1405/1425 EA 1623 SGN
+C/L 1355
+PUSH 1405
+PAX 139
+TOF 10800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

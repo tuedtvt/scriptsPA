@@ -1,0 +1,44 @@
+1. CLM
+BL753/10.VN-A571.HAN
+NHUNG7 NGUYEN THI TUYET (NTN7)
+
+CHI2 DANG THI KIM (DKC2)
+
+HAI1 NGUYEN TRUNG (NTH1)
+
+GIANG3 PHAM THU (PTG3)
+
+BINH NGUYEN NGOC (NNB)
+
+TUAN DANG MINH (VNDMT)
+
+----------------------------------------------------
+
+2. LDM
+BL753/10.VN-A571.HAN
+SGN 123/10/03 T/1992   1/752   2/0   3/790   4/450    5/0
+SGN  B/450  C/1542  M/0
+SI: 
+H1/C
+H3/C
+H4/B
+H5/NIL
+----------------------------------------------------
+
+3. MVT
+BL753/10.VN-A571.HAN
+AD 0540/0550 EA 0740 SGN
+C/L 0536
+PUSH 0540
+PAX 136
+TOF 9920
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL753/10.VN-A571.HAN
+AA 0725/0735

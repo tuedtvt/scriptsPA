@@ -1,0 +1,42 @@
+1. CLM
+BL780/09.VN-A577.SGN
+MOHAMED AFZAL AHMED (MAA)
+
+JOSE CARLOS SANCHEZ COBOS
+(CJS)
+
+HUONG3 NGUYEN THU (NTH3)
+
+HOANG5 LE KHANH (LKH5)
+
+NGHIA2 LE TRONG (LTN2)
+
+KHANH4 VU DUC (VDK4)
+
+
+----------------------------------------------------
+
+2. LDM
+BL780/09.VN-A577.SGN
+HAN 158/09/01 T/1695   1/990   2/0   3/0   4/705    5/0
+HAN  B/705  C/990  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL780/09.VN-A577.SGN
+AD 1705/1720 EA 1920 HAN
+C/L 1705
+PUSH 1708
+PAX 168
+TOF 10300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

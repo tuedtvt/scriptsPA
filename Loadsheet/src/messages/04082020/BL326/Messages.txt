@@ -1,0 +1,45 @@
+1. CLM
+BL326/04.VN-A570.PQC
+QUYET DINH HUU (VNDHQ)
+
+BAO PHAM QUOC (PQB)
+
+THAI3 PHAM QUANG (PQT3)
+
+HIEU4 NGUYEN TRONG (NGTH4)
+
+TRUNG3 NGUYEN TIEN (NTT3)
+
+HUYEN6 VU THI MINH (VMH6)
+
+----------------------------------------------------
+
+2. LDM
+BL326/04.VN-A570.PQC
+SGN 165/21/4 T/954   1/0   2/0   3/954   4/0    5/0
+SGN  B/954  C/0  M/0
+SI: 
+07 PRIORITY LDD H3
+----------------------------------------------------
+
+3. MVT
+BL326/04.VN-A570.PQC
+AD 2108/2117 EA 2157 SGN
+C/L 2107
+PUSH 2109
+PAX 190
+TOF 6800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM
+BL326/04AUG SGN PART1
+TRAN/THANHDONGMR WCHC 3C 
+ENDPSM
+
+----------------------------------------------------
+
+5. MVA
+BL326/04.VN-A570.PQC
+AA 2210/2220

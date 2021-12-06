@@ -1,0 +1,45 @@
+1. CLM
+BL768/01.VN-A570.SGN
+ANDRES MARCELO VINTIMILLA CRUZ (CRA)
+
+ PATRICK VICTOR ALBERT VAN DAMME (PVV)
+
+BAO3 TRAN TON QUOC (TTQB3)
+
+ QUYNH5 BUI NGUYEN PHUONG (BPQ5)
+ 
+BANG1 NGUYEN HUU (NHB1)
+
+ THAO3 NGUYEN PHUONG (NPT3)
+
+
+----------------------------------------------------
+
+2. LDM
+BL768/01.VN-A570.SGN
+HAN 129/27/05 T/975   1/0   2/0   3/975   4/0    5/0
+HAN  B/975  C/00  M/00
+SI: 
+H1/NIL
+H3/B
+H4/NIL
+H5NIL
+HUNG2
+----------------------------------------------------
+
+3. MVT
+BL768/01.VN-A570.SGN
+AD 1420/1440 EA 1640 HAN
+C/L 1420
+PUSH 1427
+PAX 161
+TOF 10300
+DL: 990/0010 chờ phi công chuyển sân
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

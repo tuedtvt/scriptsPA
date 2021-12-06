@@ -1,0 +1,44 @@
+1. CLM
+BL777/03.VN-A569.HAN
+HUNG NGUYEN PHI (NPH1)
+
+PATRICK VICTOR ALBERT VAN
+DAMME (PVV)
+
+TOAN1 HUYNH QUOC (HQT1)
+
+VU1 DANG ANH (DAV1)
+
+TRANG23 LE THI HUYEN (LHT23)
+
+TRAN6 NGUYEN LE BAO (NBT6)
+
+----------------------------------------------------
+
+2. LDM
+BL777/03.VN-A569.HAN
+SGN 113/06/01 T/3017   1/1201   2/0   3/721   4/895    5/200
+SGN  B/795  C/2222  M/0
+SI: 
+H1/C
+H3/C
+H4/C/B
+H5/C
+----------------------------------------------------
+
+3. MVT
+BL777/03.VN-A569.HAN
+AD 2110/2125 EA 2325 SGN
+C/L 2106
+PUSH 2110
+PAX 120
+TOF 9800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

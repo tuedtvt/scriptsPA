@@ -1,0 +1,41 @@
+1. CLM
+BL780/01.VN-A572.SGN
+HUY NGUYEN DANG (VNNDH)
+
+MANUEL HORST EWALD FINGER
+(FME)
+
+HANG6 DO THI THU (DTH6)
+
+NGOC6 LE THI BICH (LBN6)
+
+LINH14 LE THANH MAI (LML14)
+
+TRAN4 LOC THUY MAI (LMT4)
+
+----------------------------------------------------
+
+2. LDM
+BL780/01.VN-A572.SGN
+HAN 145/30/04 T/1655   1/575   2/0   3/450   4/630    5/0
+HAN  B/630  C/575  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL780/01.VN-A572.SGN
+AD 1720/1741 EA 1941 HAN
+C/L 1720
+PUSH 1724
+PAX 179
+TOF 11500
+DL: 622/0005 THAY DOI KE HOACH BAY,NAP THEM NHIEN LIEU
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,44 @@
+1. CLM
+BL230/08.VN-A573.CXR
+  1  CAPT  CAMILO ANDRES TORRES ACOSTA(TAC)
+          
+  2  FO  KEANI MÉLISSA AMARU (KAM)
+          
+  3  CM  PHUONG6 NGUYEN QUYNH (NQP6)
+          
+  4  CA  HUONG11 BUI THANH (BTH11)
+          
+  5  CA  HAI1 NGUYEN TRUNG (NTH1)
+          
+  6  CA  HAO2 PHAM THI MY (PMH2)
+          
+End of Crew List
+----------------------------------------------------
+
+2. LDM
+BL230/08.VN-A573.CXR
+HAN 78/6/1 T/480   1/0   2/0   3/480   4/0    5/0
+HAN  B/480  C/0  M/0
+SI: 
+H1/N
+H3/B/32PCS
+H4/N
+H5/N
+----------------------------------------------------
+
+3. MVT
+BL230/08.VN-A573.CXR
+AD 1155/1205 EA 1344 HAN
+C/L 1153
+PUSH 1155
+PAX 85
+TOF 8280
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

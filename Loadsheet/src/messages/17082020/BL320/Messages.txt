@@ -1,0 +1,47 @@
+1. CLM
+BL320/17.VN-A564.PQC
+JORGE ALEJANDRO PEÑA IRUN (PJA)
+
+HUNG TRAN HUU (THH)
+
+TUAN1 LE QUOC (LQT1)
+
+HAO4 HUA GIA (HGH4)
+
+LAM2 HO TUNG (HTL2)
+
+THAO13 NGUYEN THI PHUONG
+(NPT13)
+
+
+----------------------------------------------------
+
+2. LDM
+BL320/17.VN-A564.PQC
+SGN 162/24/5 T/1197   1/54   2/0   3/571   4/572    5/0
+SGN  B/1143  C/54  M/0
+SI: 
+03 PRIORITY LDD H4
+----------------------------------------------------
+
+3. MVT
+BL320/17.VN-A564.PQC
+AD 1510/1522 EA 1602 SGN
+C/L 1509
+PUSH 1511
+PAX 191
+TOF 7500
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM
+BL320/17AUG PQC PART1
+-SGN
+NIL
+ENDPSM
+----------------------------------------------------
+
+5. MVA
+BL320/17.VN-A564.PQC
+AA 1600/1609

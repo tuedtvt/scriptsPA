@@ -1,0 +1,48 @@
+1. CLM
+BL753/07.VN-A572.HAN
+ANDRES MARCELO VINTIMILLA CRUZ(CRA)
+
+PATRICK VICTOR ALBERT VAN DAMME (PVV)
+
+KHANH1 NGUYEN HOANG PHUONG(NPK1)
+
+LINH21 NGUYEN THI PHUONG(NPL21)
+
+MANH1 NGUYEN VU (NVM1)
+
+HAO2 PHAM THI MY (PMH2)
+
+
+----------------------------------------------------
+
+2. LDM
+BL753/07.VN-A572.HAN
+SGN 82/3/0 T/2639   1/1389   2/0   3/680   4/420    5/150
+SGN  B/420  C/2219  M/0
+SI: 
+***LDM INF***
+-CP1/C
+-CP3/C
+-CP4/B
+-CP5/C
+SI:
+BRGDS/DUONG
+----------------------------------------------------
+
+3. MVT
+BL753/07.VN-A572.HAN
+AD 0550/0605 EA 0802 SGN
+C/L 0540
+PUSH 0550
+PAX 85
+TOF 9500
+DL: 631/05 +410/05
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL753/07.VN-A572.HAN
+AA 0745/0755

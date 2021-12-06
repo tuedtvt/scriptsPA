@@ -1,0 +1,44 @@
+1. CLM
+BL231/05.VN-A573.HAN
+JESUS MANUEL RIVERA (JMR)
+
+NIRAJ ADHIKARI (NIA)
+
+HA6 CHAU NGOC (CNH6)
+
+HANG10 DAM THI LE (DLH10)
+
+TUNG3 LE MINH (LMTU3)
+
+LIEN2 LE NGUYEN MY (LML2)
+
+
+----------------------------------------------------
+
+2. LDM
+BL231/05.VN-A573.HAN
+CXR 81/6/2 T/285   1/0   2/0   3/285   4/0    5/0
+CXR  B/285  C/0  M/0
+SI: 
+CPT1/N
+CPT3/B
+CPT4/N
+CPT5/N
+----------------------------------------------------
+
+3. MVT
+BL231/05.VN-A573.HAN
+AD 0930/0940 EA 1110 CXR
+C/L 0926
+PUSH 0930
+PAX 89
+TOF 7800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

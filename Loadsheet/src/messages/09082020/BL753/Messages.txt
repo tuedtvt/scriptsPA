@@ -1,0 +1,44 @@
+1. CLM
+BL753/09.VN-A573.HAN
+LINH11 PHAM THUY (PTL11)
+
+NGOC12 DUONG ANH (DAN12)
+
+CHINH8 NGUYEN VIET (NVC8)
+
+MANH1 NGUYEN VU (NVM1)
+
+FRÉDÉRIC JEAN-CLAUDE JANKOWSKI (FJC)
+
+TU VUONG NGUYEN ANH (VNAT1)
+
+----------------------------------------------------
+
+2. LDM
+BL753/09.VN-A573.HAN
+SGN 125/17/0 T/2838   1/1241   2/0   3/797   4/500    5/300
+SGN  B/300  C/2538  M/0
+SI: 
+CPT1/C
+CPT3/C
+CPT4/C+B
+CPT5/C
+----------------------------------------------------
+
+3. MVT
+BL753/09.VN-A573.HAN
+AD 0540/0550 EA 0740 SGN
+C/L 0531
+PUSH 0540
+PAX 142
+TOF 9900
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL753/09.VN-A573.HAN
+AA 0722/0732

@@ -1,0 +1,47 @@
+1. CLM
+BL773/26.VN-A570.HAN
+MOHAMED AFZAL AHMED (MAA)
+
+CONG HOANG VIET (VNHVC)
+
+HAN1 HA GIA (HGH1)
+
+NGHI1 LE NGUYEN THUC (LNTN1)
+
+TRAN6 NGUYEN LE BAO (NBT6)
+
+HIEN12 VU THI THUC (VTH12)
+
+
+----------------------------------------------------
+
+2. LDM
+BL773/26.VN-A570.HAN
+SGN 156/7/1 T/2450   1/994   2/0   3/361   4/1095    5/0
+SGN  B/1095  C/1355  M/0
+SI: 
+H1/SGN/C
+H3/SGN/C
+H4/SGN/B
+H5/NIL
+--
+BRGDS,
+BUIDUY
+----------------------------------------------------
+
+3. MVT
+BL773/26.VN-A577.HAN
+AD 1550/1605 EA 1805 SGN
+C/L 1542
+PUSH 1550
+PAX 164
+TOF 10400
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

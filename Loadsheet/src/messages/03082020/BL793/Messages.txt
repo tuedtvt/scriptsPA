@@ -1,0 +1,43 @@
+1. CLM
+BL793/03.VN-A570.HAN
+ GIAO TRUONG NGOC (VNTNG)
+
+HUAN LE CONG (LCH)
+
+QUANG2 NGUYEN TUAN (NTQ2)
+
+DUNG4 HANG HANH (HHD4)
+
+TRAM2 NGUYEN THI BICH (NBT2)
+
+THAO3 NGUYEN PHUONG (NPT3)
+
+----------------------------------------------------
+
+2. LDM
+BL793/03.VN-A570.HAN
+SGN 123/06/02 T/1949   1/750   2/0   3/614   4/585    5/0
+SGN  B/585  C/1364  M/0
+SI: 
+H1/C
+H3/C
+H4/B
+H5/NIL
+----------------------------------------------------
+
+3. MVT
+BL793/03.VN-A570.HAN
+AD 2312/2325 EA 0120 SGN
+C/L 2306
+PUSH 2312
+PAX 131
+TOF 9800
+DL: 930/0012
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

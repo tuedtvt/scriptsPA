@@ -1,0 +1,44 @@
+1. CLM
+BL764/07.VN-A572.SGN
+ANDRES MARCELO VINTIMILLA CRUZ (CRA)
+
+PATRICK VICTOR ALBERT VAN DAMME (PVV)
+
+HOA3 NGO THANH (NGTH3)
+
+VU1 DANG ANH (DAV1)
+
+TRAN6 NGUYEN LE BAO (NBT6)
+
+CUONG3 NGO CHI (NCC3)
+
+----------------------------------------------------
+
+2. LDM
+BL764/07.VN-A572.SGN
+HAN 112/11/2 T/1510   1/715   2/0   3/0   4/795    5/0
+HAN  B/795  C/715  M/0
+SI: 
+CPT01/C
+CPT03/N
+CPT04/B
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL764/07.VN-A572.SGN
+AD 1114/1152 EA 1350 HAN
+C/L 1114
+PUSH 1135
+PAX 125
+TOF 9460
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL764/07.VN-A572.SGN
+AA 1334/1341

@@ -1,0 +1,46 @@
+1. CLM
+BL764/27.VN-A566.SGN
+ARIEL ADRIAN CRUZ MENDOZA (ARC)
+
+NHAN HUYNH NGUYEN PHUC (HNPN)
+
+QUYNH2 DANG DUC (DDQ2)
+
+KHIET1 NGUYEN THANH (NTK1)
+
+BAO5 NGUYEN HUY (NHB5)
+
+HUYNH1 NGUYEN THI NHU (NNH1)
+
+ANH34 NGUYEN THI (NTA34)
+
+----------------------------------------------------
+
+2. LDM
+BL764/27.VN-A566.SGN
+HAN 155/13/01 T/2745   1/735   2/0   3/734   4/1020    5/256
+HAN  B/1020  C/1725  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B
+CPT05/C
+----------------------------------------------------
+
+3. MVT
+BL764/27.VN-A566.SGN
+AD 1130/1150 EA 1350 HAN
+C/L 1130
+PUSH 1135
+PAX 169
+TOF 8800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL764/27.VN-A566.SGN
+AA 1336/1342

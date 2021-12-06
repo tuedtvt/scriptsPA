@@ -1,0 +1,41 @@
+1. CLM
+BL786/09.VN-A571.SGN
+GIACOMO CORONESE (CGC)
+
+THANG NGUYEN DINH (VNDIT)
+
+HIEU1 VU TRUNG (VTH1)
+
+QUYNH4 DO NHU (DNQ4)
+
+HIEU4 NGUYEN TRONG (NGTH4)
+
+HA8 VU THU (VTH8)
+
+
+----------------------------------------------------
+
+2. LDM
+BL786/09.VN-A571.SGN
+HAN 24/1/1 T/60   1/0   2/0   3/60   4/0    5/0
+HAN  B/60  C/0  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL786/09.VN-A571.SGN
+AD 2112/2128 EA 2328 HAN
+C/L 2112
+PUSH 2112
+PAX 26
+TOF 8900
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

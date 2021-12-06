@@ -1,0 +1,46 @@
+1. CLM
+BL750/17.VN-A568.SGN
+ROBERT ALAN LINDSAY (RAL)
+
+VINH LY THIEU (LTV)
+
+HA NGUYEN DANG (NDH)
+
+VY2 TRAN THI BICH (TBV2)
+
+THONG1 LE HOANG (LHTH1)
+
+TRANG13 LIEN THANH (LTT13)
+
+DUNG6 NGUYEN THUY (NTD6)
+
+----------------------------------------------------
+
+2. LDM
+BL750/17.VN-A568.SGN
+HAN 120/15/01 T/1305   1/800   2/0   3/280   4/225    5/0
+HAN  B/225  C/1080  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL750/17.VN-A568.SGN
+AD 0635/0700 EA 0840 HAN
+C/L 0635
+PUSH 0645
+PAX 121
+TOF 10900
+DL: 00
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL750/17.VN-A568.SGN
+AA 0841/0850

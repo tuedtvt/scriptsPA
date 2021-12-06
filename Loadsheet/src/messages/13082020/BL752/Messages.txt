@@ -1,0 +1,48 @@
+1. CLM
+BL752/13.VN-A571.SGN
+BL752/VN6024-VNA571
+ANH CHU QUOC (CQA)
+
+DEAN WILLIAM STEVENSON (DWS)
+
+HUY NGUYEN QUANG (NQH)
+
+HUE1 TRAN THI (TH1)
+
+TRINH2 HUYNH NGUYEN DOAN
+(HNDT2)
+
+MY7 LAM THI NGOC (LNM7)
+
+NGHIA2 LE TRONG (LTN2)
+
+----------------------------------------------------
+
+2. LDM
+BL752/13.VN-A571.SGN
+HAN 146/07/01 T/2010   1/800   2/0   3/670   4/540    5/0
+HAN  B/540  C/1470  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL752/13.VN-A571.SGN
+AD 0835/0855 EA 1040 HAN
+C/L 0835
+PUSH 0842
+PAX 154
+TOF 10200
+DL: 00
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL752/13.VN-A571.SGN
+AA 1035/1042

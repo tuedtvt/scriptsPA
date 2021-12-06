@@ -1,0 +1,40 @@
+1. CLM
+BL768/08.VN-A570.SGN
+ANDRES MARCELO VINTIMILLA CRUZ (CRA)
+
+LONG NGUYEN TUAN (NGTL)
+
+THAO1 PHAM PHUONG (PPT1)
+
+LINH19 LE HUYNH KHANH (LKL19)
+
+TRINH5 LE NU KIEU (LKT5)
+
+DANG1 TRINH HOANG HAI (THD1)
+
+----------------------------------------------------
+
+2. LDM
+BL768/08.VN-A570.SGN
+HAN 106/13/01 T/1125   1/0   2/0   3/900   4/225    5/0
+HAN  B/1125  C/0  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL768/08.VN-A570.SGN
+AD 1410/1425 EA 1625 HAN
+C/L 1410
+PUSH 1412
+PAX 120
+TOF 8900
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

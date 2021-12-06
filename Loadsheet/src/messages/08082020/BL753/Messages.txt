@@ -1,0 +1,45 @@
+1. CLM
+BL753/08.VN-A567.HAN
+KOKORO YONGOLE JANDA (JKY)
+
+BAO PHAM QUOC (PQB)
+
+THAI3 PHAM QUANG (PQT3)
+
+NGOC12 DUONG ANH (DAN12)
+
+LINH21 NGUYEN THI PHUONG (NPL21)
+
+CHINH8 NGUYEN VIET (NVC8)
+
+
+----------------------------------------------------
+
+2. LDM
+BL753/08.VN-A567.HAN
+SGN 49/7/0 T/2505   1/1494   2/0   3/741   4/270    5/0
+SGN  B/270  C/2235  M/0
+SI: 
+COT1/C
+CPT3/C
+CPT4/B
+CPT5/N
+----------------------------------------------------
+
+3. MVT
+BL753/08.VN-A567.HAN
+AD 0530/0540 EA 0730 SGN
+C/L 0526
+PUSH 0530
+PAX 56
+TOF 9800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL753/08.VN-A567.HAN
+AA 0723/0733

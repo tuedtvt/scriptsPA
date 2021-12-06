@@ -1,0 +1,45 @@
+1. CLM
+BL786/03.VN-A567.SGN
+FRÉDÉRIC JEAN-CLAUDE
+JANKOWSKI (FJC)
+
+NHAN DAM KIEN (VNDKN)
+
+THAI3 PHAM QUANG (PQT3)
+
+QUYNH4 DO NHU (DNQ4)
+
+PHUNG3 LE QUANG (LQP3)
+
+ANH36 PHAN TUAN (PTA36)
+
+----------------------------------------------------
+
+2. LDM
+BL786/03.VN-A567.SGN
+HAN 120/06/01 T/2105   1/1220   2/0   3/0   4/885    5/0
+HAN  B/885  C/1220  M/00
+SI: 
+H1/C
+H3/NIL
+H4/B
+H5/NIL
+HUNG2
+----------------------------------------------------
+
+3. MVT
+BL786/03.VN-A567.SGN
+AD 2100/2117 EA 2317 HAN
+C/L 2100
+PUSH 2102
+PAX 127
+TOF 11280
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

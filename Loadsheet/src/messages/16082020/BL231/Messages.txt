@@ -1,0 +1,45 @@
+1. CLM
+BL231/16.VN-A568.HAN
+GIAO TRUONG NGOC (VNTNG)
+
+MINH NGUYEN TUAN (NTM)
+
+TAM4 LE THANH (LTT4)
+
+ANH41 DONG NAM (DNA41)
+
+TRAM4 KIEU ANH (KAT4)
+
+HUONG9 NGUYEN THANH THANH
+(NTH9)
+
+
+----------------------------------------------------
+
+2. LDM
+BL231/16.VN-A568.HAN
+CXR 154/13/2 T/720   1/0   2/0   3/720   4/0    5/0
+CXR  B/720  C/0  M/0
+SI: 
+CPT1/N
+CPT3/B
+CPT4/N
+CPT5/N
+----------------------------------------------------
+
+3. MVT
+BL231/16.VN-A568.HAN
+AD 0936/0950 EA 1120 CXR
+C/L 0933
+PUSH 0936
+PAX 169
+TOF 7800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

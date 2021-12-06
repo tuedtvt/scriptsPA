@@ -1,0 +1,41 @@
+1. CLM
+BL782/05.VN-A573.SGN
+BL782/VN6022-VNA573-HAN
+CESAR CESTARO CRUZ RODRIGUES
+(CER)
+
+VINCENZO PARISI (PAV)
+
+ANH35 NGUYEN QUOC (NQA35)
+
+HAO4 HUA GIA (HGH4)
+
+QUANG3 LE THANH (LTQ3)
+
+HUYNH1 NGUYEN THI NHU (NNH1)
+
+----------------------------------------------------
+
+2. LDM
+BL782/05.VN-A573.SGN
+HAN 110/10/01 T/2300   1/955   2/0   3/775   4/570    5/0
+HAN  B/570  C/1730  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B
+CPT05/N
+SI: N
+--BEST REGARDS/TÂM--
+----------------------------------------------------
+
+3. MVT
+MVT not input.
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

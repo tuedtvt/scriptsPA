@@ -1,0 +1,46 @@
+1. CLM
+BL752/07.VN-A569.SGN
+ALBERTO JOSE ZARONE MORA (ZAA)
+
+NY BUI HOANG TON (BHTNY)
+
+YEN HA THI HAI (HTHY)
+
+LIEN1 TO KIM (TKL1)
+
+THONG1 LE HOANG (LHTH1)
+
+VU3 LE QUANG (LQV3)
+
+HUNG6 PHAM THI KIM (PKH6)
+
+----------------------------------------------------
+
+2. LDM
+BL752/07.VN-A569.SGN
+HAN 110/6/2 T/2640   1/1110   2/0   3/1185   4/345    5/0
+HAN  B/345  C/2295  M/0
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B
+CPT05/N
+
+----------------------------------------------------
+
+3. MVT
+BL752/07.VN-A569.SGN
+AD 0820/0841 EA 1039 HAN
+C/L 0820
+PUSH 0825
+PAX 118
+TOF 9080
+DL: 132/0005 CHECK-IN NHẦM LẪN (TRÙNG SEAT)
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

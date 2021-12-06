@@ -1,0 +1,47 @@
+1. CLM
+BL765/22.VN-A569.HAN
+SHAYE ROGAN MORLEY-HART (SRM)
+
+TIEN TRIEU QUANG (VNTQT)
+
+DUC1 NGUYEN ANH (NAD1)
+
+TRANG23 LE THI HUYEN (LHT23)
+
+PHUNG2 NGUYEN VAN (NVP2)
+
+QUI1 PHAN VAN (PVQ1)
+
+
+----------------------------------------------------
+
+2. LDM
+BL765/22.VN-A569.HAN
+SGN 160/26/5 T/3613   1/1158   2/0   3/705   4/1380    5/370
+SGN  B/1380  C/2233  M/0
+SI: 
+H1/SGN/C
+H3/SGN/C
+H4/SGN/B
+H5/SGN/C
+--
+BRGDS,
+BUIDUY
+----------------------------------------------------
+
+3. MVT
+BL765/22.VN-A569.HAN
+AD 1125/1135 EA 1325 SGN
+C/L 1121
+PUSH 1125
+PAX 191
+TOF 10700
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

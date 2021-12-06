@@ -1,0 +1,44 @@
+1. CLM
+BL750/20.VN-A569.SGN
+BL750
+ADAM JOHN GIBB (AJG)
+
+DUONG NGO HOANG (NHD)
+
+HIEN1 NGUYEN THI THU (NTHU1)
+
+PHAT1 BUI QUANG (BQP1)
+
+NGHIA2 LE TRONG (LTN2)
+
+TAI2 TRUONG VAN (TVT2)
+
+----------------------------------------------------
+
+2. LDM
+BL750/20.VN-A569.SGN
+HAN 117/04/00 T/555   1/0   2/0   3/555   4/0    5/0
+HAN  B/555  C/00  M/00
+SI: 
+CPT01/N
+CPT03/B
+CPT04/N
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL750/20.VN-A569.SGN
+AD 0645/0705 EA 0850 HAN
+C/L 0645
+PUSH 0650
+PAX 121
+TOF 9420
+DL: 00
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

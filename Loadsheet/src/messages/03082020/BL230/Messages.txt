@@ -1,0 +1,49 @@
+1. CLM
+BL230/03.VN-A564.CXR
+CLM
+BL230/03.VNA564.CXR
+  1  CPT  ADAM LESLIE TRIGGS (ALT)
+          
+  2  FO  CUONG BUI MANH (BCU)
+          
+  3  CM  BAO1 DANG QUOC (DQB1)
+          
+  4  CA  THY2 DANG NGOC MAI (DNMT2)
+          
+  5  CA  BANG1 NGUYEN HUU (NHB1)
+          
+  6  CA  NHU3 NGUYEN THI HUYNH (NHN3)
+          
+End of Crew List
+----------------------------------------------------
+
+2. LDM
+BL230/03.VN-A564.CXR
+HAN 101/26/2 T/1005   1/1005   2/0   3/0   4/0    5/0
+HAN  B/1005  C/0  M/0
+SI: 
+NOTE:  
+==LDD INF===
+
+-CPT01/BY 66PCS N 01PC BBSTRL
+-CPT03/NIL
+-CPT04/NIL
+-CPT05/NIL
+----------------------------------------------------
+
+3. MVT
+BL230/03.VN-A564.CXR
+AD 1232/1243 EA 1428 HAN
+C/L 1229
+PUSH 1232
+PAX 129
+TOF 9920
+DL: 930/0024
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

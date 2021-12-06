@@ -1,0 +1,45 @@
+1. CLM
+BL791/12.VN-A573.HAN
+PHUC NGUYEN DONG (VNNDP)
+
+TIEN TRIEU QUANG (VNTQT)
+
+LY3 MAI THAO (MTL3)
+
+NGUYEN4 HONG THI THAO (HTN4)
+
+LY8 NGUYEN PHUOC TON NU KHANH
+(NKL8)
+
+THU4 VAN ANH (VAT4)
+
+OBS: ARIEL ADRIAN CRUZ MENDOZA
+----------------------------------------------------
+
+2. LDM
+BL791/12.VN-A573.HAN
+SGN 165/18/02 T/2478   1/979   2/0   3/734   4/765    5/0
+SGN  B/765  C/1713  M/0
+SI: 
+H1/C
+H3/C
+H4/B
+H5/NIL
+----------------------------------------------------
+
+3. MVT
+BL791/12.VN-A573.HAN
+AD 2035/2045 EA 2240 SGN
+C/L 2027
+PUSH 2035
+PAX 185
+TOF 9800
+DL: 850/0005
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

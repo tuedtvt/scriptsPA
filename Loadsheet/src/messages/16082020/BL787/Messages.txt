@@ -1,0 +1,46 @@
+1. CLM
+BL787/16.VN-A568.HAN
+GIAO TRUONG NGOC (VNTNG)
+
+MINH NGUYEN TUAN (NTM)
+
+MAI3 NGUYEN THI (NTM3)
+
+AI1 DIEP NGOC (DNA1)
+
+PHUC1 DAO THI (DTP1)
+
+NGUYEN4 HONG THI THAO (HTN4)
+
+----------------------------------------------------
+
+2. LDM
+BL787/16.VN-A568.HAN
+SGN 157/8/2 T/3197   1/1457   2/0   3/800   4/690    5/250
+SGN  B/690  C/2507  M/0
+SI: 
+***LDM INF***
+-CP1/C
+-CP3/C
+-CP4/C
+-CP5/NIL
+SI:
+BRGDS/DUONG
+----------------------------------------------------
+
+3. MVT
+BL787/16.VN-A568.HAN
+AD 1825/1850 EA 2048 SGN
+C/L 1735
+PUSH 1825
+PAX 167
+TOF 10300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

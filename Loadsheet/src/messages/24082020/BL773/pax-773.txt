@@ -1,0 +1,171 @@
+GPL6009/24AUGHAN/ALL
+VN    6009  24AUG  HAN     320               PSGR INFO LIST
+  HAN   SGN   1550  1805  COACH
+FSA 1
+  2A NGUYEN     THI Q      Y SGN         F    ETI  AA   ET
+                                         MC
+  2B NGUYEN     THI N BN2  Y SGN         EL   F    ETI  AA
+                                         ET   DOCS
+  2C TRAN       THANH BN2  Y SGN         EL   M    ETI  AA
+                                         ET   DOCS
+  3A VU         VAN D      Y SGN         EL   M    ETI  AA
+                                         ET   DOCS MC
+  3B NGUYEN     THI D AB2  Y SGN         EL   F    ETI  AA
+                                         ET   DOCS MC
+  3C TRAN       VAN T AB2  Y SGN         EL   M    ETI  AA
+                                         ET   DOCS MC
+  3D KOSHIMOTO  KANJI      Y SGN         EL   M    ETI  AA
+                                         ET   DOCS MC
+  3E NGUYEN     THANH AG2  Y SGN         M    ETI  AA   ET
+                                         DOCS MC¥
+  3F NGO        THI K AG2  Y SGN         F    ETI  AA   ET     ¥
+                                         DOCS MC
+  4A PHAM       VAN H AR3  Y SGN         EL   M    ETI  AA
+                                         ET   DOCS MC   AE
+  4B PHAM       LE MI AR3  Y SGN         EL   CHD  ETI  AA
+                                         ET   DOCS MC
+  4C DINH       THI S AR3  Y SGN         EL   F    ETI  AA
+                                         ET   CM   DOCS MC
+  4D NGUYEN     DAI L      Y SGN         M    ETI  AA   ET
+                                         MC
+  4E NGUYEN     THI N      Y SGN         F    ETI  AA   ET
+  4F TRINH      NGOC       Y SGN         EL   M    ETI  AA
+                                         ET   DOCS MC
+  5A MAI        DUC T      Y SGN         EL   M    ETI  TTN
+                                         AA   FF   ET   DOCS
+                                         MC
+  5D CHU        HAI Y BW2  Y SGN         EL   F    ETI  AA
+                                         ET   DOCS
+  5E HOANG      TUNG  BW2  Y SGN         EL   M    ETI  AA     ¥
+                                         ET   DOCS             ¥
+  5F DO         QUYNH      Y SGN         F    ETI  AA   ET
+                                         DOCS MC
+  6A HUYNH      THI M BF3  Y SGN         F    ETI  AA   ET
+  6B NGUYEN     LAM V BF3  Y SGN         CHD  ETI  AA   ET
+  6C NGUYEN     HAI M BF3  Y SGN         CHD  ETI  AA   ET
+  6F PHAM       VAN U      Y SGN         EL   M    ETI  AA
+                                         ET   DOCS MC
+  7A NGUYEN     VAN D AC2  Y SGN         M    ETI  AA   ET
+                                         MC
+  7B NGUYEN     VAN C AC2  Y SGN         M    ETI  AA   ET
+                                         MC
+  7C TRAN       VAN N      Y SGN         M    ETI  AA   ET
+                                         CM
+  7D NGUYEN     THI T      Y SGN         F    ETI  AA   ET
+  8D NGUYEN     THANH AL3  Y SGN         M    ETI  AA   ET
+  8E TRAN       THI T AL3  Y SGN         F    ETI  AA   ET
+  8F LE         TRI T AL3  Y SGN         M    ETI  AA   ET
+  9C PHAM       THI X      Y SGN         F    ETI  AA   ET     ¥
+  9D DUONG      THI B BX6  Y SGN         EL   F    ETI  AA     ¥
+                                         ET   CM   DOCS
+  9E NGUYEN     VAN T BX6  Y SGN         EL   M    ETI  AA
+                                         ET   CM   DOCS
+  9F NGUYEN     ANH T BX6  Y SGN         EL   M    ETI  AA
+                                         ET   CM   DOCS
+ 10A PHAM       THI M      Y SGN         EL   F    ETI  AA
+                                         ET   DOCS MC
+ 10D NGUYEN     XUAN  BX6  Y SGN         EL   M    ETI  AA
+                                         ET   CM   DOCS
+ 10E NGUYEN     VAN H AS2  Y SGN         EL   M    ETI  AA
+                                         ET   DOCS
+ 10F PHAM       THI T BX6  Y SGN         EL   F    ETI  AA
+                                         ET   CM   DOCS
+ 11A BUI        THI T BC3  Y SGN         EL   F    ETI  AA
+                                         ET   DOCS
+ 11B LE         BUI T BC3  Y SGN         EL   CHD  ETI  AA
+                                         ET   DOCS
+ 11C LE         BUI M BC3  Y SGN         EL   CHD  ETI  AA     ¥
+                                         ET   DOCS             ¥
+ 11D TRINH      QUY T      Y SGN         EL   M    ETI  SVR
+                                         AA   FF   ET   DOCS
+ 11E NGUYEN     THI H AS2  Y SGN         EL   F    ETI  AA
+                                         ET   DOCS
+ 11F TRAN       ANH V      Y SGN         M    ETI  AA   ET
+ 12A NGUYEN     THI N      Y SGN         F    ETI  AA   ET
+                                         CM
+ 12D DO         DINH  BG2  Y SGN         M    ETI  AA   ET
+ 14D NGUYEN     VAN C      Y SGN         M    ETI  AA   ET
+ 15A NGUYEN     NGOC       Y SGN         F    ETI  AA   ET
+                                         DOCS
+ 15B LU         VAN D      Y SGN         EL   M    ETI  AA
+                                         ET   CM   DOCS
+ 16A PHAN       THI M AE3  Y SGN         F    ETI  AA   ET
+ 16B DUONG      HOANG AE3  Y SGN         CHD  ETI  AA   ET
+ 16C DUONG      MINH  AE3  Y SGN         CHD  ETI  AA   ET
+ 16D HOANG      TRONG      Y SGN         M    ETI  AA   ET
+                                         DOCS                  ¥
+ 16E NGUYEN     THI V      Y SGN         F    ETI  AA   ET     ¥
+                                         CM
+ 16F DUONG      VU LA      Y SGN         M    ETI  AA   ET
+ 17A LA         DOAN  BJ3  Y SGN         M    ETI  AA   ET
+ 17B LA         QUOC  BJ3  Y SGN         M    ETI  AA   ET
+ 17C LA         VAN L BJ3  Y SGN         M    ETI  AA   ET
+ 17E DANG       XUAN       Y SGN         M    ETI  AA   ET
+                                         CM
+ 17F DANG       DUC D      Y SGN   NR    M    AA   CM   GS
+ 18A NGUYEN     NGOC       Y SGN         M    ETI  AA   ET
+                                         MC
+ 18F DINH       THI P      Y SGN         F    ETI  AA   ET
+                                         CM   AE
+ 19A TRAN       VAN H      Y SGN         M    ETI  AA   ET
+ 19B NGUYEN     THI L BM2  Y SGN         EL   F    ETI  AA
+                                         ET   CM   DOCS
+ 19C VU         DUC M BM2  Y SGN         EL   CHD  ETI  AA
+                                         ET   DOCS
+ 19D LE         VIET       Y SGN         M    ETI  AA   ET     ¥
+ 19E NGUYEN     THI T AI2  Y SGN         F    ETI  AA   ET     ¥
+ 19F NGUYEN     XUAN  AI2  Y SGN         M    ETI  AA   ET
+ 20A NGUYEN     KHAC       Y SGN         EL   M    ETI  AA
+                                         ET   DOCS
+ 20E DANG       TRA M BB2  Y SGN         F    ETI  AA   ET
+ 20F DANG       THI Q BB2  Y SGN         F    ETI  AA   ET
+ 21F NGUYEN     HUU T      Y SGN         M    ETI  AA   ET
+                                         CM
+ 22A NGUYEN     VAN T      Y SGN         M    ETI  AA   ET
+                                         CM
+ 22D DO         VAN T      Y SGN         M    ETI  AA   ET
+ 22E TRAN       TUAN  BU2  Y SGN         EL   M    ETI  AA
+                                         ET   CM   DOCS
+ 22F MAI        HOANG BU2  Y SGN         EL   M    ETI  AA
+                                         ET   DOCS
+ 23A HUA        TIEN  BD2  Y SGN         M    ETI  AA   ET
+ 23B PHAN       VAN H BD2  Y SGN         M    ETI  AA   ET
+ 23C NGUYEN     THI L      Y SGN         EL   F    ETI  AA
+                                         ET   CM   DOCS        ¥
+ 24A NGUYEN     VAN B AN4  Y SGN         M    ETI  AA   ET     ¥
+                                         CM
+ 24B NGUYEN     THI H AN4  Y SGN         F    ETI  AA   ET
+ 24C NGUYEN     VAN H AN4  Y SGN         CHD  ETI  AA   ET
+ 24D PHAM       HONG  AN4  Y SGN         F    ETI  AA   ET
+                                         INF
+ 24E NGUYEN     CONG       Y SGN         M    ETI  AA   ET
+ 25B BUI        NGOC       Y SGN   OS    EL   M    ETI  AA
+                                         ET   CM   XFER DOCS
+ 25C NGUYEN     HUU T      Y SGN         M    ETI  AA   ET
+ 25D NGO        DINH       Y SGN         M    ETI  AA   ET
+ 25E DUONG      DINH       Y SGN         M    ETI  AA   ET
+ 25F THUY LIEN  LUONG      Y SGN         F    ETI  AA   ET
+ 26A NGUYEN     THI D AT3  Y SGN         F    ETI  AA   ET
+ 26B TRAN       VIET  AT3  Y SGN         M    ETI  AA   ET
+ 26C TRAN       VIET  AT3  Y SGN         M    ETI  AA   ET
+ 26D UNG        NHAT       Y SGN         M    ETI  AA   ET
+ 26F NGUYEN     HUU T      Y SGN         M    ETI  AA   ET
+ 27A LE         KHANH      Y SGN         M    ETI  AA   ET     ¥
+ 27B TRAN       NGOC       Y SGN         M    ETI  AA   ET     ¥
+ 27E NGUYEN     THI H AQ2  Y SGN         F    ETI  AA   ET
+                                         DOCS
+ 27F TA         NGUYE AQ2  Y SGN         F    ETI  AA   FF
+                                         ET   DOCS REG
+ 29A BUI        THI N AW5  Y SGN         F    ETI  AA   ET
+ 29B DUONG      VAN L AW5  Y SGN         M    ETI  AA   ET
+ 29C DUONG      NGOC  AW5  Y SGN         F    ETI  AA   ET
+ 29D DUONG      MINH  AW5  Y SGN         CHD  ETI  AA   ET
+ 29E DUONG      QUYNH AW5  Y SGN         F    ETI  AA   ET
+ 30A LUU        VAN Q BO3  Y SGN         M    ETI  AA   ET
+ 30B VU         THI T BO3  Y SGN         F    ETI  AA   ET
+ 30C LUU        THI H BO3  Y SGN         F    ETI  AA   ET
+ 31A PHAN       THI L      Y SGN   GS    M    AA   ET   GS
+ 32D NGUYEN     VAN H AF2  Y SGN         M    ETI  AA   ET
+ 32E DINH       NGOC  AF2  Y SGN         F    ETI  AA   ET
+ 32F VU         HAI H      Y SGN         F    ETI  AA   ET
+

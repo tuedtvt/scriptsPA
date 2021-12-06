@@ -1,0 +1,44 @@
+1. CLM
+BL765/30.VN-A571.HAN
+HECTOR AUGUSTO MEUREHGAMENDOLLA (HEA)
+
+YANIEL FACENDA BARCELÓ (FBY)
+
+LIEN2 LE NGUYEN MY (LML2)
+
+NGA3 TRAN THI ANH (TAN3)
+
+HIEN10 TRAN THI THANH (TTH10)
+
+HANG5 VU THI THUY (VTH5
+
+----------------------------------------------------
+
+2. LDM
+BL765/30.VN-A571.HAN
+SGN 134/15/05 T/1991   1/1046   2/0   3/345   4/600    5/0
+SGN  B/945  C/1046  M/00
+SI: 
+H1/C
+H3/B
+H4/B
+H5/NIL
+
+----------------------------------------------------
+
+3. MVT
+BL765/30.VN-A571.HAN
+AD 1130/1140 EA 1330 SGN
+C/L 1125
+PUSH 1130
+PAX 154
+TOF 9800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

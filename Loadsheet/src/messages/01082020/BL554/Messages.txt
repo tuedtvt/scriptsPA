@@ -1,0 +1,44 @@
+1. CLM
+BL554/01.VN-A577.SGN
+BINH NGUYEN NGOC (NNB)
+
+BRYAN KOH ZHENG YUAN (KZB)
+
+HOA3 NGO THANH (NGTH3)
+
+DUNG4 HANG HANH (HHD4)
+
+TRINH5 LE NU KIEU (LKT5)
+
+TRAM2 NGUYEN THI BICH (NBT2)
+
+----------------------------------------------------
+
+2. LDM
+BL554/01.VN-A577.SGN
+VII 166/14/05 T/1035   1/0   2/0   3/1035   4/0    5/0
+VII  B/1035  C/00  M/00
+SI: 
+H1/NIL
+H3/B
+H4/NIL
+H5/NIL
+HUNG2
+----------------------------------------------------
+
+3. MVT
+BL554/01.VN-A577.SGN
+AD 2105/2121 EA 2255 VII
+C/L 2105
+PUSH 2106
+PAX 185
+TOF 11300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

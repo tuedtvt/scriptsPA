@@ -1,0 +1,48 @@
+1. CLM
+BL571/21.VN-A570.THD
+ADIL RASHID KHAN (KAR)
+
+HUY NGUYEN QUANG (NQH)
+
+KHANH1 NGUYEN HOANG PHUONG
+(NPK1)
+
+BAO3 TRAN TON QUOC (TTQB3)
+
+TRANG18 NGUYEN THUY (NTT18)
+
+DUNG7 VO HUYNH (VHD7)
+
+TAI3 VO MINH (VMT3)
+
+----------------------------------------------------
+
+2. LDM
+BL571/21.VN-A570.THD
+SGN 144/28/7 T/2260   1/708   2/0   3/927   4/375    5/250
+SGN  B/1302  C/958  M/0
+SI: 
+H1/C
+H3/B
+H4/B
+H5/C
+SI 01 HBG H4
+----------------------------------------------------
+
+3. MVT
+BL571/21.VN-A570.THD
+AD 1517/1526 EA 1706 SGN
+C/L 1509
+PUSH 0000
+PAX 179
+TOF 10400
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL571/21.VN-A570.THD
+AA 1700/1706

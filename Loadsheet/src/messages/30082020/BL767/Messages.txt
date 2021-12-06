@@ -1,0 +1,43 @@
+1. CLM
+BL767/30.VN-A577.HAN
+SHAKIB M SH BESISO (SMB)
+
+HUY TA DUC (TDH)
+
+TUNG1 HOANG (HT01)
+
+MY5 NGUYEN THI HOAI (NHM5)
+
+HUNG5 HOANG NHAT (HNH5)
+
+LIEN3 TRAN THI BICH (TBL3)
+
+HUY7 TRAN KIM (TKH7)
+
+
+----------------------------------------------------
+
+2. LDM
+BL767/30.VN-A577.HAN
+SGN 161/11/172 T/3446   1/1346   2/0   3/640   4/1160    5/300
+SGN  B/960  C/2486  M/00
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL767/30.VN-A577.HAN
+AD 1505/1415 EA 1605 SGN
+C/L 1400
+PUSH 1405
+PAX 172
+TOF 10100
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

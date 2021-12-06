@@ -1,0 +1,46 @@
+1. CLM
+BL772/24.VN-A567.SGN
+BL772	VN6008
+SHAYE ROGAN MORLEY-HART (SRM)
+
+KHOA LE TAN (VNLTK)
+
+TOAN1 HUYNH QUOC (HQT1)
+
+CONG2 PHAN CHI (PCC2)
+
+TRI3 PHUNG TRONG (PHTT3)
+
+MINH3 TRAN NGUYEN NHA (TNM3)
+	
+	
+----------------------------------------------------
+
+2. LDM
+BL772/24.VN-A567.SGN
+HAN 165/12/01 T/1095   1/0   2/0   3/945   4/150    5/0
+HAN  B/1095  C/0  M/0
+SI: 
+C1/C
+C3/B
+C4/B
+C5/N
+----------------------------------------------------
+
+3. MVT
+BL772/24.VN-A567.SGN
+AD 1435/1450 EA 1650 HAN
+C/L 1435
+PUSH 1437
+PAX 178
+TOF 9000
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL772/24.VN-A566.SGN
+AA 1629/1635

@@ -1,0 +1,47 @@
+1. CLM
+BL748/02.VN-A569.SGN
+BL748	VN6002 VNA569
+CAMILO ANDRES TORRES ACOSTA
+(TAC)
+
+LONG NGUYEN TUAN (NGTL)
+
+LY2 HOANG KHANH (HKL2)
+
+LIEN4 CAO THI MY (CML4)
+
+DAT1 LE TRUONG PHUC (LTPD1)
+
+TAN1 NGUYEN NHUT (NNT1)
+
+----------------------------------------------------
+
+2. LDM
+BL748/02.VN-A569.SGN
+HAN 111/25/03 T/1150   1/775   2/0   3/0   4/375    5/0
+HAN  B/375  C/775  M/00
+SI: 
+CPT01/C
+CPT03/N
+CPT04/B
+CPT05/N
+
+----------------------------------------------------
+
+3. MVT
+BL748/02.VN-A569.SGN
+AD 0556/0616 EA 0815 HAN
+C/L 0556
+PUSH 0601
+PAX 129
+TOF 12300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL748/02.VN-A569.SGN
+AA 0800/0805

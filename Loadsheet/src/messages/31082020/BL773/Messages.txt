@@ -1,0 +1,48 @@
+1. CLM
+BL773/31.VN-A562.HAN
+HECTOR AUGUSTO MEUREHG
+AMENDOLLA (HEA)
+
+CUONG BUI MANH (BCU)
+
+TRANG12 DO MANH (DMT12)
+
+CHI2 DANG THI KIM (DKC2)
+
+HUONG7 LY MAI (LMH7)
+
+TRUNG3 NGUYEN TIEN (NTT3)
+
+
+----------------------------------------------------
+
+2. LDM
+BL773/31.VN-A562.HAN
+SGN 151/29/1 T/1365   1/0   2/0   3/765   4/600    5/0
+SGN  B/1365  C/0  M/0
+SI: 
+***LDM INF***
+-CP1/N
+-CP3/B
+-CP4/B
+-CP5/NIL
+SI:
+BRGDS/DUONG
+----------------------------------------------------
+
+3. MVT
+BL773/31.VN-A562.HAN
+AD 1554/1611 EA 1809 SGN
+C/L 1548
+PUSH 1554
+PAX 181
+TOF 9500
+DL: 850/04
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

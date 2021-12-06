@@ -1,0 +1,46 @@
+1. CLM
+BL782/25.VN-A572.SGN
+BL782/VN6022-VNA572-HAN
+BANG LUU TRONG (VNLTB)
+
+VINH LY THIEU (LTV)
+
+ANH8 NGUYEN NGOC THUY (NTA8)
+
+LINH20 CAO THI KHANH (CKL20)
+
+TUYEN1 DUONG THI PHUONG (DPT1)
+
+PHUNG2 NGUYEN VAN (NVP2)
+
+----------------------------------------------------
+
+2. LDM
+BL782/25.VN-A572.SGN
+HAN 147/15/01 T/3310   1/1360   2/0   3/1155   4/645    5/150
+HAN  B/795  C/1515  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B
+CPT05/B
+SI: N
+--BEST REGARDS/TÂM--
+----------------------------------------------------
+
+3. MVT
+BL782/25.VN-A572.SGN
+AD 1755/1816 EA 2016 HAN
+C/L 1755
+PUSH 1757
+PAX 163
+TOF 10600
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

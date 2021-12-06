@@ -1,0 +1,48 @@
+1. CLM
+BL755/29.VN-A570.HAN
+OMAR FERNANDO FREDING CAÑETE (FOF)
+
+LONG NGUYEN TUAN (NGTL)
+
+PHUONG6 NGUYEN QUYNH (NQP6)
+
+HUONG11 BUI THANH (BTH11)
+
+LINH21 NGUYEN THI PHUONG (NPL21)
+
+TRANG17 PHAM THUY (PTT17)
+
+
+----------------------------------------------------
+
+2. LDM
+BL755/29.VN-A570.HAN
+SGN 99/7/0 T/1794   1/1206   2/0   3/213   4/375    5/0
+SGN  B/375  C/1419  M/0
+SI: 
+H1/SGN/C
+H3/SGN/C
+H4/SGN/B
+H5/NIL
+--
+BRGDS,
+BUIDUY
+----------------------------------------------------
+
+3. MVT
+BL755/29.VN-A570.HAN
+AD 0810/0820 EA 1010 SGN
+C/L 0805
+PUSH 0810
+PAX 106
+TOF 9800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL755/29.VN-A570.HAN
+AA 0955/1005

@@ -1,0 +1,44 @@
+1. CLM
+BL782/01.VN-A573.SGN
+JORGE LUIS CELY SALAZAR (JLS)
+
+THU VAN NGOC ANH (VNVNT)
+
+AN4 DOAN TRUONG (DTA4)
+
+MAI6 DOAN THI THANH (DTM6)
+
+MINH2 LE NHUT (LNM2)
+
+GIANG5 NGUYEN THI HUONG (NHG5)
+
+----------------------------------------------------
+
+2. LDM
+BL782/01.VN-A573.SGN
+HAN 148/16/00 T/1615   1/925   2/0   3/690   4/0    5/0
+HAN  B/690  C/925  M/00
+SI: 
+H1/C
+H3/NIL
+H4/B
+H5/NIL
+HUNG2
+----------------------------------------------------
+
+3. MVT
+BL782/01.VN-A564.SGN
+AD 2039/2059 EA 2259 HAN
+C/L 2039
+PUSH 2041
+PAX 164
+TOF 11900
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

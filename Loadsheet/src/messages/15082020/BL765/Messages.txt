@@ -1,0 +1,44 @@
+1. CLM
+BL765/15.VN-A564.HAN
+HUY NGUYEN DANG (VNNDH)
+
+VINH LY THIEU (LTV)
+
+QUYEN1 PHAN THI HOANG (PHQ1)
+
+TRINH2 HUYNH NGUYEN DOAN (HNDT2)
+
+GIANG5 NGUYEN THI HUONG (NHG5)
+
+VI6 VU THI THAO (VTV6)
+
+----------------------------------------------------
+
+2. LDM
+BL765/15.VN-A564.HAN
+SGN 158/12/01 T/1836   1/921   2/0   3/300   4/615    5/0
+SGN  B/915  C/921  M/0
+SI: 
+H1/C
+H3/B
+H4/B
+H5/NIL
+BRGS NGOC ANH
+----------------------------------------------------
+
+3. MVT
+BL765/15.VN-A564.HAN
+AD 1130/1140 EA 1330 SGN
+C/L 1127
+PUSH 1130
+PAX 171
+TOF 10500
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

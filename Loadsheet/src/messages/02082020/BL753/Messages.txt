@@ -1,0 +1,46 @@
+1. CLM
+BL753/02.VN-A570.HAN
+GIACOMO CORONESE (CGC)
+
+NIRAJ ADHIKARI (NIA)
+
+NGOC7 NGUYEN THE (NGTN7)
+
+HANG10 DAM THI LE (DLH10)
+
+NGHI1 LE NGUYEN THUC (LNTN1)
+
+CUONG3 NGO CHI (NCC3)
+
+
+----------------------------------------------------
+
+2. LDM
+BL753/02.VN-A570.HAN
+SGN 98/15/2 T/1365   1/720   2/0   3/0   4/645    5/0
+SGN  B/645  C/720  M/0
+SI: 
+H1/C
+H3/NIL
+H4/B
+H5/NIL
+
+BRGDS TIEN
+----------------------------------------------------
+
+3. MVT
+BL753/02.VN-A570.HAN
+AD 0535/0545 EA 0745 SGN
+C/L 0530
+PUSH 0535
+PAX 115
+TOF 10800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

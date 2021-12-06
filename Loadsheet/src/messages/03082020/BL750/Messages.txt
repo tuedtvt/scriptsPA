@@ -1,0 +1,47 @@
+1. CLM
+BL750/03.VN-A569.SGN
+BL750/VN6006-VNA569-HAN
+ADRIAN STEFFAN CRESWELL LOWE (LOA1)
+
+JOSE CARLOS SANCHEZ COBOS (CJS)
+
+TRUNG NGUYEN QUOC (NQTR)
+
+HIEN1 NGUYEN THI THU (NTHU1)
+
+VU3 LE QUANG (LQV3)
+
+NGHIA2 LE TRONG (LTN2)
+
+TOAN4 VO NGUYEN TIEN (VTT4)
+
+----------------------------------------------------
+
+2. LDM
+BL750/03.VN-A569.SGN
+HAN 113/12/3 T/645   1/0   2/0   3/645   4/0    5/0
+HAN  B/645  C/0  M/0
+SI: 
+CPT01/N
+CPT03/B
+CPT04/N
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL750/03.VN-A569.SGN
+AD 0640/0700 EA 0857 HAN
+C/L 0640
+PUSH 0644
+PAX 128
+TOF 10600
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL750/03.VN-A569.SGN
+AA 0842/0852

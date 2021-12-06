@@ -1,0 +1,47 @@
+1. CLM
+BL790/28.VN-A568.SGN
+
+LINH11 PHAM THUY (PTL11)
+
+ CHI2 DANG THI KIM (DKC2)
+
+ HUONG9 NGUYEN THANH THANH (NTH9)
+
+ TRUNG3 NGUYEN TIEN (NTT3)
+
+NAM HOANG LE (VNHLN)
+
+ QUAN DO HONG (VNDQU)
+
+
+----------------------------------------------------
+
+2. LDM
+BL790/28.VN-A568.SGN
+HAN 140/02/00 T/2180   1/880   2/0   3/550   4/450    5/300
+HAN  B/450  C/1730  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B
+CPT05/C
+
+
+----------------------------------------------------
+
+3. MVT
+BL790/28.VN-A568.SGN
+AD 2125/2148 EA 2348 HAN
+C/L 2125
+PUSH 2132
+PAX 142
+TOF 8800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

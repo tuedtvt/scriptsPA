@@ -1,0 +1,44 @@
+1. CLM
+BL764/16.VN-A562.SGN
+BL764	VN6020 VNA562
+TAN NGUYEN QUOC (VNNQT)
+
+KIEN DANG VU BAO (DVBK)
+
+ANH22 BUI THI PHUONG (BPA22)
+
+LINH20 CAO THI KHANH (CKL20)
+
+HA6 CHAU NGOC (CNH6)
+
+BAO4 DUONG THAI (DTB4)
+
+----------------------------------------------------
+
+2. LDM
+BL764/16.VN-A562.SGN
+HAN 157/10/02 T/870   1/0   2/0   3/870   4/0    5/0
+HAN  B/870  C/00  M/00
+SI: 
+CPT01/N
+CPT03/B
+CPT04/N
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL764/16.VN-A562.SGN
+AD 1108/1120 EA 1320 HAN
+C/L 1108
+PUSH 1110
+PAX 169
+TOF 67663
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,42 @@
+1. CLM
+BL591/20.VN-A569.HPH
+ADAM LESLIE TRIGGS (ALT)
+ TAN HO MINH (HMT)
+ HAN1 HA GIA (HGH1)
+ VU1 DANG ANH (DAV1)
+ YEN6 NGUYEN HAI (NHY6)
+ LY6 TRAN LE TRUC (TTL6)
+
+2. LDM
+----------------------------------------------------
+
+2. LDM
+BL591/20.VN-A569.HPH
+SGN 148/27/3 T/2698   1/1405   2/0   3/785   4/508    5/0
+SGN  B/1405  C/1293  M/0
+SI: 
+LD DIST
+-1/SGN/B
+-3/SGN/C
+-4/SGN/C
+-5/NIL
+SI
+----------------------------------------------------
+
+3. MVT
+BL591/20.VN-A569.HPH
+AD 1624/1642 EA 1822 SGN
+C/L 1622
+PUSH 1632
+PAX 178
+TOF 10800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL591/20.VN-A569.HPH
+AA 1815/1825

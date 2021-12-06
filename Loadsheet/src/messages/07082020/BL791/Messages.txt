@@ -1,0 +1,44 @@
+1. CLM
+BL791/07.VN-A566.HAN
+PHILIPPE TEHEINUI JULES CHAN YOU KE (PTC)
+
+THU VAN NGOC ANH (VNVNT)
+
+HUONG3 NGUYEN THU (NTH3)
+
+PHAT1 BUI QUANG (BQP1)
+
+HOANG5 LE KHANH (LKH5)
+
+NGHIA2 LE TRONG (LTN2)
+
+----------------------------------------------------
+
+2. LDM
+BL791/07.VN-A566.HAN
+SGN 111/10/02 T/1068   1/723   2/0   3/0   4/345    5/0
+SGN  B/345  C/723  M/0
+SI: 
+H1/C
+H3/NIL
+H4/B
+H5/NIL
+BRGS NGOC ANH
+----------------------------------------------------
+
+3. MVT
+BL791/07.VN-A566.HAN
+AD 2020/2039 EA 2229 SGN
+C/L 2017
+PUSH 2020
+PAX 123
+TOF 9300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,45 @@
+1. CLM
+BL765/12.VN-A573.HAN
+SAMUEL JOHN CHANDRA (SJC)
+
+HUY TA DUC (TDH)
+
+ANH3 NGUYEN VIET (NVA3)
+
+DUNG6 NGUYEN THUY (NTD6)
+
+THANH13 PHAN DUY (PDT13)
+
+PHONG1 TRAN THANH (TTP1)
+
+PHAM QUOC BAO
+
+----------------------------------------------------
+
+2. LDM
+BL765/12.VN-A573.HAN
+SGN 135/16/6 T/1686   1/748   2/0   3/413   4/525    5/0
+SGN  B/525  C/1161  M/0
+SI: 
+CPT1/C
+CPT3/C
+CPT4/B
+CPT5/N
+----------------------------------------------------
+
+3. MVT
+BL765/12.VN-A573.HAN
+AD 1130/1140 EA 1330 SGN
+C/L 1124
+PUSH 1130
+PAX 157
+TOF 10700
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

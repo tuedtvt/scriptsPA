@@ -1,0 +1,45 @@
+1. CLM
+BL752/01.VN-A570.SGN
+BL752/VN6024-VNA570-HAN
+DANG NGUYEN XUAN (NXD1)
+
+MINH NGUYEN TUAN (NTM)
+
+BAO3 TRAN TON QUOC (TTQB3)
+
+QUYNH5 BUI NGUYEN PHUONG (BPQ5)
+
+BANG1 NGUYEN HUU (NHB1)
+
+THAO3 NGUYEN PHUONG (NPT3)
+
+----------------------------------------------------
+
+2. LDM
+BL752/01.VN-A570.SGN
+HAN 118/16/7 T/1020   1/0   2/0   3/1020   4/0    5/0
+HAN  B/1020  C/0  M/0
+SI: 
+CPT01/N
+CPT03/B
+CPT04/N
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL752/01.VN-A570.SGN
+AD 0755/0815 EA 1006 HAN
+C/L 0755
+PUSH 0756
+PAX 141
+TOF 8900
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL752/01.VN-A570.SGN
+AA 1003/1009

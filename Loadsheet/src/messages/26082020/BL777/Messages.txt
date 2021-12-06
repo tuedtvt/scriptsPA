@@ -1,0 +1,49 @@
+1. CLM
+BL777/26.VN-A571.HAN
+ARIO TEJO CHRISTOFORUS (ART)
+
+TAI HUYNH HUU (HHT)
+
+HA NGUYEN DANG (NDH)
+
+ANH8 NGUYEN NGOC THUY (NTA8)
+
+LOC1 NGUYEN HUU (NHL1)
+
+VI11 NGUYEN THAI (NTV11)
+
+XUAN1 NGUYEN PHUOC THANH
+(NTX1)
+
+----------------------------------------------------
+
+2. LDM
+BL777/26.VN-A571.HAN
+SGN 167/8/2 T/1956   1/681   2/0   3/450   4/825    5/0
+SGN  B/1275  C/681  M/0
+SI: 
+H1/SGN/C
+H3/SGN/B
+H4/SGN/B
+H5/NIL
+--
+BRGDS,
+BUIDUY
+----------------------------------------------------
+
+3. MVT
+BL777/26.VN-A571.HAN
+AD 1700/1710 EA 1900 SGN
+C/L 1655
+PUSH 1700
+PAX 187
+TOF 10800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

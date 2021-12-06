@@ -1,0 +1,40 @@
+1. CLM
+BL320/18.VN-A565.PQC
+MAURIZIO RUSSO (MRR)
+ THINH TRAN CAO (VNTCT)
+ VY2 TRAN THI BICH (TBV2)
+ LINH12 DANG MAI (DML12)
+ THAO12 LE NGUYEN TRUC (LTT12)
+ TRANG13 LIEN THANH (LTT13)
+ OBS: HUYNH QUOC DAT
+----------------------------------------------------
+
+2. LDM
+BL320/18.VN-A565.PQC
+SGN 170/6/3 T/958   1/0   2/0   3/958   4/0    5/0
+SGN  B/958  C/0  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL320/18.VN-A565.PQC
+AD 1510/1519 EA 1559 SGN
+C/L 1509
+PUSH 1512
+PAX 179
+TOF 7000
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM
+BL320/18AUG SGN PART1
+NGUYEN/HOANGDIEULAN WCHS 4C 
+ENDPSM
+
+----------------------------------------------------
+
+5. MVA
+BL320/18.VN-A565.PQC
+AA 1600/1610

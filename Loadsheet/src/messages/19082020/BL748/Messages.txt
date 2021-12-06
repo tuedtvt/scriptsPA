@@ -1,0 +1,45 @@
+1. CLM
+BL748/19.VN-A569.SGN
+JORGE LUIS CELY SALAZAR (JLS)
+
+JOSE CARLOS SANCHEZ COBOS (CJS)
+
+HANG6 DO THI THU (DTH6)
+
+NGHIA4 LE TUAN (LTNG4)
+
+TRANG27 MAI THI KIEU (MKT27)
+
+GIANG5 NGUYEN THI HUONG (NHG5)
+
+
+----------------------------------------------------
+
+2. LDM
+BL748/19.VN-A569.SGN
+HAN 175/06/01 T/2735   1/1010   2/0   3/800   4/675    5/250
+HAN  B/675  C/2060  M/00
+SI: 
+--CPT01/C   
+--CPT03/C   
+--CPT04/B   
+--CPT05/C   
+REGARDS/QUANG
+----------------------------------------------------
+
+3. MVT
+BL748/19.VN-A569.SGN
+AD 0557/0610 EA 0810 HAN
+C/L 0557
+PUSH 0558
+PAX 182
+TOF 9900
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

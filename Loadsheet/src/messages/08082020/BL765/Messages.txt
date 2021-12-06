@@ -1,0 +1,44 @@
+1. CLM
+BL765/08.VN-A567.HAN
+KOKORO YONGOLE JANDA (JKY)
+
+BAO PHAM QUOC (PQB)
+
+HAN1 HA GIA (HGH1)
+
+TUYEN1 DUONG THI PHUONG (DPT1)
+
+HUY7 TRAN KIM (TKH7)
+
+NI2 TONG THI BAO (TTBN2)
+
+
+----------------------------------------------------
+
+2. LDM
+BL765/08.VN-A567.HAN
+SGN 82/4/2 T/1960   1/770   2/0   3/695   4/495    5/0
+SGN  B/495  C/1465  M/0
+SI: 
+CPT1/C
+CPT3/C
+CPT4/B
+CPT5/N
+----------------------------------------------------
+
+3. MVT
+BL765/08.VN-A567.HAN
+AD 1121/1130 EA 1320 SGN
+C/L 1115
+PUSH 1121
+PAX 88
+TOF 10800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

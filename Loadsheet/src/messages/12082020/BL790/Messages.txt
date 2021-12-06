@@ -1,0 +1,44 @@
+1. CLM
+BL790/12.VN-A568.SGN
+TAN NGUYEN QUOC (VNNQT)
+
+HIEP NGUYEN MINH (VNNMH)
+
+TRANG12 DO MANH (DMT12)
+
+PHUONG9 DO THI KIM (DKP9)
+
+ANH41 DONG NAM (DNA41)
+
+TOAN2 LE VAN (LVTO2)
+
+----------------------------------------------------
+
+2. LDM
+BL790/12.VN-A568.SGN
+HAN 170/09/01 T/2365   1/1150   2/0   3/705   4/510    5/0
+HAN  B/510  C/1855  M/0
+SI: 
+C1/C
+C3/C
+C4/B
+C5/N
+----------------------------------------------------
+
+3. MVT
+BL790/12.VN-A568.SGN
+AD 2120/2137 EA 2337 HAN
+C/L 2120
+PUSH 2122
+PAX 180
+TOF 10400
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL790/12.VN-A568.SGN
+AA 2317/2340

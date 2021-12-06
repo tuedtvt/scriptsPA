@@ -1,0 +1,46 @@
+1. CLM
+BL752/21.VN-A565.SGN
+BL752
+TJEERD SCHOUTEN (SCT)
+
+TRAN LUNG VAY (LUVT)
+
+MAI1 NGUYEN THI TUYET (NTM1)
+
+TUNG2 NGUYEN THANH (NTT2)
+
+HUY6 NGUYEN PHUC NHAT (NPNH6)
+
+VY10 NGUYEN BUI THAO (NTV10)
+
+CONG2 PHAN CHI (PCC2)
+
+----------------------------------------------------
+
+2. LDM
+BL752/21.VN-A565.SGN
+HAN 166/11/00 T/930   1/0   2/0   3/930   4/0    5/0
+HAN  B/930  C/00  M/00
+SI: 
+CPT01/N
+CPT03/B
+CPT04/N
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL752/21.VN-A565.SGN
+AD 0830/0852 EA 1040 HAN
+C/L 0830
+PUSH 0830
+PAX 177
+TOF 10740
+DL: 00
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,48 @@
+1. CLM
+BL750/29.VN-A562.SGN
+BL750/VN6006-VNA562-HAN
+TUAN VU ANH (VNVAT)
+
+TRUNG NGUYEN QUOC (NQTR)
+
+TUNG1 HOANG (HT01)
+
+THOA1 TRINH KIM (TKT1)
+
+GIANG5 NGUYEN THI HUONG (NHG5)
+
+ANH42 NGUYEN TUAN (NTA42)
+
+NGA3 TRAN THI ANH (TAN3)
+
+----------------------------------------------------
+
+2. LDM
+BL750/29.VN-A562.SGN
+HAN 137/08/00 T/2585   1/880   2/0   3/850   4/855    5/0
+HAN  B/855  C/1730  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B
+CPT05/N
+--BEST REGARD/TÂM--
+----------------------------------------------------
+
+3. MVT
+BL750/29.VN-A562.SGN
+AD 0728/0745 EA 0945 HAN
+C/L 0728
+PUSH 0730
+PAX 145
+TOF 8900
+DL: NIL
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL750/29.VN-A562.SGN
+AA 0924/0930

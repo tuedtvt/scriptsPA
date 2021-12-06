@@ -1,0 +1,44 @@
+1. CLM
+BL793/02.VN-A573.HAN
+JIN HANN GOH (HAG)
+
+BAO PHAM QUOC (PQB)
+
+TUNG2 NGUYEN THANH (NTT2)
+
+TRINH5 LE NU KIEU (LKT5)
+
+TRAM2 NGUYEN THI BICH (NBT2)
+
+NGUYEN5 VO PHUONG THAO (VTN5)
+
+----------------------------------------------------
+
+2. LDM
+BL793/02.VN-A573.HAN
+SGN 131/09/0 T/915   1/0   2/0   3/300   4/615    5/0
+SGN  B/915  C/0  M/0
+SI: 
+-CPT1/N
+-CPT3/B
+-CPT4/B
+-CPT5/N
+----------------------------------------------------
+
+3. MVT
+BL793/02.VN-A573.HAN
+AD 2342/0004 EA 0144 SGN
+C/L 2339
+PUSH 2342
+PAX 140
+TOF 9400
+DL: 930/851/13/29
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL793/02.VN-A573.HAN
+AA 0044/0054

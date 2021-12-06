@@ -1,0 +1,44 @@
+1. CLM
+BL757/05.VN-A569.HAN
+MOEARII RALPH MATAPO (MRM)
+
+SKANDER FEKI (FES)
+
+LIEN1 TO KIM (TKL1)
+
+NGHIA3 LE NGOC (LNN3)
+
+ANH27 LE THI PHUONG (LPA27)
+
+HAO1 NGO KIM (NKH1)
+
+
+----------------------------------------------------
+
+2. LDM
+BL757/05.VN-A569.HAN
+SGN 91/5/0 T/2593   1/1315   2/0   3/539   4/430    5/309
+SGN  B/430  C/2263  M/0
+SI: 
+CPT1/C
+CPT3/C
+CPT4/C+B
+CPT5/C
+----------------------------------------------------
+
+3. MVT
+BL757/05.VN-A569.HAN
+AD 0950/0956 EA 1146 SGN
+C/L 0943
+PUSH 0950
+PAX 96
+TOF 9900
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

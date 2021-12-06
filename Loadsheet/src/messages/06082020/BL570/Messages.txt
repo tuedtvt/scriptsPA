@@ -1,0 +1,47 @@
+1. CLM
+BL570/06.VN-A573.SGN
+JORGE ALEJANDRO PEÑA IRUN (PJA)
+
+HUNG TRAN HUU (THH)
+
+KHOA1 NGUYEN TRAN DANG (NTDK1)
+
+HA7 DAO THI THU (DTH7)
+
+THONG1 LE HOANG (LHTH1)
+
+YEN7 NGUYEN CHE KIM (NKY7)
+
+----------------------------------------------------
+
+2. LDM
+BL570/06.VN-A573.SGN
+THD 147/31/06 T/1515   1/0   2/0   3/1050   4/465    5/0
+THD  B/1515  C/00  M/00
+SI: 
+
+--CPT01/N  
+--CPT03/B 
+--CPT04/B  
+--CPT05/N 
+
+REGARDS/AN
+----------------------------------------------------
+
+3. MVT
+BL570/06.VN-A573.SGN
+AD 1240/1254 EA 1430 THD
+C/L 1240
+PUSH 1243
+PAX 184
+TOF 8100
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL570/06.VN-A573.SGN
+AA 1427/1436

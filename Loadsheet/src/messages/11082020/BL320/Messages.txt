@@ -1,0 +1,38 @@
+1. CLM
+BL320/11.VN-A572.PQC
+NAM HOANG LE (VNHLN)
+ EVGENII KLASSEN (KLE)
+ BAO2 TRAN QUOC (TQB2)
+ THAO13 NGUYEN THI PHUONG (NPT13)
+ PHONG1 TRAN THANH (TTP1)
+ TOAN4 VO NGUYEN TIEN (VTT4)
+
+----------------------------------------------------
+
+2. LDM
+BL320/11.VN-A572.PQC
+SGN 134/27/4 T/956   1/0   2/0   3/800   4/156    5/0
+SGN  B/956  C/0  M/0
+SI: 
+B97/956
+1BBSTRLL LDD H4
+
+----------------------------------------------------
+
+3. MVT
+BL320/11.VN-A572.PQC
+AD 1500/1513 EA 1553 SGN
+C/L 1459
+PUSH 1501
+PAX 165
+TOF 7300
+DL: DL990/0005 Ground time thấp hơn standard
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL320/11.VN-A572.PQC
+AA 1550/1600

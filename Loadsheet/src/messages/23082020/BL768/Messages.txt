@@ -1,0 +1,41 @@
+1. CLM
+BL768/23.VN-A568.SGN
+BL768	VN6026
+GIACOMO CORONESE (CGC)
+
+PHILIPPE NOEL JEAN LE GALL (LPN)
+
+NHUNG7 NGUYEN THI TUYET (NTN7)
+
+ANH41 DONG NAM (DNA41)
+
+HAI1 NGUYEN TRUNG (NTH1)
+
+LAI1 TRAN NGOC (TNL1)
+
+----------------------------------------------------
+
+2. LDM
+BL768/23.VN-A568.SGN
+HAN 152/20/02 T/1170   1/0   2/0   3/900   4/270    5/0
+HAN  B/1170  C/0  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL768/23.VN-A568.SGN
+AD 1405/1420 EA 1620 HAN
+C/L 1405
+PUSH 1409
+PAX 174
+TOF 10360
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

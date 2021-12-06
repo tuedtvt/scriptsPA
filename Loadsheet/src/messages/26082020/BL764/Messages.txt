@@ -1,0 +1,44 @@
+1. CLM
+BL764/26.VN-A577.SGN
+BL764	VN6020
+DAT NGUYEN QUANG (DQN1)
+
+HUY NGUYEN QUANG (NQH)
+
+HUONG3 NGUYEN THU (NTH3)
+
+LINH19 LE HUYNH KHANH (LKL19)
+
+MINH3 TRAN NGUYEN NHA (TNM3)
+
+THU4 VAN ANH (VAT4)
+
+POS GDEC DINH1 NGO TRUONG NGOC (NTND1)
+
+----------------------------------------------------
+
+2. LDM
+BL764/26.VN-A577.SGN
+HAN 167/18/01 T/1430   1/545   2/0   3/0   4/885    5/0
+HAN  B/885  C/545  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL764/26.VN-A577.SGN
+AD 1115/1135 EA 1335 HAN
+C/L 1115
+PUSH 1120
+PAX 186
+TOF 9000
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL764/26.VN-A577.SGN
+AA 1319/1326

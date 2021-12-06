@@ -1,0 +1,45 @@
+1. CLM
+BL791/10.VN-A571.HAN
+VIEN TRAN THIEN (TVT)
+
+TUAN NGUYEN QUOC (NGQT)
+
+HUONG3 NGUYEN THU (NTH3)
+
+TRANG24 DUONG THI (DTT24)
+
+DAT4 NGUYEN HUU (NHD4)
+
+TRANG18 NGUYEN THUY (NTT18)
+
+
+----------------------------------------------------
+
+2. LDM
+BL791/10.VN-A571.HAN
+SGN 163/10/01 T/2425   1/657   2/0   3/844   4/924    5/0
+SGN  B/570  C/1855  M/0
+SI: 
+H1/C
+H3/C
+H4/C+B
+H5/NIL
+BRGS NGOC ANH
+----------------------------------------------------
+
+3. MVT
+BL791/10.VN-A571.HAN
+AD 2025/2035 EA 2225 SGN
+C/L 2020
+PUSH 2025
+PAX 174
+TOF 10300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

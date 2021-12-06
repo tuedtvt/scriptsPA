@@ -1,0 +1,36 @@
+1. CLM
+BL320/10.VN-A567.PQC
+ADRIAN STEFFAN CRESWELL LOWE (LOA1)
+ HUNG TRAN HUU (THH)
+ TRUNG NGUYEN QUOC (NQTR)
+ DUC1 NGUYEN ANH (NAD1)
+ PHAT1 BUI QUANG (BQP1)
+ LAM2 HO TUNG (HTL2)
+ TRANG13 LIEN THANH (LTT13)
+
+----------------------------------------------------
+
+2. LDM
+BL320/10.VN-A567.PQC
+SGN 108/16/3 T/1085   1/245   2/0   3/840   4/0    5/0
+SGN  B/840  C/245  M/0
+SI: 
+01BBSTRL LDD H3
+----------------------------------------------------
+
+3. MVT
+BL320/10.VN-A567.PQC
+AD 1450/1506 EA 1546 SGN
+C/L 1448
+PUSH 1452
+PAX 127
+TOF 7000
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

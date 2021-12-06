@@ -1,0 +1,47 @@
+1. CLM
+BL768/22.VN-A565.SGN
+BL768/VN6026-VNA565-HAN
+ASHLEY LUKE BYRNE (ALB)
+
+THINH TRAN CAO (VNTCT)
+
+BAO2 TRAN QUOC (TQB2)
+
+HA7 DAO THI THU (DTH7)
+
+TUNG3 LE MINH (LMTU3)
+
+DINH1 NGO TRUONG NGOC (NTND1)
+
+----------------------------------------------------
+
+2. LDM
+BL768/22.VN-A565.SGN
+HAN 132/14/03 T/885   1/0   2/0   3/885   4/0    5/0
+HAN  B/885  C/00  M/00
+SI: 
+CPT01/N
+CPT03/B
+CPT04/N
+CPT05/N
+SI: N
+--BEST REGARDS/TÂM--
+----------------------------------------------------
+
+3. MVT
+BL768/22.VN-A565.SGN
+AD 1415/1440 EA 1640 HAN
+C/L 1415
+PUSH 1419
+PAX 149
+TOF 10400
+DL: 630/0005P CƠ TRƯỞNG ĐẾN TÀU BAY TRỄ
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL768/22.VN-A565.SGN
+AA 1616/1620

@@ -1,0 +1,31 @@
+1. CLM
+BL544	VN6430  VNA577
+THOBÉ DURK KUIPERS (KTD)
+
+VINCENZO PARISI (PAV)
+
+TAM1 DANG QUANG (DQT1)
+
+LINH12 DANG MAI (DML12)
+
+THAO6 LE THI XUAN (LXT6)
+
+HUNG6 PHAM THI KIM (PKH6)
+
+
+----------------------------------------------------
+
+2. LDM
+LDM not input.
+----------------------------------------------------
+
+3. MVT
+MVT not input.
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

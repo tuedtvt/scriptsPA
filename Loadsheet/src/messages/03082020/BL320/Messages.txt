@@ -1,0 +1,36 @@
+1. CLM
+BL320/03.VN-A577.PQC
+CESAR CESTARO CRUZ RODRIGUES (CER)
+ BACH DO QUANG (DQB)
+ MAI1 NGUYEN THI TUYET (NTM1)
+ PHAT1 BUI QUANG (BQP1)
+ HIEN9 DUONG THI THU (DTH9)
+ LIEU1 NGUYEN THI NGOC (NNL1)
+
+----------------------------------------------------
+
+2. LDM
+BL320/03.VN-A577.PQC
+SGN 148/38/5 T/924   1/0   2/0   3/924   4/0    5/0
+SGN  B/924  C/00  M/00
+SI: 
+02BBSTRLL LDD H3
+----------------------------------------------------
+
+3. MVT
+BL320/03.VN-A577.PQC
+AD 1440/1458 EA 1538 SGN
+C/L 1439
+PUSH 1441
+PAX 191
+TOF 7640
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL320/03.VN-A577.PQC
+AA 1535/1545

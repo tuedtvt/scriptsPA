@@ -1,0 +1,40 @@
+1. CLM
+BL501/01.VN-A562.HUI
+THOBÉ DURK KUIPERS (KTD)
+ 
+BACH DO QUANG (DQB)
+ 
+MAI1 NGUYEN THI TUYET (NTM1)
+ 
+QUANG3 LE THANH (LTQ3)
+ 
+TRUYEN1 NGUYEN THANH (NGTT1)
+ 
+HUYNH1 NGUYEN THI NHU
+----------------------------------------------------
+
+2. LDM
+BL501/01.VN-A562.HUI
+SGN 123/11/6 T/1425   1/225   2/0   3/600   4/600    5/0
+SGN  B/1425  C/0  M/0
+SI: 
+02 BBY STRL LDD IN H4
+----------------------------------------------------
+
+3. MVT
+BL501/01.VN-A562.HUI
+AD 0925/0936 EA 1045 SGN
+C/L 0924
+PUSH 0926
+PAX 140
+TOF 7900
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL501/01.VN-A562.HUI
+AA 1749/1759

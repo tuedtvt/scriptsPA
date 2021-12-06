@@ -1,0 +1,45 @@
+1. CLM
+BL773/04.VN-A570.HAN
+QUYET DINH HUU (VNDHQ)
+
+BAO PHAM QUOC (PQB)
+
+THAI3 PHAM QUANG (PQT3)
+
+HIEU4 NGUYEN TRONG (NGTH4)
+
+TRUNG3 NGUYEN TIEN (NTT3)
+
+HUYEN6 VU THI MINH (VMH6)
+
+
+----------------------------------------------------
+
+2. LDM
+BL773/04.VN-A570.HAN
+SGN 141/20/7 T/3061   1/962   2/0   3/609   4/1170    5/320
+SGN  B/1170  C/1891  M/0
+SI: 
+H1/C
+H3/C
+H4/B
+H5/C
+BRGDS/DUNG
+----------------------------------------------------
+
+3. MVT
+BL773/04.VN-A570.HAN
+AD 1544/1600 EA 1750 SGN
+C/L 1538
+PUSH 1544
+PAX 168
+TOF 10300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

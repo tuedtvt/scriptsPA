@@ -1,0 +1,45 @@
+1. CLM
+BL748/01.VN-A566.SGN
+BL748/VN6002-VNA566-HAN
+GIACOMO CORONESE (CGC)
+
+NIRAJ ADHIKARI (NIA)
+
+NGOC7 NGUYEN THE (NGTN7)
+
+HANG10 DAM THI LE (DLH10)
+
+NGHI1 LE NGUYEN THUC (LNTN1)
+
+CUONG3 NGO CHI (NCC3)
+
+----------------------------------------------------
+
+2. LDM
+BL748/01.VN-A566.SGN
+HAN 80/28/4 T/2075   1/815   2/0   3/570   4/690    5/0
+HAN  B/690  C/1385  M/0
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL748/01.VN-A566.SGN
+AD 0605/0623 EA 0822 HAN
+C/L 0605
+PUSH 0607
+PAX 112
+TOF 11540
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL748/01.VN-A566.SGN
+AA 0805/0810

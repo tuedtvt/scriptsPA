@@ -1,0 +1,48 @@
+1. CLM
+BL793/15.VN-A570.HAN
+ARIO TEJO CHRISTOFORUS (ART)
+
+EVGENII KLASSEN (KLE)
+
+TAN VO TRAN DUC (VTDT)
+
+BAO2 TRAN QUOC (TQB2)
+
+TIEN6 NGUYEN THI THUY (NTTT6)
+
+MINH3 TRAN NGUYEN NHA (TNM3)
+
+HIEN12 VU THI THUC (VTH12)
+
+
+----------------------------------------------------
+
+2. LDM
+BL793/15.VN-A570.HAN
+SGN 153/07/00 T/799   1/484   2/0   3/0   4/315    5/0
+SGN  B/315  C/484  M/00
+SI: 
+*-* LDD INF *-*
+-H1/C
+-H3/NIL
+-H4/B
+-H5/NIL
+BRGDS-TUAN
+----------------------------------------------------
+
+3. MVT
+BL793/15.VN-A570.HAN
+AD 2120/2135 EA 2330 SGN
+C/L 2114
+PUSH 2120
+PAX 160
+TOF 10000
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

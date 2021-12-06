@@ -1,0 +1,44 @@
+1. CLM
+BL748/09.VN-A564.SGN
+BINH NGUYEN NGOC (NNB)
+
+TUAN DANG MINH (VNDMT)
+
+LY2 HOANG KHANH (HKL2)
+
+LIEN4 CAO THI MY (CML4)
+
+TRANG23 LE THI HUYEN (LHT23)
+
+DAT1 LE TRUONG PHUC (LTPD1)
+
+----------------------------------------------------
+
+2. LDM
+BL748/09.VN-A564.SGN
+HAN 65/3/0 T/1070   1/920   2/0   3/0   4/150    5/0
+HAN  B/150  C/920  M/0
+SI: 
+CPT01/C
+CPT03/N
+CPT04/B
+CPT05/N
+----------------------------------------------------
+
+3. MVT
+BL748/09.VN-A564.SGN
+AD 0551/0603 EA 0759 HAN
+C/L 0551
+PUSH 0553
+PAX 68
+TOF 10300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL748/09.VN-A564.SGN
+AA 0746/0752

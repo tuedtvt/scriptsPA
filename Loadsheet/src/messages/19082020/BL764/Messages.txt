@@ -1,0 +1,45 @@
+1. CLM
+BL764/19.VN-A572.SGN
+MOHAMED AFZAL AHMED (MAA)
+
+VINCENZO PARISI (PAV)
+
+ANH31 VU HOANG PHUONG (VPA31)
+
+LINH14 LE THANH MAI (LML14)
+
+HUYNH1 NGUYEN THI NHU (NNH1)
+
+DUNG6 NGUYEN THUY (NTD6)
+
+----------------------------------------------------
+
+2. LDM
+BL764/19.VN-A572.SGN
+HAN 150/13/03 T/2500   1/880   2/0   3/735   4/885    5/0
+HAN  B/885  C/1615  M/00
+SI: 
+--CPT01/C   
+--CPT03/C   
+--CPT04/B   
+--CPT05/N   
+REGARDS/QUANG
+----------------------------------------------------
+
+3. MVT
+BL764/19.VN-A572.SGN
+AD 1105/1120 EA 1320 HAN
+C/L 1105
+PUSH 1110
+PAX 166
+TOF 10400
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL764/19.VN-A572.SGN
+AA 1303/1308

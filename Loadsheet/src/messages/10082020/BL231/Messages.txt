@@ -1,0 +1,44 @@
+1. CLM
+BL231/10.VN-A572.HAN
+THANG NGUYEN QUOC (NQT1)
+
+CUONG BUI MANH (BCU)
+
+PHUONG6 NGUYEN QUYNH (NQP6)
+
+NGOC12 DUONG ANH (DAN12)
+
+VAN1 LE THANH (LTV1)
+
+LAI1 TRAN NGOC (TNL1)
+
+
+----------------------------------------------------
+
+2. LDM
+BL231/10.VN-A572.HAN
+CXR 103/10/01 T/450   1/0   2/0   3/450   4/0    5/0
+CXR  B/450  C/0  M/0
+SI: 
+H1/NIL
+H3/B
+H4/NIL
+H5/NIL
+----------------------------------------------------
+
+3. MVT
+BL231/10.VN-A572.HAN
+AD 0937/1050 EA 1220 CXR
+C/L 0933
+PUSH 0937
+PAX 114
+TOF 7800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

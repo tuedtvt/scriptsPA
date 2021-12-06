@@ -1,0 +1,44 @@
+1. CLM
+BL773/02.VN-A566.HAN
+JIN HANN GOH (HAG)
+
+BAO PHAM QUOC (PQB)
+
+HIEN8 NGUYEN THANH (NTH8)
+
+DIEN1 HOANG VAN (HVD1)
+
+CONG1 LE THANH (LTC1)
+
+TRANG17 PHAM THUY (PTT17)
+
+
+----------------------------------------------------
+
+2. LDM
+BL773/02.VN-A566.HAN
+SGN 130/11/04 T/2048   1/1013   2/0   3/285   4/750    5/0
+SGN  B/1035  C/1013  M/0
+SI: 
+-CPT1/C
+-CPT3/B
+-CPT4/B
+-CPT5/N
+----------------------------------------------------
+
+3. MVT
+BL773/02.VN-A566.HAN
+AD 1548/1600 EA 1740 SGN
+C/L 1545
+PUSH 1548
+PAX 145
+TOF 10800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

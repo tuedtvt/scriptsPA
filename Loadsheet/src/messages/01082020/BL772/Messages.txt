@@ -1,0 +1,41 @@
+1. CLM
+BL772/01.VN-A568.SGN
+JESUS MANUEL RIVERA (JMR)
+ 
+HIEP NGUYEN MINH (VNNMH)
+
+HAN1 HA GIA (HGH1)
+ 
+TRAN6 NGUYEN LE BAO (NBT6)
+ 
+YEN6 NGUYEN HAI (NHY6)
+ 
+NGUYEN5 VO PHUONG THAO (VTN5)
+
+
+----------------------------------------------------
+
+2. LDM
+BL772/01.VN-A568.SGN
+HAN 141/15/01 T/1660   1/655   2/0   3/1005   4/0    5/0
+HAN  B/1005  C/0  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL772/01.VN-A568.SGN
+AD 1809/1825 EA 2025 HAN
+C/L 1809
+PUSH 1814
+PAX 167
+TOF 11200
+DL: DL930/0006-TAU VE MUON. DL993/0009-LICH BAY KHONG PHU HOP(GROUND TIME)
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

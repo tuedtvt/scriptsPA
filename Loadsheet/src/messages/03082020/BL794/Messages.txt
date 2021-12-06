@@ -1,0 +1,46 @@
+1. CLM
+BL794/03.VN-A564.SGN
+OMAR FERNANDO FREDING CAÑETE
+(FOF)
+
+NAM DANG HOAI (VNDHN)
+
+NHUNG7 NGUYEN THI TUYET (NTN7)
+
+CONG1 LE THANH (LTC1)
+
+CUONG2 NGUYEN VAN (NVC2)
+
+MANH1 NGUYEN VU (NVM1)
+
+----------------------------------------------------
+
+2. LDM
+BL794/03.VN-A564.SGN
+HAN 142/06/03 T/765   1/0   2/0   3/765   4/0    5/0
+HAN  B/765  C/00  M/00
+SI: 
+H1/NIL
+H3/B
+H4/NIL
+H5/NIL
+HUNG2
+----------------------------------------------------
+
+3. MVT
+BL794/03.VN-A564.SGN
+AD 2251/2306 EA 0106 HAN
+C/L 2251
+PUSH 2253
+PAX 151
+TOF 11000
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL794/03.VN-A564.SGN
+AA 0050/0056

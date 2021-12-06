@@ -1,0 +1,47 @@
+1. CLM
+BL782/04.VN-A562.SGN
+BL782/VN6022-VNA577-HAN
+GIAO TRUONG NGOC (VNTNG)
+
+TIN NGUYEN HOANG (NHT)
+
+QUANG2 NGUYEN TUAN (NTQ2)
+
+VU1 DANG ANH (DAV1)
+
+THAO3 NGUYEN PHUONG (NPT3)
+
+NGOC4 TRAN HOA NHU (TNN4)
+
+----------------------------------------------------
+
+2. LDM
+BL782/04.VN-A562.SGN
+HAN 158/17/03 T/1795   1/1000   2/0   3/0   4/795    5/0
+HAN  B/795  C/1000  M/00
+SI: 
+CPT01/C
+CPT03/N
+CPT04/B
+CPT05/N
+SI: N
+--BEST REGARDS/TÂM--
+
+----------------------------------------------------
+
+3. MVT
+BL782/04.VN-A562.SGN
+AD 2045/2102 EA 2302 HAN
+C/L 2045
+PUSH 2048
+PAX 178
+TOF 9800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

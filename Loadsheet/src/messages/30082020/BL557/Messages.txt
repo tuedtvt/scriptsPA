@@ -1,0 +1,49 @@
+1. CLM
+BL557/30.VN-A571.VII
+ARIEL ADRIAN CRUZ MENDOZA (ARC)
+
+NHAN HUYNH NGUYEN PHUC (HNPN)
+
+THUY3 VU THI THANH (VTTT3)
+
+ANH25 HOANG BA DUY (HDA25)
+
+GIANG5 NGUYEN THI HUONG (NHG5)
+
+TAN1 NGUYEN NHUT (NNT1)
+
+NHI5 TRUONG TIEU (TTN5)
+
+----------------------------------------------------
+
+2. LDM
+BL557/30.VN-A571.VII
+SGN 88/12/1 T/660   1/0   2/0   3/0   4/660    5/0
+SGN  B/660  C/0  M/0
+SI: 
+LOAD DIST:
+-H1/NIL
+-H3/NIL
+-H4/SGN/B
+-H5/NIL
+SI
+
+----------------------------------------------------
+
+3. MVT
+BL557/30.VN-A571.VII
+AD 1712/1720 EA 1850 SGN
+C/L 1704
+PUSH 
+PAX 101
+TOF 7900
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL557/30.VN-A571.VII
+AA 1840/1850

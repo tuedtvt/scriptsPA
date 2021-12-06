@@ -1,0 +1,36 @@
+1. CLM
+BL302/10.VN-A562.PQC
+NAM HOANG LE (VNHLN)
+ HUY TA DUC (TDH)
+ HANG6 DO THI THU (DTH6)
+ TIEN4 LE NHAT (LNT4)
+ TRUYEN1 NGUYEN THANH (NGTT1)
+ PHUNG2 NGUYEN VAN (NVP2)
+
+----------------------------------------------------
+
+2. LDM
+BL302/10.VN-A562.PQC
+SGN 109/10/3 T/560   1/0   2/0   3/560   4/0    5/0
+SGN  B/560  C/00  M/00
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL302/10.VN-A562.PQC
+AD 0800/0825 EA 0905 SGN
+C/L 0759
+PUSH 0801
+PAX 122
+TOF 7800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL302/10.VN-A562.PQC
+AA 0905/0915

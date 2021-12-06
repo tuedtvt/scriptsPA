@@ -1,0 +1,46 @@
+1. CLM
+BL326/07.VN-A564.PQC
+HECTOR AUGUSTO MEUREHG
+AMENDOLLA (HEA)
+
+DUY HO KHANH (HKD)
+
+QUANG2 NGUYEN TUAN (NTQ2)
+
+HA6 CHAU NGOC (CNH6)
+
+NGHI1 LE NGUYEN THUC (LNTN1)
+
+TUAN2 PHAM ANH (PAT2)
+
+----------------------------------------------------
+
+2. LDM
+BL326/07.VN-A564.PQC
+SGN 117/16/1 T/609   1/0   2/0   3/609   4/0    5/0
+SGN  B/609  C/0  M/0
+SI: 
+02 PRIORITY LDD H3
+----------------------------------------------------
+
+3. MVT
+BL326/07.VN-A564.PQC
+AD 2105/2115 EA 2155 SGN
+C/L 2103
+PUSH 2106
+PAX 134
+TOF 6500
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM
+BL326/07AUG SGN PART1
+TRAN/THIDAUMS WCHC 30C 
+ENDPSM
+
+----------------------------------------------------
+
+5. MVA
+BL326/07.VN-A564.PQC
+AA 2150/2200

@@ -1,0 +1,44 @@
+1. CLM
+BL767/06.VN-A564.HAN
+DANG NGUYEN XUAN (NXD1)
+
+DUY HO KHANH (HKD)
+
+LIEN2 LE NGUYEN MY (LML2)
+
+HANG10 DAM THI LE (DLH10)
+
+NHI3 DUONG NGOC (DNN3)
+
+LUAN2 HUYNH NGOC (HNL2)
+
+----------------------------------------------------
+
+2. LDM
+BL767/06.VN-A564.HAN
+SGN 133/12/01 T/2559   1/1196   2/0   3/680   4/683    5/0
+SGN  B/570  C/1989  M/0
+SI: 
+H1/C
+H3/C
+H4/C+B
+H5/NIL
+BRGS NGOC ANH
+----------------------------------------------------
+
+3. MVT
+BL767/06.VN-A564.HAN
+AD 1405/1423 EA 1613 SGN
+C/L 1402
+PUSH 1405
+PAX 146
+TOF 10900
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

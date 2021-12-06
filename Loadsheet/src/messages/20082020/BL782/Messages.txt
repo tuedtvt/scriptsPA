@@ -1,0 +1,38 @@
+1. CLM
+BL782/20.VN-A571.SGN
+BL782	VN6022
+PHUONG6 NGUYEN QUYNH (NQP6)
+
+TRAM4 KIEU ANH (KAT4)
+
+MANH1 NGUYEN VU (NVM1)
+
+HA8 VU THU (VTH8)
+
+DHARMESH KAUSHIK (KAD)
+
+NIRAJ ADHIKARI (NIA)
+
+----------------------------------------------------
+
+2. LDM
+BL782/20.VN-A571.SGN
+HAN 119/03/00 T/3355   1/1140   2/0   3/1060   4/675    5/480
+HAN  B/675  C/2680  M/0
+SI: 
+C1/C
+C3/C
+C4/B
+C5/C
+----------------------------------------------------
+
+3. MVT
+MVT not input.
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

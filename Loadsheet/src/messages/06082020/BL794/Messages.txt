@@ -1,0 +1,42 @@
+1. CLM
+BL794/06.VN-A567.SGN
+BL794	VN6028
+JIN HANN GOH (HAG)
+
+HIEP NGUYEN MINH (VNNMH)
+
+HIEU1 VU TRUNG (VTH1)
+
+CONG1 LE THANH (LTC1)
+
+NAM5 NGUYEN PHUONG (NPN5)
+
+TRANG17 PHAM THUY (PTT17)
+
+
+----------------------------------------------------
+
+2. LDM
+BL794/06.VN-A567.SGN
+HAN 98/11/02 T/1290   1/560   2/0   3/460   4/270    5/0
+HAN  B/270  C/1020  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL794/06.VN-A567.SGN
+AD 2305/2320 EA 0120 HAN
+C/L 2305
+PUSH 2308
+PAX 111
+TOF 9800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

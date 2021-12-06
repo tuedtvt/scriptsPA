@@ -1,0 +1,47 @@
+1. CLM
+BL555/18.VN-A577.VII
+DAT NGUYEN QUANG (DQN1)
+
+TRUNG NGUYEN QUOC (NQTR)
+
+BAO2 TRAN QUOC (TQB2)
+
+ANH38 NGUYEN THI LAN (NLA38)
+
+MY4 TRINH HAI (THM4)
+
+KHANH4 VU DUC (VDK4)
+
+
+----------------------------------------------------
+
+2. LDM
+BL555/18.VN-A577.VII
+SGN 146/26/5 T/2668   1/778   2/0   3/900   4/690    5/300
+SGN  B/1890  C/778  M/0
+SI: 
+LOAD DIST:
+-H1/SGN/C
+-H3/SGN/B
+-H4/SGN/B
+-H5/SGN/B
+SI
+----------------------------------------------------
+
+3. MVT
+BL555/18.VN-A577.VII
+AD 1704/1710 EA 1840 SGN
+C/L 1659
+PUSH 
+PAX 177
+TOF 9900
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL555/18.VN-A577.VII
+AA 1838/1848

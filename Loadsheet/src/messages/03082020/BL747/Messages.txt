@@ -1,0 +1,46 @@
+1. CLM
+BL747/03.VN-A566.HAN
+HUONG7 LY MAI (LMH7)
+
+VAN1 LE THANH (LTV1)
+
+HUYEN8 NGUYEN THI THU (NGTH8)
+
+HECTOR AUGUSTO MEUREHG
+AMENDOLLA (HEA)
+
+SON TRAN ANH (TAS)
+
+NGOC7 NGUYEN THE (NGTN7)
+
+----------------------------------------------------
+
+2. LDM
+BL747/03.VN-A566.HAN
+SGN 113/10/0 T/2825   1/900   2/0   3/940   4/785    5/200
+SGN  B/645  C/2180  M/0
+SI: 
+H1/C
+H3/C
+H4/C/B
+H5/C
+
+----------------------------------------------------
+
+3. MVT
+BL747/03.VN-A566.HAN
+AD 0455/0505 EA 0655 SGN
+C/L 0447
+PUSH 0455
+PAX 123
+TOF 9900
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL747/03.VN-A566.HAN
+AA 0640/0650

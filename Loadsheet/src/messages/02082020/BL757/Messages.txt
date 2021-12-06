@@ -1,0 +1,50 @@
+1. CLM
+BL757/02.VN-A564.HAN
+ADRIAN STEFFAN CRESWELL LOWE
+(LOA1)
+
+SHEPHARD PAUL EDWARD (PES)
+
+TRUNG NGUYEN QUOC (NQTR)
+
+VU2 MAI THANH (MTV2)
+
+PHAT1 BUI QUANG (BQP1)
+
+HIEN9 DUONG THI THU (DTH9)
+
+LIEU1 NGUYEN THI NGOC (NNL1)
+
+
+----------------------------------------------------
+
+2. LDM
+BL757/02.VN-A564.HAN
+SGN 127/21/02 T/1787   1/887   2/0   3/0   4/900    5/0
+SGN  B/900  C/887  M/0
+SI: 
+H1/C
+H3/NIL
+H4/B
+H5/NIL
+
+BRGDS TIEN
+----------------------------------------------------
+
+3. MVT
+BL757/02.VN-A564.HAN
+AD 0955/1014 EA 1210 SGN
+C/L 0952
+PUSH 0955
+PAX 150
+TOF 10500
+DL: 631/0005
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL757/02.VN-A564.HAN
+AA 1155/1205

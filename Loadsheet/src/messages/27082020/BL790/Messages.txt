@@ -1,0 +1,41 @@
+1. CLM
+BL790/27.VN-A198.SGN
+LINH11 PHAM THUY (PTL11)
+
+CHI2 DANG THI KIM (DKC2)
+
+HUONG9 NGUYEN THANH THANH
+(NTH9)
+
+MANH1 NGUYEN VU (NVM1)
+
+KOKORO YONGOLE JANDA (JKY)
+
+NHAN DAM KIEN (VNDKN)
+
+----------------------------------------------------
+
+2. LDM
+BL790/27.VN-A198.SGN
+HAN 141/07/01 T/3550   1/1330   2/0   3/1120   4/930    5/170
+HAN  B/930  C/2620  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL790/27.VN-A198.SGN
+AD 2115/2125 EA 2325 HAN
+C/L 2115
+PUSH 2117
+PAX 149
+TOF 9900
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

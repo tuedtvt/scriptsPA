@@ -1,0 +1,45 @@
+1. CLM
+BL764/18.VN-A570.SGN
+ANTONIO ERNESTO ALONSO
+ESCANDELL (AAE)
+
+KIEN DANG VU BAO (DVBK)
+
+TUNG1 HOANG (HT01)
+
+LUAN2 HUYNH NGOC (HNL2)
+
+HUY7 TRAN KIM (TKH7)
+
+THU4 VAN ANH (VAT4)
+
+----------------------------------------------------
+
+2. LDM
+BL764/18.VN-A570.SGN
+HAN 161/20/05 T/1620   1/840   2/0   3/0   4/780    5/0
+HAN  B/780  C/840  M/00
+SI: 
+--CPT01/C   
+--CPT03/N   
+--CPT04/B   
+--CPT05/N   
+REGARDS/QUANG
+----------------------------------------------------
+
+3. MVT
+BL764/18.VN-A570.SGN
+AD 1108/1122 EA 1320 HAN
+C/L 1108
+PUSH 1108
+PAX 186
+TOF 10300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,46 @@
+1. CLM
+BL780/03.VN-A573.SGN
+BL780/VN6010-VNA573-HAN
+JORGE LUIS CELY SALAZAR (JLS)
+
+NY BUI HOANG TON (BHTNY)
+
+CUONG1 NGUYEN HUNG (NCU1)
+
+NAM6 HUYNH SON (HSN6)
+
+NGOC6 LE THI BICH (LBN6)
+
+DAT4 NGUYEN HUU (NHD4)
+
+----------------------------------------------------
+
+2. LDM
+BL780/03.VN-A573.SGN
+HAN 135/15/00 T/1960   1/775   2/0   3/525   4/660    5/0
+HAN  B/660  C/1300  M/00
+SI: 
+CPT01/C
+CPT03/C
+CPT04/B
+CPT05/N
+SI: N
+--BEST REGARDS/TÂM--
+----------------------------------------------------
+
+3. MVT
+BL780/03.VN-A573.SGN
+AD 1730/1747 EA 1947 HAN
+C/L 1730
+PUSH 1733
+PAX 150
+TOF 11300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

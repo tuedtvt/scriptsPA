@@ -1,0 +1,48 @@
+1. CLM
+BL230/12.VN-A571.CXR
+CLM
+BL230/12.VNA571.CXR
+  1  CAPT  JESUS MANUEL RIVERA (JMR)
+          
+  2  FO  HUAN LE CONG (LCH)
+          
+  3  CM  MINH1 VU DUC (VDM1)
+          
+  4  CA  HAI1 NGUYEN TRUNG (NTH1)
+          
+  5  CA  HUONG9 NGUYEN THANH THANH(NTH9)
+          
+  6  CA  LAI1 TRAN NGOC (TNL1)
+          
+End of Crew List
+----------------------------------------------------
+
+2. LDM
+BL230/12.VN-A571.CXR
+HAN 92/13/0 T/985   1/595   2/0   3/0   4/390    5/0
+HAN  B/390  C/595  M/0
+SI: 
+H1: C/40PCS 
+H3: NIL 
+H4: B/26PCS
+H5: NIL
+
+----------------------------------------------------
+
+3. MVT
+BL230/12.VN-A571.CXR
+AD 1157/1213 EA 1352 HAN
+C/L 1155
+PUSH 1157
+PAX 105
+TOF 8500
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL230/12.VN-A571.CXR
+AA 1348/1355

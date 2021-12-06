@@ -1,0 +1,43 @@
+1. CLM
+BL793/18.VN-A567.HAN
+SHAKIB M SH BESISO (SMB)
+
+BACH DO QUANG (DQB)
+
+HUONG3 NGUYEN THU (NTH3)
+
+THAO6 LE THI XUAN (LXT6)
+
+TRANG18 NGUYEN THUY (NTT18)
+
+VI6 VU THI THAO (VTV6)
+
+----------------------------------------------------
+
+2. LDM
+BL793/18.VN-A567.HAN
+SGN 128/9/2 T/2069   1/809   2/0   3/705   4/555    5/0
+SGN  B/1514  C/555  M/0
+SI: 
+H1/C
+H3/C
+H4/B
+H5/NIL
+----------------------------------------------------
+
+3. MVT
+BL793/18.VN-A567.HAN
+AD 2120/2130 EA 2320 SGN
+C/L 2115
+PUSH 2120
+PAX 139
+TOF 10800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

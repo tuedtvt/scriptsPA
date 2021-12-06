@@ -1,0 +1,40 @@
+1. CLM
+BL320/19.VN-A568.PQC
+MAURIZIO RUSSO (MRR)
+ KHOA LE TAN (VNLTK)
+ LIEN1 TO KIM (TKL1)
+ THAO13 NGUYEN THI PHUONG (NPT13)
+ MY4 TRINH HAI (THM4)
+ TAI2 TRUONG VAN (TVT2)
+
+----------------------------------------------------
+
+2. LDM
+BL320/19.VN-A568.PQC
+SGN 146/19/4 T/932   1/190   2/0   3/742   4/0    5/0
+SGN  B/742  C/190  M/00
+SI: 
+02HANH LY UU TIEN LDD H3
+----------------------------------------------------
+
+3. MVT
+BL320/19.VN-A568.PQC
+AD 1436/1448 EA 1528 SGN
+C/L 1435
+PUSH 1437
+PAX 169
+TOF 7700
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM
+BL320/19AUG SGN 
+NGUYEN/THANHHAI WCHC 5D 
+ENDPSM
+
+----------------------------------------------------
+
+5. MVA
+BL320/19.VN-A568.PQC
+AA 1526/1534

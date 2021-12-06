@@ -1,0 +1,46 @@
+1. CLM
+BL773/01.VN-A566.HAN
+JIN HANN GOH (HAG)
+
+BAO PHAM QUOC (PQB)
+
+MINH1 VU DUC (VDM1)
+
+QUYNH4 DO NHU (DNQ4)
+
+LAM5 DO TUNG (DTL5)
+
+MANH1 NGUYEN VU (NVM1)
+
+----------------------------------------------------
+
+2. LDM
+BL773/01.VN-A566.HAN
+SGN 142/21/5 T/1020   1/0   2/0   3/900   4/120    5/0
+SGN  B/1020  C/0  M/0
+SI: 
+***LDM INF***
+-CP1/N
+-CP3/B
+-CP4/B
+-CP5/NIL
+SI:
+BRGDS/DUONG
+----------------------------------------------------
+
+3. MVT
+BL773/01.VN-A566.HAN
+AD 1550/1600 EA 1758 SGN
+C/L 1545
+PUSH 1550
+PAX 168
+TOF 10800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,47 @@
+1. CLM
+BL793/31.VN-A568.HAN
+SHAKIB M SH BESISO (SMB)
+
+TIN NGUYEN HOANG (NHT)
+
+HOANG4 NGUYEN MINH (NMH4)
+
+TRINH2 HUYNH NGUYEN DOAN
+(HNDT2)
+
+LY8 NGUYEN PHUOC TON NU KHANH
+(NKL8)
+
+ANH34 NGUYEN THI (NTA34)
+
+
+----------------------------------------------------
+
+2. LDM
+BL793/31.VN-A568.HAN
+SGN 173/12/1 T/3509   1/1157   2/0   3/800   4/1230    5/322
+SGN  B/1230  C/2279  M/0
+SI: 
+***LDD INF***
+CPT1/C
+CPT3/C
+CPT4/B
+CPT5/C
+----------------------------------------------------
+
+3. MVT
+BL793/31.VN-A568.HAN
+AD 2120/2131 EA 2325 SGN
+C/L 2116
+PUSH 2120
+PAX 186
+TOF 9400
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

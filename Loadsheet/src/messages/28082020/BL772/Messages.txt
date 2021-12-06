@@ -1,0 +1,49 @@
+1. CLM
+BL772/28.VN-A570.SGN
+772/6008-VNA570-HAN
+WILLIAM RAUL GARCIA MUNOZ
+(WRM)
+
+JOSE CARLOS SANCHEZ COBOS
+(CJS)
+
+AN2 TRAN NGOC THIEN (TNTA2)
+
+UYEN3 HO UYEN (HUU3)
+
+LOC2 VU DUC (VDL2)
+
+VI6 VU THI THAO (VTV6)
+
+----------------------------------------------------
+
+2. LDM
+BL772/28.VN-A570.SGN
+HAN 164/10/00 T/825   1/0   2/0   3/825   4/0    5/0
+HAN  B/825  C/00  M/00
+SI: 
+CPT01/N
+CPT03/B
+CPT04/N
+CPT05/N
+
+
+----------------------------------------------------
+
+3. MVT
+BL772/28.VN-A570.SGN
+AD 1440/1453 EA 1653 HAN
+C/L 1440
+PUSH 1443
+PAX 174
+TOF 10000
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL772/28.VN-A570.SGN
+AA 1636/1642

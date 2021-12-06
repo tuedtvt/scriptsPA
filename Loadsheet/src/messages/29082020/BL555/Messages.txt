@@ -1,0 +1,49 @@
+1. CLM
+BL555/29.VN-A565.VII
+BL555/29.VN-A565.VII
+ARIEL ADRIAN CRUZ MENDOZA (ARC)
+ 
+NHAN HUYNH NGUYEN PHUC (HNPN)
+ 
+HUONG2 NGUYEN THI LAN (NLH2)
+ 
+THAO1 PHAM PHUONG (PPT1)
+ 
+MY7 LAM THI NGOC (LNM7)
+ 
+ANH34 NGUYEN THI (NTA34)
+ 
+TRAN3 VUONG THIEU (VTT3)
+
+
+----------------------------------------------------
+
+2. LDM
+BL555/29.VN-A565.VII
+SGN 90/13/5 T/930   1/0   2/0   3/930   4/0    5/0
+SGN  B/930  C/0  M/0
+SI: 
+LDD DIST
+-H1/NIL
+-H3/B
+-H4/NIL
+-H5/NIL
+----------------------------------------------------
+
+3. MVT
+BL555/29.VN-A565.VII
+AD 1700/1707 EA 1837 SGN
+C/L 1653
+PUSH 
+PAX 108
+TOF 9700
+DL: 
+----------------------------------------------------
+
+4. PSM
+01 WCHR  
+NGUYEN THI LUYEN 4D
+----------------------------------------------------
+
+5. MVA
+MVA not input

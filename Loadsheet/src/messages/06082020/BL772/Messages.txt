@@ -1,0 +1,44 @@
+1. CLM
+BL772/06.VN-A569.SGN
+BL772	VN6008
+MOHAMED AFZAL AHMED (MAA)
+
+VINCENZO PARISI (PAV)
+
+HUONG3 NGUYEN THU (NTH3)
+
+PHAT1 BUI QUANG (BQP1)
+
+NGOC6 LE THI BICH (LBN6)
+
+MINH2 LE NHUT (LNM2)
+
+----------------------------------------------------
+
+2. LDM
+BL772/06.VN-A569.SGN
+HAN 88/03/02 T/1675   1/920   2/0   3/515   4/240    5/0
+HAN  B/240  C/1435  M/0
+SI: 
+C1/C
+C3/C
+C4/B
+C5/N
+----------------------------------------------------
+
+3. MVT
+BL772/06.VN-A569.SGN
+AD 2045/2110 EA 2310 HAN
+C/L 2045
+PUSH 2057
+PAX 93
+TOF 9900
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

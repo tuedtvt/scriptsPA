@@ -1,0 +1,45 @@
+1. CLM
+BL767/12.VN-A568.HAN
+HUNG NGUYEN PHI (NPH1)
+
+PHILIPPE NOEL JEAN LE GALL (LPN)
+
+THANG3 VU NGOC (VNT3)
+
+TRANG12 DO MANH (DMT12)
+
+PHUONG9 DO THI KIM (DKP9)
+
+ANH41 DONG NAM (DNA41)
+
+TOAN2 LE VAN (LVTO2)
+
+----------------------------------------------------
+
+2. LDM
+BL767/12.VN-A568.HAN
+SGN 170/15/3 T/2142   1/955   2/0   3/542   4/645    5/0
+SGN  B/645  C/1496  M/0
+SI: 
+CPT1/C
+CPT3/C
+CPT4/B
+CPT5/N
+----------------------------------------------------
+
+3. MVT
+BL767/12.VN-A568.HAN
+AD 1422/1429 EA 1619 SGN
+C/L 1407
+PUSH 1422
+PAX 188
+TOF 11000
+DL: 930/940/850/0002/0005/0010
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

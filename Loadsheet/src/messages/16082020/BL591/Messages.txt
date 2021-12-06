@@ -1,0 +1,39 @@
+1. CLM
+BL591/16.VN-A577.HPH
+TJEERD SCHOUTEN (SCT)
+ SIMONE TIBURZI (TIS)
+ LIEN2 LE NGUYEN MY (LML2)
+ TRAM3 HUYNH LE NGOC (HNT3)
+ CHIEN1 NGUYEN QUANG (NQC1)
+ THU4 VAN ANH (VAT4)
+
+----------------------------------------------------
+
+2. LDM
+BL591/16.VN-A577.HPH
+SGN 160/26/02 T/3125   1/1598   2/0   3/938   4/589    5/0
+SGN  B/1598  C/1527  M/0
+SI: 
+H1/B
+H3/C
+H4/C
+H5/NIL
+----------------------------------------------------
+
+3. MVT
+BL591/16.VN-A577.HPH
+AD 1620/1647 EA 1827 SGN
+C/L 1619
+PUSH 1636
+PAX 188
+TOF 10300
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL591/16.VN-A577.HPH
+AA 1821/1831

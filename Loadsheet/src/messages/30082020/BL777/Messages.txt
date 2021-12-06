@@ -1,0 +1,47 @@
+1. CLM
+BL777/30.VN-A570.HAN
+JUAN CAMILO JARAMILLO HENAO (JCH)
+
+NAM DANG HOAI (VNDHN)
+
+QUYNH2 DANG DUC (DDQ2)
+
+AN2 TRAN NGOC THIEN (TNTA2)
+
+YEN6 NGUYEN HAI (NHY6)
+
+BINH1 PHAN THI (PTB1)
+
+LINH22 PHAN THAO (PTL22)
+
+
+----------------------------------------------------
+
+2. LDM
+BL777/30.VN-A570.HAN
+SGN 153/21/00 T/2365   1/808   2/0   3/657   4/900    5/0
+SGN  B/900  C/1465  M/00
+SI: 
+H1/C
+H3/C
+H4/B
+H5/NIL
+
+----------------------------------------------------
+
+3. MVT
+BL777/30.VN-A570.HAN
+AD 1700/1710 EA 1900 SGN
+C/L 1655
+PUSH 1700
+PAX 174
+TOF 10700
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,50 @@
+1. CLM
+BL570/20.VN-A567.SGN
+BL570/VN6442-VNA567-THD
+ARIEL ADRIAN CRUZ MENDOZA (ARC)
+
+TUAN NGUYEN QUOC (NGQT)
+
+TUAN1 LE QUOC (LQT1)
+
+HUONG3 NGUYEN THU (NTH3)
+
+HAO4 HUA GIA (HGH4)
+
+MINH2 LE NHUT (LNM2)
+
+THAO13 NGUYEN THI PHUONG
+(NPT13)
+
+----------------------------------------------------
+
+2. LDM
+BL570/20.VN-A567.SGN
+THD 140/13/05 T/1080   1/0   2/0   3/1080   4/0    5/0
+THD  B/72  C/00  M/00
+SI: 
+H1/N
+H3/B/72PCS
+H4/N
+H5/N
+
+BRGDS/H.CUONG
+----------------------------------------------------
+
+3. MVT
+BL570/20.VN-A567.SGN
+AD 1255/1310 EA 1450 THD
+C/L 1255
+PUSH 1255
+PAX 158
+TOF 7900
+DL: 630/0005---TÔ BAY ĐẾN TÀU MUỘN
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL570/20.VN-A567.SGN
+AA 1444/1451

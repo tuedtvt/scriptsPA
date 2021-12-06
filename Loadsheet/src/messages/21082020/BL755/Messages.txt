@@ -1,0 +1,46 @@
+1. CLM
+BL755/21.VN-A577.HAN
+DHARMESH KAUSHIK (KAD)
+
+NIRAJ ADHIKARI (NIA)
+
+NHUNG7 NGUYEN THI TUYET (NTN7)
+
+ANH41 DONG NAM (DNA41)
+
+TRANG10 NGUYEN THI HUYEN (NHT10)
+
+HAO2 PHAM THI MY (PMH2)
+
+
+----------------------------------------------------
+
+2. LDM
+BL755/21.VN-A577.HAN
+SGN 155/4/1 T/3097   1/1160   2/0   3/1042   4/645    5/250
+SGN  B/645  C/2452  M/0
+SI: 
+H1/C
+H3/C
+H4/B
+H5/C
+SI:
+D.HIEU
+----------------------------------------------------
+
+3. MVT
+BL755/21.VN-A577.HAN
+AD 0805/0815 EA 1005 SGN
+C/L 0802
+PUSH 0805
+PAX 160
+TOF 9400
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

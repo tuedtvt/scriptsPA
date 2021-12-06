@@ -1,0 +1,44 @@
+1. CLM
+BL757/06.VN-A560.HAN
+MOEARII RALPH MATAPO (MRM)
+
+HUY TA DUC (TDH)
+
+LIEN1 TO KIM (TKL1)
+
+NAM6 HUYNH SON (HSN6)
+
+TIEN6 NGUYEN THI THUY (NTTT6)
+
+PHUNG2 NGUYEN VAN (NVP2)
+
+----------------------------------------------------
+
+2. LDM
+BL757/06.VN-A560.HAN
+SGN 97/09/01 T/2924   1/1200   2/0   3/874   4/550    5/300
+SGN  B/450  C/2474  M/0
+SI: 
+H1/C
+H3/C
+H4/C+B
+H5/C
+BRGS NGOC ANH
+----------------------------------------------------
+
+3. MVT
+BL757/06.VN-A560.HAN
+AD 0954/1001 EA 1151 SGN
+C/L 0948
+PUSH 0954
+PAX 107
+TOF 11000
+DL: 930/0004
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

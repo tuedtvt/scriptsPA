@@ -1,0 +1,46 @@
+1. CLM
+BL790/10.VN-A573.SGN
+	
+BL790	VN6016
+DANG NGUYEN XUAN (NXD1)
+
+MINH NGUYEN TUAN (NTM)
+
+HIEN8 NGUYEN THANH (NTH8)
+
+ANH41 DONG NAM (DNA41)
+
+TRAM4 KIEU ANH (KAT4)
+
+HA8 VU THU (VTH8)
+
+----------------------------------------------------
+
+2. LDM
+BL790/10.VN-A573.SGN
+HAN 115/11/00 T/2351   1/846   2/0   3/1100   4/405    5/0
+HAN  B/405  C/1946  M/0
+SI: 
+C1/C
+C3/C
+C4/B
+C5/N
+----------------------------------------------------
+
+3. MVT
+BL790/10.VN-A573.SGN
+AD 2125/2137 EA 2337 HAN
+C/L 2125
+PUSH 2126
+PAX 126
+TOF 10000
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL790/10.VN-A573.SGN
+AA 2325/2330

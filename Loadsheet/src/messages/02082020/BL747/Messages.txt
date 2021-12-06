@@ -1,0 +1,47 @@
+1. CLM
+BL747/02.VN-A571.HAN
+DHARMESH KAUSHIK (KAD)
+
+SIMONE TIBURZI (TIS)
+
+LINH11 PHAM THUY (PTL11)
+
+VAN1 LE THANH (LTV1)
+
+TRUNG3 NGUYEN TIEN (NTT3)
+
+HUYEN6 VU THI MINH (VMH6)
+
+
+----------------------------------------------------
+
+2. LDM
+BL747/02.VN-A571.HAN
+SGN 105/13/2 T/600   1/0   2/0   3/600   4/0    5/0
+SGN  B/600  C/0  M/0
+SI: 
+H1/NIL
+H3/B
+H4/NIL
+H5/NIL
+
+BRGDS TIEN
+----------------------------------------------------
+
+3. MVT
+BL747/02.VN-A571.HAN
+AD 0455/0515 EA 0715 SGN
+C/L 0454
+PUSH 0455
+PAX 120
+TOF 10400
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL747/02.VN-A571.HAN
+AA 0656/0706

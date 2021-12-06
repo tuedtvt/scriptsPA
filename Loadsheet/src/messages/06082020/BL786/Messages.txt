@@ -1,0 +1,43 @@
+1. CLM
+BL786/06.VN-A570.SGN
+BL786	VN6014
+THUONG1 PHAM MINH (PMT1)
+
+HIEU4 NGUYEN TRONG (NGTH4)
+
+TRUNG3 NGUYEN TIEN (NTT3)
+
+HUYEN6 VU THI MINH (VMH6)
+	
+WILLIAM RAUL GARCIA MUNOZ
+(WRM)
+
+HUAN LE CONG (LCH)
+
+
+----------------------------------------------------
+
+2. LDM
+BL786/06.VN-A570.SGN
+HAN 120/18/02 T/465   1/0   2/0   3/465   4/0    5/0
+HAN  B/465  C/0  M/0
+SI: 
+
+----------------------------------------------------
+
+3. MVT
+BL786/06.VN-A570.SGN
+AD 2152/2212 EA 0012 HAN
+C/L 2152
+PUSH 2157
+PAX 140
+TOF 10300
+DL: 930/0007/770/0030 TAU MUON-THOI TIET XAU TAI SGN
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

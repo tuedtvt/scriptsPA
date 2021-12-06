@@ -1,0 +1,44 @@
+1. CLM
+BL775/19.VN-A572.HAN
+MOHAMED AFZAL AHMED (MAA)
+
+VINCENZO PARISI (PAV)
+
+ANH31 VU HOANG PHUONG (VPA31)
+
+LINH14 LE THANH MAI (LML14)
+
+HUYNH1 NGUYEN THI NHU (NNH1)
+
+DUNG6 NGUYEN THUY (NTD6)
+
+----------------------------------------------------
+
+2. LDM
+BL775/19.VN-A572.HAN
+SGN 151/15/02 T/1570   1/265   2/0   3/1125   4/180    5/0
+SGN  B/1305  C/265  M/0
+SI: 
+H1/C
+H3/B
+H4/B
+H5/NIL
+BRGS NGOC ANH
+----------------------------------------------------
+
+3. MVT
+BL775/19.VN-A572.HAN
+AD 1500/1510 EA 1700 SGN
+C/L 1455
+PUSH 1500
+PAX 168
+TOF 10600
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

@@ -1,0 +1,47 @@
+1. CLM
+BL775/01.VN-A568.HAN
+JESUS MANUEL RIVERA (JMR)
+
+HIEP NGUYEN MINH (VNNMH)
+
+THUONG1 PHAM MINH (PMT1)
+
+PHUNG3 LE QUANG (LQP3)
+
+LINH21 NGUYEN THI PHUONG(NPL21)
+
+TRANG17 PHAM THUY (PTT17)
+
+
+----------------------------------------------------
+
+2. LDM
+BL775/01.VN-A568.HAN
+SGN 114/15/4 T/900   1/0   2/0   3/900   4/0    5/0
+SGN  B/900  C/0  M/0
+SI: 
+***LDM INF***
+-CP1/N
+-CP3/B
+-CP4/N
+-CP5/NIL
+SI:
+BRGDS/DUONG
+----------------------------------------------------
+
+3. MVT
+BL775/01.VN-A568.HAN
+AD 1520/1540 EA 1738 SGN
+C/L 1507
+PUSH 1520
+PAX 133
+TOF 10800
+DL: 850/10
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

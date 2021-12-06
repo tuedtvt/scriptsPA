@@ -1,0 +1,45 @@
+1. CLM
+BL782/17.VN-A566.SGN
+BL782	VN6022
+SAVVAS PATSOURIS (SPA)
+
+CONG HOANG VIET (VNHVC)
+
+DUC1 NGUYEN ANH (NAD1)
+
+MINH2 LE NHUT (LNM2)
+
+DAT4 NGUYEN HUU (NHD4)
+
+ANH11 PHAM THUY (PTA11)
+
+----------------------------------------------------
+
+2. LDM
+BL782/17.VN-A566.SGN
+HAN 167/12/02 T/2160   1/1080   2/0   3/540   4/540    5/0
+HAN  B/540  C/1690  M/0
+SI: 
+C1/C
+C3/C
+C4/B
+C5/N
+----------------------------------------------------
+
+3. MVT
+BL782/17.VN-A566.SGN
+AD 1800/1825 EA 2025 HAN
+C/L 1800
+PUSH 1805
+PAX 181
+TOF 11800
+DL: 330/0005 THIEU TTB MAT DAT PHUC VU(3 TAU DAP TRUNG)
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL782/17.VN-A566.SGN
+AA 2012/2020

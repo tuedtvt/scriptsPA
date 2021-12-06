@@ -1,0 +1,46 @@
+1. CLM
+BL584/17.VN-A564.SGN
+JORGE ALEJANDRO PEÑA IRUN (PJA)
+
+HUNG TRAN HUU (THH)
+
+TUAN1 LE QUOC (LQT1)
+
+HAO4 HUA GIA (HGH4)
+
+LAM2 HO TUNG (HTL2)
+
+THAO13 NGUYEN THI PHUONG
+(NPT13)
+
+----------------------------------------------------
+
+2. LDM
+BL584/17.VN-A564.SGN
+HPH 120/09/04 T/945   1/0   2/0   3/945   4/0    5/0
+HPH  B/945  C/00  M/00
+SI: 
+CPT01/N
+CPT03/B
+CPT04/N
+CPT05/N
+
+----------------------------------------------------
+
+3. MVT
+BL584/17.VN-A564.SGN
+AD 0719/0735 EA 0915 HPH
+C/L 0719
+PUSH 0720
+PAX 133
+TOF 10100
+DL: 00
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL584/17.VN-A564.SGN
+AA 0914/0920

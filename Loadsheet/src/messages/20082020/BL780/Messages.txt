@@ -1,0 +1,47 @@
+1. CLM
+BL780/20.VN-A577.SGN
+ARIO TEJO CHRISTOFORUS (ART)
+
+NY BUI HOANG TON (BHTNY)
+
+HA NGUYEN DANG (NDH)
+
+DUC1 NGUYEN ANH (NAD1)
+
+LAM2 HO TUNG (HTL2)
+
+THAO12 LE NGUYEN TRUC (LTT12)
+
+TRI3 PHUNG TRONG (PHTT3)
+
+----------------------------------------------------
+
+2. LDM
+BL780/20.VN-A577.SGN
+HAN 144/09/01 T/2275   1/775   2/0   3/675   4/825    5/0
+HAN  B/825  C/1450  M/0
+SI: 
+C1/C
+C3/C
+C4/B
+C5/N
+BRGDS,MINH2
+----------------------------------------------------
+
+3. MVT
+BL780/20.VN-A577.SGN
+AD 1600/1620 EA 1820 HAN
+C/L 1600
+PUSH 1605
+PAX 154
+TOF 10100
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL780/20.VN-A577.SGN
+AA 1809/1817

@@ -1,0 +1,47 @@
+1. CLM
+BL780/16.VN-A560.SGN
+BL780/VN6010-VNA560-HAN
+SHAYE ROGAN MORLEY-HART (SRM)
+
+NHAN DAM KIEN (VNDKN)
+
+TUNG1 HOANG (HT01)
+
+LY8 NGUYEN PHUOC TON NU KHANH
+(NKL8)
+
+ANH19 NGUYEN THI THUY (NTA19)
+
+VY10 NGUYEN BUI THAO (NTV10)
+
+----------------------------------------------------
+
+2. LDM
+BL780/16.VN-A560.SGN
+HAN 114/11/05 T/690   1/0   2/0   3/690   4/0    5/0
+HAN  B/690  C/00  M/00
+SI: 
+CPT01/N
+CPT03/B
+CPT04/N
+CPT05/N
+SI: N
+--BEST REGARDS/TÂM--
+----------------------------------------------------
+
+3. MVT
+BL780/16.VN-A560.SGN
+AD 1648/1718 EA 1918 HAN
+C/L 1648
+PUSH 1659
+PAX 130
+TOF 10600
+DL: 020/0043P TÀU QUAY LẠI KHU VỰC ĐÓNG CHÈN VÌ LÝ DO KỸ THUẬT
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

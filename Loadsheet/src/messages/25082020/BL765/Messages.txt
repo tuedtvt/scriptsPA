@@ -1,0 +1,47 @@
+1. CLM
+BL765/25.VN-A577.HAN
+SAVVAS PATSOURIS (SPA)
+
+THINH TRAN CAO (VNTCT)
+
+TAM1 DANG QUANG (DQT1)
+
+NH22 BUI THI PHUONG (BPA22)
+
+NGHIA2 LE TRONG (LTN2)
+
+NGOC9 NGUYEN THI KIM (NKN9)
+
+BO1 NGUYEN TRUNG (NTB1)
+
+
+----------------------------------------------------
+
+2. LDM
+BL765/25.VN-A577.HAN
+SGN 180/05/01 T/3314   1/1073   2/0   3/831   4/1160    5/250
+SGN  B/1080  C/2234  M/00
+SI: 
+H1/C
+H3/C
+H4/C+B
+H5/C
+----------------------------------------------------
+
+3. MVT
+BL765/25.VN-A577.HAN
+AD 1130/1140 EA 1330 SGN
+C/L 1129
+PUSH 1130
+PAX 186
+TOF 10600
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL765/25.VN-A577.HAN
+AA 1322/1332

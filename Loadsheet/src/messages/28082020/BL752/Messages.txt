@@ -1,0 +1,47 @@
+1. CLM
+BL752/28.VN-A577.SGN
+ARIEL ADRIAN CRUZ MENDOZA (ARC)
+
+NHAN HUYNH NGUYEN PHUC (HNPN)
+
+TUNG1 HOANG (HT01)
+
+LIEN2 LE NGUYEN MY (LML2)
+
+GIANG5 NGUYEN THI HUONG (NHG5)
+
+ANH42 NGUYEN TUAN (NTA42)
+
+NGA3 TRAN THI ANH (TAN3)
+
+----------------------------------------------------
+
+2. LDM
+BL752/28.VN-A577.SGN
+HAN 131/15/04 T/2050   1/1030   2/0   3/0   4/1020    5/0
+HAN  B/1020  C/1030  M/00
+SI: 
+--CPT01/C   
+--CPT03/N   
+--CPT04/B   
+--CPT05/N   
+REGARDS/QUANG
+----------------------------------------------------
+
+3. MVT
+BL752/28.VN-A577.SGN
+AD 0835/0848 EA 1045 HAN
+C/L 0835
+PUSH 0836
+PAX 150
+TOF 8800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL752/28.VN-A577.SGN
+AA 1030/1037

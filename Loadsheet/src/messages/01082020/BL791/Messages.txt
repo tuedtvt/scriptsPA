@@ -1,0 +1,47 @@
+1. CLM
+BL791/01.VN-A572.HAN
+HUY NGUYEN DANG (VNNDH)
+
+MANUEL HORST EWALD FINGER
+(FME)
+
+HANG6 DO THI THU (DTH6)
+
+NGOC6 LE THI BICH (LBN6)
+
+LINH14 LE THANH MAI (LML14)
+
+TRAN4 LOC THUY MAI (LMT4)
+
+----------------------------------------------------
+
+2. LDM
+BL791/01.VN-A572.HAN
+SGN 141/18/0 T/1862   1/797   2/0   3/600   4/465    5/0
+SGN  B/1065  C/797  M/0
+SI: 
+***LDM INF***
+-CP1/C
+-CP3/B
+-CP4/B
+-CP5/NIL
+SI:
+BRGDS/DUONG
+----------------------------------------------------
+
+3. MVT
+BL791/01.VN-A572.HAN
+AD 2030/2045 EA 2243 SGN
+C/L 2026
+PUSH 2030
+PAX 159
+TOF 9800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

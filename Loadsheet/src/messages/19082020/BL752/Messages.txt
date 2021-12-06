@@ -1,0 +1,45 @@
+1. CLM
+BL752/19.VN-A566.SGN
+WILLIAM RAUL GARCIA MUNOZ (WRM)
+
+TAI HUYNH HUU (HHT)
+
+KIM1 DOAN THI THIEN (DTK1)
+
+LUAN2 HUYNH NGOC (HNL2)
+
+VI11 NGUYEN THAI (NTV11)
+
+HUY7 TRAN KIM (TKH7)
+
+NGUYEN NGOC DUC
+----------------------------------------------------
+
+2. LDM
+BL752/19.VN-A566.SGN
+HAN 136/8/3 T/1655   1/890   2/0   3/0   4/765    5/0
+HAN  B/765  C/890  M/0
+SI: 
+H1/C
+H3/N
+H4/B
+H5/N
+SI:
+----------------------------------------------------
+
+3. MVT
+BL752/19.VN-A566.SGN
+AD 0830/0842 EA 1040 HAN
+C/L 0830
+PUSH 0832
+PAX 147
+TOF 9996
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+MVA not input

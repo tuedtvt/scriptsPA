@@ -1,0 +1,45 @@
+1. CLM
+BL752/25.VN-A570.SGN
+DANG NGUYEN XUAN (NXD1)
+
+NHUT TRUONG MINH (TMN)
+
+BAO2 TRAN QUOC (TQB2)
+
+LUAN2 HUYNH NGOC (HNL2)
+
+TRANG18 NGUYEN THUY (NTT18)
+
+TOAN4 VO NGUYEN TIEN (VTT4)
+
+----------------------------------------------------
+
+2. LDM
+BL752/25.VN-A570.SGN
+HAN 152/07/02 T/1965   1/1065   2/0   3/0   4/900    5/0
+HAN  B/900  C/1065  M/00
+SI: 
+--CPT01/C   
+--CPT03/N   
+--CPT04/B   
+--CPT05/N   
+REGARSD/QUANG
+----------------------------------------------------
+
+3. MVT
+BL752/25.VN-A570.SGN
+AD 0833/0845 EA 1045 HAN
+C/L 0833
+PUSH 0835
+PAX 161
+TOF 9800
+DL: 
+----------------------------------------------------
+
+4. PSM
+PSM not input
+----------------------------------------------------
+
+5. MVA
+BL752/25.VN-A570.SGN
+AA 1035/1041
