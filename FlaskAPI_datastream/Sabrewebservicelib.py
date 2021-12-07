@@ -32,7 +32,7 @@ def gettoken():
     Password = ''
     Organization = 'VN'
     url = "https://webservices.havail.sabre.com"
-    xml = "";
+    xml = "password";
     xml += "<soap-env:Envelope xmlns:soap-env=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:eb=\"http://www.ebxml.org/namespaces/messageHeader\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsd=\"http://www.w3.org/1999/XMLSchema\">";
     xml += "   <soap-env:Header>";
     xml += "      <eb:MessageHeader soap-env:mustUnderstand=\"1\" eb:version=\"1.0\">";

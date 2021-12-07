@@ -27,7 +27,7 @@ else:
 
 def gettoken(): 
     User_Name = '600666'
-    Password = ''
+    Password = 'password'
     Organization = 'VN'
     url = "https://webservices.havail.sabre.com"
     xml = "";
